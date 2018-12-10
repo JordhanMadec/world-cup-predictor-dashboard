@@ -1,0 +1,15 @@
+header.home-header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/images/header.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white
+}
+
+header.home-header h1 {
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
