@@ -56,8 +56,23 @@ header.dashboard-header .mdl-layout__header-row {
     text-shadow: 8px 8px 0px rgba(255,82,82,.5), 16px 16px 0px rgba(255,82,82,.3);
 }
 
+.predictions-list {
+    margin-bottom: 50px;
+    padding: 0;
+    border-top: solid 1px #DDD;
+}
+
+.predictions-list .mdl-list__item-secondary-info {
+    font-size: 15px !important;
+}
+
+.predictions-list .mdl-list__item {
+    border-bottom: solid 1px #DDD;
+}
+
 .how-is-it-done {
-    width: 100%;
+    width: 70%;
+    margin: 50px auto;
 }
 
 .how-is-it-done > .mdl-card__title {
