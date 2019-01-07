@@ -12,6 +12,7 @@ header.dashboard-header {
 header.dashboard-header .mdl-layout__header-row {
     padding: 100px 0;
     justify-content: center;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 
 .tabs-wrapper {
@@ -26,6 +27,7 @@ header.dashboard-header .mdl-layout__header-row {
     border-bottom: 4px solid transparent;
     transition: .3s;
     cursor: pointer;
+    font-size: 20px;
 }
 
 .tab.selected {
@@ -38,4 +40,36 @@ header.dashboard-header .mdl-layout__header-row {
 
 #stats-section {
     display: none;
+}
+
+.predictions-table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.predictions-table th {
+    font-size: 20px;
+}
+
+.panel-title {
+    color: rgb(255,82,82);
+    text-shadow: 8px 8px 0px rgba(255,82,82,.5), 16px 16px 0px rgba(255,82,82,.3);
+}
+
+.how-is-it-done {
+    width: 100%;
+}
+
+.how-is-it-done > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('https://images.unsplash.com/photo-1495291916458-c12f594151e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80') center / cover;
+}
+.how-is-it-done > .mdl-card__menu {
+    color: #fff;
+}
+
+.how-is-it-done > .mdl-card__supporting-text {
+    font-size: 18px;
+    padding: 30px 20px;
 }

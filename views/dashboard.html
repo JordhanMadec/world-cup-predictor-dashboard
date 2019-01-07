@@ -6,7 +6,8 @@
 
     <!-- Material Design Lite -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.green-red.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Kanit:600,800" rel="stylesheet">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.red-green.min.css" />
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 
     <link rel="stylesheet" href="../styles/main.css">
@@ -31,7 +32,86 @@
     <section class="tab-section" id="predictions-section">
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--12-col">
-                <h1>Predictions</h1>
+                <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+                    <div class="mdl-tabs__tab-bar">
+                        <a href="#panel-1994" class="mdl-tabs__tab is-active">1994</a>
+                        <a href="#panel-1998" class="mdl-tabs__tab">1998</a>
+                        <a href="#panel-2002" class="mdl-tabs__tab">2002</a>
+                        <a href="#panel-2006" class="mdl-tabs__tab">2006</a>
+                        <a href="#panel-2010" class="mdl-tabs__tab">2010</a>
+                        <a href="#panel-2014" class="mdl-tabs__tab">2014</a>
+                        <a href="#panel-2018" class="mdl-tabs__tab">2018</a>
+                    </div>
+
+                    <div class="mdl-tabs__panel is-active" id="panel-1994">
+                        <h1 class="panel-title">1994</h1>
+
+                        <ul class="demo-list-icon mdl-list">
+                            <li class="mdl-list__item">
+                                <span class="mdl-list__item-primary-content">
+                                    <i class="material-icons mdl-list__item-icon">star</i>
+                                    Bryan Cranston
+                                </span>
+                                <span class="mdl-list__item-secondary-content">
+                                  <span class="mdl-list__item-secondary-info">99.7776</span>
+                                </span>
+                            </li>
+                            <li class="mdl-list__item">
+                                <span class="mdl-list__item-primary-content">
+                                    <i class="material-icons mdl-list__item-icon">whatshot</i>
+                                    Aaron Paul
+                                </span>
+                                <span class="mdl-list__item-secondary-content">
+                                  <span class="mdl-list__item-secondary-info">99.5496</span>
+                                </span>
+                            </li>
+                            <li class="mdl-list__item">
+                                <span class="mdl-list__item-primary-content">
+                                    <i class="material-icons mdl-list__item-icon"></i>
+                                    Bob Odenkirk
+                              </span>
+                                <span class="mdl-list__item-secondary-content">
+                                  <span class="mdl-list__item-secondary-info">65.7086</span>
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-1998">
+                        <h1 class="panel-title">1998</h1>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-2002">
+                        <h1 class="panel-title">2002</h1>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-2006">
+                        <h1 class="panel-title">2006</h1>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-2010">
+                        <h1 class="panel-title">2010</h1>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-2014">
+                        <h1 class="panel-title">2014</h1>
+                    </div>
+                    <div class="mdl-tabs__panel" id="panel-2018">
+                        <h1 class="panel-title">2018</h1>
+                    </div>
+                </div>
+
+
+
+                <div class="demo-card-wide mdl-card mdl-shadow--2dp how-is-it-done">
+                    <div class="mdl-card__title">
+                        <h1 class="mdl-card__title-text">How is it done ?</h1>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        To determine the favorites for an edition, we have built a profile for each and every single team in the world. This profile is based uppon
+                        several criterias such the number of wins, the number of goals scored or the FIFA rank for example. These profiles are then compared to the
+                        of the typical winner which is defined as the average profile of every single historic winner. The favorites for an edition are the teams
+                        with the closer profile to the winner profile.
+                    </div>
+                    <div class="mdl-card__menu">
+                        <i class="material-icons">help_outline</i>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -48,12 +128,9 @@
 </div>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="../js/dashboard.js"></script>
+<script src="https://unpkg.com/chart.js@2.7.3/dist/Chart.min.js"></script>
+<script src="../js/chart.js"></script>
+<script src="../js/data.js"></script><script type="text/javascript" src="../js/dashboard.js"></script>
 
 </body>
 </html>
-
-
-<script src="https://unpkg.com/chart.js@2.7.3/dist/Chart.min.js"></script>
-<script src="js/chart.js"></script>
-<script src="js/data.js"></script>
