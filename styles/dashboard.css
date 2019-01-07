@@ -1,8 +1,41 @@
 header.dashboard-header {
-    color: white;
-    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/images/header.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white
 }
 
 header.dashboard-header .mdl-layout__header-row {
+    padding: 100px 0;
     justify-content: center;
+}
+
+.tabs-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.tab {
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    border-bottom: 4px solid transparent;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.tab.selected {
+    border-color: rgb(255,82,82);
+}
+
+.tab:hover {
+    background-color: rgba(255,255,255,.2);
+}
+
+#stats-section {
+    display: none;
 }

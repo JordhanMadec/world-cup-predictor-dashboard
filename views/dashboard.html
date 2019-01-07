@@ -17,16 +17,26 @@
 <div class="mdl-layout mdl-js-layout">
 <header class="mdl-layout__header dashboard-header">
     <div class="mdl-layout__header-row">
-        <h4>And the winer is...</h4>
+        <h1>FIFA World Cup Predictor</h1>
     </div>
-    <div class="mdl-layout__header-row">
-        <h1>Brazil !</h1>
+
+    <div class="tabs-wrapper">
+        <div class="tab selected">Predictions</div>
+        <div class="tab">Stats</div>
     </div>
 </header>
 
 <main class="mdl-layout__content">
 <div class="page-content">
-    <section>
+    <section class="tab-section" id="predictions-section">
+        <div class="mdl-grid">
+            <div class="mdl-cell mdl-cell--12-col">
+                <h1>Predictions</h1>
+            </div>
+        </div>
+    </section>
+
+    <section class="tab-section" id="stats-section">
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--12-col">
                 <h1>Some stats</h1>
@@ -36,5 +46,9 @@
 </div>
 </main>
 </div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="../js/dashboard.js"></script>
+
 </body>
 </html>
