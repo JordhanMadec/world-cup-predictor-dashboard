@@ -3,6 +3,10 @@ h1, h2 {
     letter-spacing: 3px;
 }
 
+header {
+    background-color: rgb(123, 181, 196) !important;
+}
+
 header.home-header {
     height: 100vh;
     display: flex;
