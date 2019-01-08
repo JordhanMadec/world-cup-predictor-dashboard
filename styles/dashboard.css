@@ -38,6 +38,14 @@ header.dashboard-header .mdl-layout__header-row {
     background-color: rgba(255,255,255,.2);
 }
 
+.mdl-tabs__tab-bar {
+    border-bottom: none;
+}
+
+.mdl-tabs__panel {
+    display: none;
+}
+
 #stats-section {
     display: none;
 }
@@ -87,4 +95,5 @@ header.dashboard-header .mdl-layout__header-row {
 .how-is-it-done > .mdl-card__supporting-text {
     font-size: 18px;
     padding: 30px 20px;
+    line-height: 30px;
 }

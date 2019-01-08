@@ -31,3 +31,17 @@ header.home-header h3 {
     width: 100px;
     background-color: rgb(255,82,82);
 }
+
+@media (min-width: 840px) {
+    .mdl-grid {
+        padding: 8px 32px;
+    }
+}
+
+.red-text {
+    color: rgb(255,82,82);
+}
+
+.text-center {
+    text-align: center;
+}
