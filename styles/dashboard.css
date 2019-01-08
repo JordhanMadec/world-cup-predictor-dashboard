@@ -3,14 +3,14 @@ header.dashboard-header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("../assets/images/header.jpg");
+    background-image: url("../assets/images/header-mini.jpg");
     background-position: center;
     background-size: cover;
     color: white
 }
 
 header.dashboard-header .mdl-layout__header-row {
-    padding: 100px 0;
+    padding: 70px 0;
     justify-content: center;
     text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
@@ -135,17 +135,48 @@ footer .credits .material-icons {
 
 .perfect-champion-stats {
     display: flex;
+    text-align: center;
 }
 
 .perfect-champion-stats > div {
     flex: 1;
     text-align: center;
+    padding: 0 15px;
 }
 
-.perfect-champion-stats > div > h2 {
+.perfect-champion-stats h2 {
     text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 
 .stats-container {
     margin-bottom: 100px;
+}
+
+.perfect-champion-stats#rank-container {
+flex-direction: column;
+}
+
+.rank-stats-container {
+    display: flex;
+    align-items: end;
+}
+
+.rank-stats-container > div {
+    margin-top: 50px;
+    flex: 1;
+    font-family: 'Kanit';
+    font-size: 30px;
+    color: #555;
+}
+
+.number-stat {
+    color: rgb(255,82,82);
+    text-shadow: 8px 8px 0px rgba(255,82,82,.5), 16px 16px 0px rgba(255,82,82,.3);
+    font-family: 'Kanit';
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+.number-stat > span {
+    font-size: 150px;
 }
