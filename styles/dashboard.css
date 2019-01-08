@@ -59,12 +59,6 @@ header.dashboard-header .mdl-layout__header-row {
     font-size: 20px;
 }
 
-.panel-title {
-    color: rgb(255,82,82);
-    text-align: center;
-    text-shadow: 8px 8px 0px rgba(255,82,82,.5), 16px 16px 0px rgba(255,82,82,.3);
-}
-
 .predictions-list {
     margin-bottom: 50px;
     padding: 0;
@@ -126,4 +120,17 @@ footer h1 {
     max-width: 400px;
     filter: brightness(0) invert(1);
     opacity: .8;
+}
+
+.perfect-champion-stats {
+    display: flex;
+}
+
+.perfect-champion-stats > div {
+    flex: 1;
+    text-align: center;
+}
+
+.perfect-champion-stats > div > h2 {
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
