@@ -1,3 +1,7 @@
+p {
+    font-size: 17px;
+}
+
 h1, h2 {
     font-family: 'Kanit';
     letter-spacing: 3px;
@@ -53,7 +57,7 @@ header.home-header h3 {
 footer {
     background: rgb(255,82,82);
     color: white;
-    padding: 64px 32px;
+    padding: 32px;
 }
 
 .section-title {
