@@ -45,3 +45,9 @@ header.home-header h3 {
 .text-center {
     text-align: center;
 }
+
+footer {
+    background: rgb(255,82,82);
+    color: white;
+    padding: 64px 32px;
+}
