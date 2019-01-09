@@ -67,16 +67,17 @@ var winnerGoalsChart = new Chart(winnerGoalsElem, {
 });
 
 
-var winnerFinalsElem = document.getElementById("winner_finals").getContext('2d');
+var winnerHistoryElem = document.getElementById("winner_history").getContext('2d');
 
-var winnerFinalsChart = new Chart(winnerFinalsElem, {
+var winnerHistoryChart = new Chart(winnerHistoryElem, {
     type: 'bar',
     data: {
-        labels: ["Played", "Won"],
+        labels: ["Semi-Finals", "Finals", "Victory"],
         datasets: [{
-            data: [2.65, 1.5],
+            data: [3.2, 2.65, 1.5],
             backgroundColor: [
                 'rgba(0, 0, 0, .2)',
+                'rgba(123, 181, 196, .8)',
                 'rgba(242, 190, 84, .8)'
             ],
         }]
