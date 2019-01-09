@@ -3,7 +3,7 @@ var EDITIONS_WITH_RANK = [ 1994, 1998, 2002, 2006, 2010, 2014, 2018 ];
 
 function fillPredictionsTables(edition) {
     i = 1;
-    var threshold = 97;
+    var threshold = 95;
 
     getPredictions(edition).forEach( function (prediction) {
 
