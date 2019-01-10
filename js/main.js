@@ -55,5 +55,5 @@ function fillPredictionsTables(edition) {
 $(document).ready(function () {
     EDITIONS_WITH_RANK.forEach(function (edition) {
         fillPredictionsTables(edition);
-    })
+    });
 })

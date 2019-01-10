@@ -47,7 +47,7 @@ var predictionsData = [
     {
         "team": "Argentina",
         "edition": 2010,
-        "score": 0.9864571368335175
+        "score": 0.9864571368335173
     },
     {
         "team": "Germany",
@@ -142,7 +142,7 @@ var predictionsData = [
     {
         "team": "Italy",
         "edition": 2014,
-        "score": 0.9361382851562916
+        "score": 0.9361382851562915
     },
     {
         "team": "France",
@@ -262,7 +262,7 @@ var predictionsData = [
     {
         "team": "Croatia",
         "edition": 2010,
-        "score": 0.9040082396160298
+        "score": 0.9040082396160297
     },
     {
         "team": "Spain",
@@ -312,7 +312,7 @@ var predictionsData = [
     {
         "team": "Croatia",
         "edition": 2014,
-        "score": 0.9018719797815379
+        "score": 0.9018719797815378
     },
     {
         "team": "Portugal",
@@ -372,7 +372,7 @@ var predictionsData = [
     {
         "team": "Poland",
         "edition": 2002,
-        "score": 0.8967429350851003
+        "score": 0.8967429350851002
     },
     {
         "team": "Spain",
@@ -412,7 +412,7 @@ var predictionsData = [
     {
         "team": "Fiji",
         "edition": 2002,
-        "score": 0.8930415206288275
+        "score": 0.8930415206288274
     },
     {
         "team": "Denmark",
@@ -487,7 +487,7 @@ var predictionsData = [
     {
         "team": "Korea Republic",
         "edition": 2018,
-        "score": 0.891647058359878
+        "score": 0.8916470583598779
     },
     {
         "team": "Vietnam",
@@ -522,7 +522,7 @@ var predictionsData = [
     {
         "team": "Nigeria",
         "edition": 2006,
-        "score": 0.891038105461442
+        "score": 0.8910381054614419
     },
     {
         "team": "Algeria",
@@ -532,7 +532,7 @@ var predictionsData = [
     {
         "team": "Uganda",
         "edition": 2010,
-        "score": 0.8909857230603219
+        "score": 0.8909857230603218
     },
     {
         "team": "Mexico",
@@ -622,7 +622,7 @@ var predictionsData = [
     {
         "team": "Switzerland",
         "edition": 2018,
-        "score": 0.8890769913154212
+        "score": 0.8890769913154211
     },
     {
         "team": "Ethiopia",
@@ -662,7 +662,7 @@ var predictionsData = [
     {
         "team": "Norway",
         "edition": 1998,
-        "score": 0.8884077330932224
+        "score": 0.8884077330932223
     },
     {
         "team": "Palestine",
@@ -757,7 +757,7 @@ var predictionsData = [
     {
         "team": "Kazakhstan",
         "edition": 2002,
-        "score": 0.8870162224310977
+        "score": 0.8870162224310976
     },
     {
         "team": "Mali",
@@ -912,7 +912,7 @@ var predictionsData = [
     {
         "team": "Tunisia",
         "edition": 2002,
-        "score": 0.8846277294350964
+        "score": 0.8846277294350963
     },
     {
         "team": "USA",
@@ -937,7 +937,7 @@ var predictionsData = [
     {
         "team": "Korea Republic",
         "edition": 1994,
-        "score": 0.8843162461679271
+        "score": 0.884316246167927
     },
     {
         "team": "Kuwait",
@@ -967,7 +967,7 @@ var predictionsData = [
     {
         "team": "Fiji",
         "edition": 2006,
-        "score": 0.8838236091618803
+        "score": 0.8838236091618802
     },
     {
         "team": "Australia",
@@ -1122,7 +1122,7 @@ var predictionsData = [
     {
         "team": "Syria",
         "edition": 2018,
-        "score": 0.8809751429166396
+        "score": 0.8809751429166395
     },
     {
         "team": "Israel",
@@ -1137,7 +1137,7 @@ var predictionsData = [
     {
         "team": "Zimbabwe",
         "edition": 2002,
-        "score": 0.8805172925532785
+        "score": 0.8805172925532784
     },
     {
         "team": "Romania",
@@ -1217,7 +1217,7 @@ var predictionsData = [
     {
         "team": "Fiji",
         "edition": 1998,
-        "score": 0.8778126278354177
+        "score": 0.8778126278354176
     },
     {
         "team": "Ukraine",
@@ -1237,7 +1237,7 @@ var predictionsData = [
     {
         "team": "Romania",
         "edition": 1994,
-        "score": 0.877549737223744
+        "score": 0.8775497372237439
     },
     {
         "team": "Iraq",
@@ -1307,7 +1307,7 @@ var predictionsData = [
     {
         "team": "Scotland",
         "edition": 1998,
-        "score": 0.8758231865205321
+        "score": 0.875823186520532
     },
     {
         "team": "Colombia",
@@ -1497,7 +1497,7 @@ var predictionsData = [
     {
         "team": "Congo DR",
         "edition": 2018,
-        "score": 0.8714351047430112
+        "score": 0.8714351047430111
     },
     {
         "team": "Mexico",
@@ -1557,12 +1557,12 @@ var predictionsData = [
     {
         "team": "Angola",
         "edition": 2002,
-        "score": 0.8691859049698393
+        "score": 0.8691859049698392
     },
     {
         "team": "Fiji",
         "edition": 2010,
-        "score": 0.86912522114369
+        "score": 0.8691252211436898
     },
     {
         "team": "Thailand",
@@ -1757,7 +1757,7 @@ var predictionsData = [
     {
         "team": "Maldives",
         "edition": 2010,
-        "score": 0.8630043615616739
+        "score": 0.8630043615616738
     },
     {
         "team": "Mozambique",
@@ -1792,7 +1792,7 @@ var predictionsData = [
     {
         "team": "Zambia",
         "edition": 2010,
-        "score": 0.8618746853699011
+        "score": 0.861874685369901
     },
     {
         "team": "Ecuador",
@@ -1837,7 +1837,7 @@ var predictionsData = [
     {
         "team": "Cuba",
         "edition": 2002,
-        "score": 0.8609622266441729
+        "score": 0.8609622266441728
     },
     {
         "team": "Guinea",
@@ -1847,7 +1847,7 @@ var predictionsData = [
     {
         "team": "Uzbekistan",
         "edition": 2018,
-        "score": 0.8608633460707376
+        "score": 0.8608633460707374
     },
     {
         "team": "Gabon",
@@ -1887,7 +1887,7 @@ var predictionsData = [
     {
         "team": "Canada",
         "edition": 2002,
-        "score": 0.8603047276399375
+        "score": 0.8603047276399374
     },
     {
         "team": "Gabon",
@@ -1902,7 +1902,7 @@ var predictionsData = [
     {
         "team": "Korea DPR",
         "edition": 2014,
-        "score": 0.8599732637859069
+        "score": 0.8599732637859068
     },
     {
         "team": "Paraguay",
@@ -1927,7 +1927,7 @@ var predictionsData = [
     {
         "team": "Sierra Leone",
         "edition": 1994,
-        "score": 0.8591904132587787
+        "score": 0.8591904132587785
     },
     {
         "team": "Uruguay",
@@ -2042,7 +2042,7 @@ var predictionsData = [
     {
         "team": "Serbia",
         "edition": 2018,
-        "score": 0.8550399509339616
+        "score": 0.8550399509339615
     },
     {
         "team": "Kenya",
@@ -2292,7 +2292,7 @@ var predictionsData = [
     {
         "team": "Austria",
         "edition": 2006,
-        "score": 0.8446944214993598
+        "score": 0.8446944214993597
     },
     {
         "team": "Suriname",
@@ -2357,7 +2357,7 @@ var predictionsData = [
     {
         "team": "Austria",
         "edition": 2002,
-        "score": 0.8421866723039992
+        "score": 0.8421866723039991
     },
     {
         "team": "Uruguay",
@@ -2367,7 +2367,7 @@ var predictionsData = [
     {
         "team": "Trinidad and Tobago",
         "edition": 2014,
-        "score": 0.8417672854413845
+        "score": 0.8417672854413842
     },
     {
         "team": "Vietnam",
@@ -2402,7 +2402,7 @@ var predictionsData = [
     {
         "team": "Jordan",
         "edition": 2018,
-        "score": 0.8410592669376169
+        "score": 0.8410592669376168
     },
     {
         "team": "Bulgaria",
@@ -2412,7 +2412,7 @@ var predictionsData = [
     {
         "team": "Panama",
         "edition": 2018,
-        "score": 0.8408349539253824
+        "score": 0.8408349539253823
     },
     {
         "team": "Mali",
@@ -2447,7 +2447,7 @@ var predictionsData = [
     {
         "team": "New Zealand",
         "edition": 2002,
-        "score": 0.839744223689307
+        "score": 0.8397442236893069
     },
     {
         "team": "Paraguay",
@@ -2457,7 +2457,7 @@ var predictionsData = [
     {
         "team": "Thailand",
         "edition": 2014,
-        "score": 0.8389270232162652
+        "score": 0.8389270232162651
     },
     {
         "team": "Iraq",
@@ -2472,7 +2472,7 @@ var predictionsData = [
     {
         "team": "Iraq",
         "edition": 2018,
-        "score": 0.8383832732929959
+        "score": 0.8383832732929958
     },
     {
         "team": "Greece",
@@ -2542,7 +2542,7 @@ var predictionsData = [
     {
         "team": "Angola",
         "edition": 2010,
-        "score": 0.8358526853463979
+        "score": 0.8358526853463978
     },
     {
         "team": "Honduras",
@@ -2572,7 +2572,7 @@ var predictionsData = [
     {
         "team": "Burkina Faso",
         "edition": 1994,
-        "score": 0.8348582573564367
+        "score": 0.8348582573564366
     },
     {
         "team": "Iraq",
@@ -2580,13 +2580,13 @@ var predictionsData = [
         "score": 0.8344906971653758
     },
     {
-        "team": "Aruba",
-        "edition": 2018,
+        "team": "Gambia",
+        "edition": 2010,
         "score": 0.8344623490082738
     },
     {
-        "team": "Gambia",
-        "edition": 2010,
+        "team": "Aruba",
+        "edition": 2018,
         "score": 0.8344623490082738
     },
     {
@@ -2607,7 +2607,7 @@ var predictionsData = [
     {
         "team": "Uruguay",
         "edition": 1998,
-        "score": 0.8323067190474631
+        "score": 0.832306719047463
     },
     {
         "team": "Indonesia",
@@ -2677,7 +2677,7 @@ var predictionsData = [
     {
         "team": "Costa Rica",
         "edition": 1998,
-        "score": 0.8304776099627593
+        "score": 0.8304776099627592
     },
     {
         "team": "Congo DR",
@@ -2737,7 +2737,7 @@ var predictionsData = [
     {
         "team": "Burkina Faso",
         "edition": 2014,
-        "score": 0.827933193164131
+        "score": 0.8279331931641309
     },
     {
         "team": "Guatemala",
@@ -2767,17 +2767,17 @@ var predictionsData = [
     {
         "team": "Yemen",
         "edition": 2002,
-        "score": 0.8273069564056675
+        "score": 0.8273069564056674
     },
     {
         "team": "Trinidad and Tobago",
         "edition": 2006,
-        "score": 0.8267324787040721
+        "score": 0.826732478704072
     },
     {
         "team": "Saudi Arabia",
         "edition": 2014,
-        "score": 0.8266263003675578
+        "score": 0.8266263003675577
     },
     {
         "team": "Northern Ireland",
@@ -2807,7 +2807,7 @@ var predictionsData = [
     {
         "team": "Barbados",
         "edition": 2006,
-        "score": 0.8246815254517245
+        "score": 0.8246815254517244
     },
     {
         "team": "Hong Kong",
@@ -2837,7 +2837,7 @@ var predictionsData = [
     {
         "team": "Finland",
         "edition": 2014,
-        "score": 0.8232786528985915
+        "score": 0.8232786528985914
     },
     {
         "team": "Antigua and Barbuda",
@@ -2862,7 +2862,7 @@ var predictionsData = [
     {
         "team": "Scotland",
         "edition": 2010,
-        "score": 0.8218347011260879
+        "score": 0.8218347011260878
     },
     {
         "team": "Chile",
@@ -2912,7 +2912,7 @@ var predictionsData = [
     {
         "team": "Singapore",
         "edition": 2010,
-        "score": 0.8201966137330776
+        "score": 0.8201966137330775
     },
     {
         "team": "Lithuania",
@@ -2942,7 +2942,7 @@ var predictionsData = [
     {
         "team": "Dominican Republic",
         "edition": 2002,
-        "score": 0.8190815986341033
+        "score": 0.8190815986341032
     },
     {
         "team": "Suriname",
@@ -2992,7 +2992,7 @@ var predictionsData = [
     {
         "team": "Oman",
         "edition": 2002,
-        "score": 0.8153495989134433
+        "score": 0.8153495989134432
     },
     {
         "team": "Syria",
@@ -3007,12 +3007,12 @@ var predictionsData = [
     {
         "team": "Serbia",
         "edition": 2006,
-        "score": 0.8145849081366413
+        "score": 0.8145849081366412
     },
     {
         "team": "Ethiopia",
         "edition": 2010,
-        "score": 0.8142166846929894
+        "score": 0.8142166846929892
     },
     {
         "team": "Albania",
@@ -3032,7 +3032,7 @@ var predictionsData = [
     {
         "team": "Canada",
         "edition": 1994,
-        "score": 0.8133410306497196
+        "score": 0.8133410306497195
     },
     {
         "team": "Honduras",
@@ -3052,7 +3052,7 @@ var predictionsData = [
     {
         "team": "Albania",
         "edition": 2014,
-        "score": 0.8125791592595584
+        "score": 0.8125791592595583
     },
     {
         "team": "Haiti",
@@ -3077,7 +3077,7 @@ var predictionsData = [
     {
         "team": "Korea DPR",
         "edition": 2006,
-        "score": 0.8113868996985946
+        "score": 0.8113868996985945
     },
     {
         "team": "Ecuador",
@@ -3117,7 +3117,7 @@ var predictionsData = [
     {
         "team": "Palestine",
         "edition": 2014,
-        "score": 0.8088391598915098
+        "score": 0.8088391598915097
     },
     {
         "team": "Turkmenistan",
@@ -3217,17 +3217,17 @@ var predictionsData = [
     {
         "team": "Bahrain",
         "edition": 2014,
-        "score": 0.8027210097947732
+        "score": 0.8027210097947731
     },
     {
         "team": "Singapore",
         "edition": 1994,
-        "score": 0.8025705076965804
+        "score": 0.8025705076965803
     },
     {
         "team": "Singapore",
         "edition": 2002,
-        "score": 0.8022245969270436
+        "score": 0.8022245969270435
     },
     {
         "team": "Panama",
@@ -3262,12 +3262,12 @@ var predictionsData = [
     {
         "team": "Rwanda",
         "edition": 2010,
-        "score": 0.8001305253596711
+        "score": 0.800130525359671
     },
     {
         "team": "El Salvador",
         "edition": 2014,
-        "score": 0.8001055738690904
+        "score": 0.8001055738690903
     },
     {
         "team": "Tajikistan",
@@ -3287,7 +3287,7 @@ var predictionsData = [
     {
         "team": "Zimbabwe",
         "edition": 2010,
-        "score": 0.7982563217289198
+        "score": 0.7982563217289197
     },
     {
         "team": "Bermuda",
@@ -3297,7 +3297,7 @@ var predictionsData = [
     {
         "team": "Antigua and Barbuda",
         "edition": 2018,
-        "score": 0.7982090003483862
+        "score": 0.798209000348386
     },
     {
         "team": "Thailand",
@@ -3342,7 +3342,7 @@ var predictionsData = [
     {
         "team": "Singapore",
         "edition": 1998,
-        "score": 0.7963073368452558
+        "score": 0.7963073368452557
     },
     {
         "team": "Puerto Rico",
@@ -3397,17 +3397,17 @@ var predictionsData = [
     {
         "team": "Congo DR",
         "edition": 2010,
-        "score": 0.7939771904545062
+        "score": 0.7939771904545061
     },
     {
         "team": "Chad",
         "edition": 2002,
-        "score": 0.7939771904545062
+        "score": 0.7939771904545061
     },
     {
         "team": "New Zealand",
         "edition": 2006,
-        "score": 0.792885229168496
+        "score": 0.7928852291684959
     },
     {
         "team": "Iceland",
@@ -3432,7 +3432,7 @@ var predictionsData = [
     {
         "team": "Greece",
         "edition": 2018,
-        "score": 0.7916925036970403
+        "score": 0.7916925036970401
     },
     {
         "team": "Honduras",
@@ -3482,7 +3482,7 @@ var predictionsData = [
     {
         "team": "Israel",
         "edition": 1998,
-        "score": 0.7890869251784877
+        "score": 0.7890869251784876
     },
     {
         "team": "Samoa",
@@ -3507,7 +3507,7 @@ var predictionsData = [
     {
         "team": "Solomon Islands",
         "edition": 2018,
-        "score": 0.7876582822185147
+        "score": 0.7876582822185146
     },
     {
         "team": "Philippines",
@@ -3517,7 +3517,7 @@ var predictionsData = [
     {
         "team": "Tahiti",
         "edition": 2014,
-        "score": 0.7861795806538981
+        "score": 0.786179580653898
     },
     {
         "team": "Georgia",
@@ -3562,12 +3562,12 @@ var predictionsData = [
     {
         "team": "Congo",
         "edition": 2002,
-        "score": 0.783246286665569
+        "score": 0.7832462866655688
     },
     {
         "team": "Ukraine",
         "edition": 1994,
-        "score": 0.7829763519925288
+        "score": 0.7829763519925287
     },
     {
         "team": "Slovenia",
@@ -3577,7 +3577,7 @@ var predictionsData = [
     {
         "team": "Mali",
         "edition": 1998,
-        "score": 0.7827607705126806
+        "score": 0.7827607705126804
     },
     {
         "team": "Puerto Rico",
@@ -3602,7 +3602,7 @@ var predictionsData = [
     {
         "team": "Bulgaria",
         "edition": 2018,
-        "score": 0.778600216956664
+        "score": 0.7786002169566639
     },
     {
         "team": "Paraguay",
@@ -3617,7 +3617,7 @@ var predictionsData = [
     {
         "team": "Gabon",
         "edition": 2018,
-        "score": 0.7780340522647126
+        "score": 0.7780340522647125
     },
     {
         "team": "Congo",
@@ -3627,7 +3627,7 @@ var predictionsData = [
     {
         "team": "Congo",
         "edition": 2014,
-        "score": 0.7772244870642621
+        "score": 0.777224487064262
     },
     {
         "team": "Slovenia",
@@ -3657,12 +3657,12 @@ var predictionsData = [
     {
         "team": "South Africa",
         "edition": 1994,
-        "score": 0.7742952045859599
+        "score": 0.7742952045859597
     },
     {
         "team": "New Zealand",
         "edition": 2010,
-        "score": 0.7742348724707127
+        "score": 0.7742348724707125
     },
     {
         "team": "Kenya",
@@ -3677,7 +3677,7 @@ var predictionsData = [
     {
         "team": "Indonesia",
         "edition": 2014,
-        "score": 0.7721406371114162
+        "score": 0.7721406371114161
     },
     {
         "team": "Guyana",
@@ -3707,7 +3707,7 @@ var predictionsData = [
     {
         "team": "Grenada",
         "edition": 2006,
-        "score": 0.7693084513343634
+        "score": 0.7693084513343633
     },
     {
         "team": "Tanzania",
@@ -3777,7 +3777,7 @@ var predictionsData = [
     {
         "team": "Belarus",
         "edition": 2010,
-        "score": 0.7625563228301164
+        "score": 0.7625563228301163
     },
     {
         "team": "Georgia",
@@ -3807,7 +3807,7 @@ var predictionsData = [
     {
         "team": "Canada",
         "edition": 2014,
-        "score": 0.7598534295022787
+        "score": 0.7598534295022786
     },
     {
         "team": "American Samoa",
@@ -3917,7 +3917,7 @@ var predictionsData = [
     {
         "team": "Maldives",
         "edition": 2006,
-        "score": 0.7481566845717905
+        "score": 0.7481566845717904
     },
     {
         "team": "Mongolia",
@@ -3982,7 +3982,7 @@ var predictionsData = [
     {
         "team": "Equatorial Guinea",
         "edition": 2010,
-        "score": 0.7410579691200814
+        "score": 0.7410579691200813
     },
     {
         "team": "India",
@@ -4017,7 +4017,7 @@ var predictionsData = [
     {
         "team": "Barbados",
         "edition": 2018,
-        "score": 0.7371828516244064
+        "score": 0.7371828516244063
     },
     {
         "team": "Latvia",
@@ -4032,7 +4032,7 @@ var predictionsData = [
     {
         "team": "Peru",
         "edition": 2002,
-        "score": 0.7363140223783574
+        "score": 0.7363140223783573
     },
     {
         "team": "El Salvador",
@@ -4067,7 +4067,7 @@ var predictionsData = [
     {
         "team": "Niger",
         "edition": 2018,
-        "score": 0.7349588597594808
+        "score": 0.7349588597594807
     },
     {
         "team": "Georgia",
@@ -4117,7 +4117,7 @@ var predictionsData = [
     {
         "team": "Sierra Leone",
         "edition": 2018,
-        "score": 0.7292024773206178
+        "score": 0.7292024773206177
     },
     {
         "team": "Angola",
@@ -4127,7 +4127,7 @@ var predictionsData = [
     {
         "team": "Jordan",
         "edition": 1998,
-        "score": 0.7286852303260737
+        "score": 0.7286852303260736
     },
     {
         "team": "Albania",
@@ -4152,12 +4152,12 @@ var predictionsData = [
     {
         "team": "Kuwait",
         "edition": 2018,
-        "score": 0.7278490357708177
+        "score": 0.7278490357708175
     },
     {
         "team": "Togo",
         "edition": 2018,
-        "score": 0.727111947309171
+        "score": 0.7271119473091708
     },
     {
         "team": "Northern Ireland",
@@ -4242,7 +4242,7 @@ var predictionsData = [
     {
         "team": "Estonia",
         "edition": 2014,
-        "score": 0.7180989117233186
+        "score": 0.7180989117233185
     },
     {
         "team": "Equatorial Guinea",
@@ -4267,12 +4267,12 @@ var predictionsData = [
     {
         "team": "Yemen",
         "edition": 2010,
-        "score": 0.7155689677689453
+        "score": 0.7155689677689452
     },
     {
         "team": "Bermuda",
         "edition": 2006,
-        "score": 0.7147695797574576
+        "score": 0.7147695797574575
     },
     {
         "team": "Lithuania",
@@ -4302,12 +4302,12 @@ var predictionsData = [
     {
         "team": "Gambia",
         "edition": 1998,
-        "score": 0.7115747620506809
+        "score": 0.7115747620506808
     },
     {
         "team": "Sudan",
         "edition": 2002,
-        "score": 0.710660327808865
+        "score": 0.7106603278088649
     },
     {
         "team": "Guinea-Bissau",
@@ -4317,7 +4317,7 @@ var predictionsData = [
     {
         "team": "Rwanda",
         "edition": 2014,
-        "score": 0.709901504490464
+        "score": 0.7099015044904639
     },
     {
         "team": "Mauritius",
@@ -4437,7 +4437,7 @@ var predictionsData = [
     {
         "team": "Mauritania",
         "edition": 1998,
-        "score": 0.6946253424565307
+        "score": 0.6946253424565306
     },
     {
         "team": "Benin",
@@ -4462,12 +4462,12 @@ var predictionsData = [
     {
         "team": "Togo",
         "edition": 2010,
-        "score": 0.6897807229686216
+        "score": 0.6897807229686215
     },
     {
         "team": "Paraguay",
         "edition": 2018,
-        "score": 0.6878608466014883
+        "score": 0.6878608466014882
     },
     {
         "team": "Tonga",
@@ -4482,7 +4482,7 @@ var predictionsData = [
     {
         "team": "Wales",
         "edition": 2002,
-        "score": 0.6850588941158187
+        "score": 0.6850588941158184
     },
     {
         "team": "Hungary",
@@ -4507,7 +4507,7 @@ var predictionsData = [
     {
         "team": "Hong Kong",
         "edition": 2002,
-        "score": 0.6823982606634411
+        "score": 0.682398260663441
     },
     {
         "team": "Moldova",
@@ -4562,7 +4562,7 @@ var predictionsData = [
     {
         "team": "Guam",
         "edition": 2014,
-        "score": 0.6694839482987329
+        "score": 0.6694839482987328
     },
     {
         "team": "Wales",
@@ -4602,7 +4602,7 @@ var predictionsData = [
     {
         "team": "Antigua and Barbuda",
         "edition": 2006,
-        "score": 0.6663066183377165
+        "score": 0.6663066183377164
     },
     {
         "team": "Cayman Islands",
@@ -4642,7 +4642,7 @@ var predictionsData = [
     {
         "team": "Niger",
         "edition": 1998,
-        "score": 0.6608209272373844
+        "score": 0.6608209272373843
     },
     {
         "team": "Peru",
@@ -4677,7 +4677,7 @@ var predictionsData = [
     {
         "team": "Armenia",
         "edition": 2002,
-        "score": 0.6568271172572259
+        "score": 0.6568271172572258
     },
     {
         "team": "Niger",
@@ -4732,12 +4732,12 @@ var predictionsData = [
     {
         "team": "Iceland",
         "edition": 2006,
-        "score": 0.6443992182102467
+        "score": 0.6443992182102466
     },
     {
         "team": "Bolivia",
         "edition": 2002,
-        "score": 0.6443308801980494
+        "score": 0.6443308801980493
     },
     {
         "team": "Gambia",
@@ -4772,12 +4772,12 @@ var predictionsData = [
     {
         "team": "Lesotho",
         "edition": 2010,
-        "score": 0.6408780997656937
+        "score": 0.6408780997656935
     },
     {
         "team": "Niger",
         "edition": 2014,
-        "score": 0.6394031654251634
+        "score": 0.6394031654251633
     },
     {
         "team": "Lesotho",
@@ -4797,7 +4797,7 @@ var predictionsData = [
     {
         "team": "Guyana",
         "edition": 1994,
-        "score": 0.6370674647185807
+        "score": 0.6370674647185806
     },
     {
         "team": "Maldives",
@@ -4807,12 +4807,12 @@ var predictionsData = [
     {
         "team": "Curaçao",
         "edition": 2014,
-        "score": 0.6365183316916515
+        "score": 0.6365183316916514
     },
     {
         "team": "Azerbaijan",
         "edition": 2018,
-        "score": 0.6361061903215339
+        "score": 0.6361061903215338
     },
     {
         "team": "Nicaragua",
@@ -4822,7 +4822,7 @@ var predictionsData = [
     {
         "team": "Benin",
         "edition": 2006,
-        "score": 0.6355220235662851
+        "score": 0.635522023566285
     },
     {
         "team": "Guam",
@@ -4832,17 +4832,17 @@ var predictionsData = [
     {
         "team": "Chad",
         "edition": 2010,
-        "score": 0.6351876550598079
+        "score": 0.6351876550598078
     },
     {
         "team": "Yemen",
         "edition": 2018,
-        "score": 0.6348344985396484
+        "score": 0.6348344985396482
     },
     {
         "team": "Bolivia",
         "edition": 2010,
-        "score": 0.6344139067523095
+        "score": 0.6344139067523094
     },
     {
         "team": "Lesotho",
@@ -4892,7 +4892,7 @@ var predictionsData = [
     {
         "team": "Guam",
         "edition": 2002,
-        "score": 0.6261431845921974
+        "score": 0.6261431845921973
     },
     {
         "team": "Togo",
@@ -4932,7 +4932,7 @@ var predictionsData = [
     {
         "team": "Mongolia",
         "edition": 2014,
-        "score": 0.6196820181195433
+        "score": 0.6196820181195432
     },
     {
         "team": "Turkey",
@@ -4952,7 +4952,7 @@ var predictionsData = [
     {
         "team": "Georgia",
         "edition": 2006,
-        "score": 0.6125203472508516
+        "score": 0.6125203472508515
     },
     {
         "team": "Nicaragua",
@@ -4962,7 +4962,7 @@ var predictionsData = [
     {
         "team": "Latvia",
         "edition": 1994,
-        "score": 0.6121078822823818
+        "score": 0.6121078822823817
     },
     {
         "team": "Lithuania",
@@ -5002,7 +5002,7 @@ var predictionsData = [
     {
         "team": "Pakistan",
         "edition": 2014,
-        "score": 0.6070106881630474
+        "score": 0.6070106881630473
     },
     {
         "team": "Moldova",
@@ -5057,12 +5057,12 @@ var predictionsData = [
     {
         "team": "Nicaragua",
         "edition": 2006,
-        "score": 0.5927904712768394
+        "score": 0.5927904712768393
     },
     {
         "team": "Grenada",
         "edition": 2014,
-        "score": 0.5922740720605414
+        "score": 0.5922740720605413
     },
     {
         "team": "Tanzania",
@@ -5072,17 +5072,17 @@ var predictionsData = [
     {
         "team": "Aruba",
         "edition": 2002,
-        "score": 0.5907568613204666
+        "score": 0.5907568613204665
     },
     {
         "team": "Palestine",
         "edition": 2002,
-        "score": 0.5903354918161343
+        "score": 0.5903354918161342
     },
     {
         "team": "Venezuela",
         "edition": 2002,
-        "score": 0.5889092803723924
+        "score": 0.5889092803723923
     },
     {
         "team": "Dominica",
@@ -5097,7 +5097,7 @@ var predictionsData = [
     {
         "team": "Moldova",
         "edition": 2006,
-        "score": 0.5873939744513015
+        "score": 0.5873939744513014
     },
     {
         "team": "Ethiopia",
@@ -5107,7 +5107,7 @@ var predictionsData = [
     {
         "team": "Pakistan",
         "edition": 2010,
-        "score": 0.5854608967463395
+        "score": 0.5854608967463394
     },
     {
         "team": "Gambia",
@@ -5127,7 +5127,7 @@ var predictionsData = [
     {
         "team": "Gambia",
         "edition": 2002,
-        "score": 0.5792319369468941
+        "score": 0.579231936946894
     },
     {
         "team": "Madagascar",
@@ -5137,7 +5137,7 @@ var predictionsData = [
     {
         "team": "Azerbaijan",
         "edition": 2010,
-        "score": 0.577378575640898
+        "score": 0.5773785756408979
     },
     {
         "team": "Sri Lanka",
@@ -5167,7 +5167,7 @@ var predictionsData = [
     {
         "team": "Laos",
         "edition": 2018,
-        "score": 0.5716602248301891
+        "score": 0.571660224830189
     },
     {
         "team": "Vanuatu",
@@ -5182,7 +5182,7 @@ var predictionsData = [
     {
         "team": "South Sudan",
         "edition": 2018,
-        "score": 0.5657401335719464
+        "score": 0.5657401335719463
     },
     {
         "team": "Northern Ireland",
@@ -5192,12 +5192,12 @@ var predictionsData = [
     {
         "team": "Benin",
         "edition": 1998,
-        "score": 0.5637340535272483
+        "score": 0.5637340535272481
     },
     {
         "team": "Puerto Rico",
         "edition": 2018,
-        "score": 0.5617052816114044
+        "score": 0.5617052816114043
     },
     {
         "team": "Tonga",
@@ -5207,17 +5207,17 @@ var predictionsData = [
     {
         "team": "Bolivia",
         "edition": 2006,
-        "score": 0.5591676877094087
+        "score": 0.5591676877094086
     },
     {
         "team": "Equatorial Guinea",
         "edition": 2006,
-        "score": 0.5590627853753096
+        "score": 0.5590627853753095
     },
     {
         "team": "Sierra Leone",
         "edition": 2002,
-        "score": 0.5571415174519253
+        "score": 0.5571415174519252
     },
     {
         "team": "Guam",
@@ -5227,7 +5227,7 @@ var predictionsData = [
     {
         "team": "Turks and Caicos Islands",
         "edition": 2018,
-        "score": 0.5554388401959355
+        "score": 0.5554388401959354
     },
     {
         "team": "Tonga",
@@ -5247,7 +5247,7 @@ var predictionsData = [
     {
         "team": "Cambodia",
         "edition": 2010,
-        "score": 0.5502011552840456
+        "score": 0.5502011552840455
     },
     {
         "team": "Nepal",
@@ -5322,7 +5322,7 @@ var predictionsData = [
     {
         "team": "Maldives",
         "edition": 2002,
-        "score": 0.5275350955960336
+        "score": 0.5275350955960335
     },
     {
         "team": "Albania",
@@ -5357,12 +5357,12 @@ var predictionsData = [
     {
         "team": "Mauritania",
         "edition": 2010,
-        "score": 0.510640404978475
+        "score": 0.5106404049784748
     },
     {
         "team": "Yemen",
         "edition": 2014,
-        "score": 0.5077313583798365
+        "score": 0.5077313583798364
     },
     {
         "team": "Madagascar",
@@ -5382,17 +5382,17 @@ var predictionsData = [
     {
         "team": "Guinea-Bissau",
         "edition": 2006,
-        "score": 0.5009875303815439
+        "score": 0.5009875303815438
     },
     {
         "team": "Macau",
         "edition": 2006,
-        "score": 0.49847994729083367
+        "score": 0.4984799472908336
     },
     {
         "team": "Bangladesh",
         "edition": 1994,
-        "score": 0.4980958011336854
+        "score": 0.4980958011336853
     },
     {
         "team": "India",
@@ -5407,7 +5407,7 @@ var predictionsData = [
     {
         "team": "Comoros",
         "edition": 2010,
-        "score": 0.495653087543024
+        "score": 0.49565308754302395
     },
     {
         "team": "Moldova",
@@ -5417,7 +5417,7 @@ var predictionsData = [
     {
         "team": "Mauritania",
         "edition": 1994,
-        "score": 0.48979891648041485
+        "score": 0.4897989164804148
     },
     {
         "team": "Cambodia",
@@ -5432,12 +5432,12 @@ var predictionsData = [
     {
         "team": "Macau",
         "edition": 1998,
-        "score": 0.4825961052203353
+        "score": 0.4825961052203352
     },
     {
         "team": "Malta",
         "edition": 2006,
-        "score": 0.4807101672736292
+        "score": 0.48071016727362914
     },
     {
         "team": "Palestine",
@@ -5447,22 +5447,22 @@ var predictionsData = [
     {
         "team": "Oman",
         "edition": 1994,
-        "score": 0.47882557983245266
+        "score": 0.4788255798324526
     },
     {
         "team": "Mauritius",
         "edition": 2018,
-        "score": 0.4778202411076867
+        "score": 0.47782024110768667
     },
     {
         "team": "Malta",
         "edition": 1994,
-        "score": 0.4763352093911903
+        "score": 0.47633520939119023
     },
     {
         "team": "Sierra Leone",
         "edition": 2010,
-        "score": 0.4741650850801117
+        "score": 0.47416508508011157
     },
     {
         "team": "Pakistan",
@@ -5475,14 +5475,14 @@ var predictionsData = [
         "score": 0.47308719209199246
     },
     {
-        "team": "Aruba",
-        "edition": 1998,
-        "score": 0.4728024585356835
-    },
-    {
         "team": "Central African Republic",
         "edition": 2006,
-        "score": 0.4728024585356835
+        "score": 0.4728024585356834
+    },
+    {
+        "team": "Aruba",
+        "edition": 1998,
+        "score": 0.4728024585356834
     },
     {
         "team": "Northern Ireland",
@@ -5502,7 +5502,7 @@ var predictionsData = [
     {
         "team": "Cayman Islands",
         "edition": 2006,
-        "score": 0.46602957764172237
+        "score": 0.4660295776417223
     },
     {
         "team": "Faroe Islands",
@@ -5527,7 +5527,7 @@ var predictionsData = [
     {
         "team": "Madagascar",
         "edition": 2014,
-        "score": 0.4597142825232546
+        "score": 0.4597142825232545
     },
     {
         "team": "Dominican Republic",
@@ -5537,7 +5537,7 @@ var predictionsData = [
     {
         "team": "Cayman Islands",
         "edition": 2014,
-        "score": 0.4591944478714916
+        "score": 0.4591944478714915
     },
     {
         "team": "Guyana",
@@ -5552,7 +5552,7 @@ var predictionsData = [
     {
         "team": "Nicaragua",
         "edition": 2010,
-        "score": 0.4494993529339539
+        "score": 0.4494993529339538
     },
     {
         "team": "Samoa",
@@ -5562,7 +5562,7 @@ var predictionsData = [
     {
         "team": "Botswana",
         "edition": 1994,
-        "score": 0.44841634993776425
+        "score": 0.4484163499377642
     },
     {
         "team": "Faroe Islands",
@@ -5572,7 +5572,7 @@ var predictionsData = [
     {
         "team": "Moldova",
         "edition": 1998,
-        "score": 0.4453552077024302
+        "score": 0.44535520770243014
     },
     {
         "team": "Luxembourg",
@@ -5592,12 +5592,12 @@ var predictionsData = [
     {
         "team": "Indonesia",
         "edition": 1994,
-        "score": 0.4418863761507656
+        "score": 0.4418863761507655
     },
     {
         "team": "Belize",
         "edition": 2018,
-        "score": 0.44137726235972097
+        "score": 0.4413772623597209
     },
     {
         "team": "Swaziland",
@@ -5607,7 +5607,7 @@ var predictionsData = [
     {
         "team": "Cook Islands",
         "edition": 2002,
-        "score": 0.4343769137322373
+        "score": 0.43437691373223725
     },
     {
         "team": "Central African Republic",
@@ -5627,7 +5627,7 @@ var predictionsData = [
     {
         "team": "Armenia",
         "edition": 1998,
-        "score": 0.43177791854574293
+        "score": 0.4317779185457429
     },
     {
         "team": "Rwanda",
@@ -5652,7 +5652,7 @@ var predictionsData = [
     {
         "team": "Liberia",
         "edition": 2006,
-        "score": 0.4197370138248854
+        "score": 0.41973701382488526
     },
     {
         "team": "Montserrat",
@@ -5675,14 +5675,14 @@ var predictionsData = [
         "score": 0.4152768751247346
     },
     {
-        "team": "Sri Lanka",
-        "edition": 2018,
-        "score": 0.40858882316202655
-    },
-    {
         "team": "Eritrea",
         "edition": 2002,
         "score": 0.40858882316202655
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2018,
+        "score": 0.4085888231620265
     },
     {
         "team": "Belize",
@@ -5692,7 +5692,7 @@ var predictionsData = [
     {
         "team": "Mauritius",
         "edition": 1998,
-        "score": 0.4061051363149518
+        "score": 0.40610513631495176
     },
     {
         "team": "Cayman Islands",
@@ -5707,7 +5707,7 @@ var predictionsData = [
     {
         "team": "Cayman Islands",
         "edition": 1994,
-        "score": 0.39800784854801785
+        "score": 0.3980078485480178
     },
     {
         "team": "Central African Republic",
@@ -5732,12 +5732,12 @@ var predictionsData = [
     {
         "team": "Papua New Guinea",
         "edition": 2002,
-        "score": 0.3935803309570522
+        "score": 0.39358033095705214
     },
     {
         "team": "Mauritania",
         "edition": 2002,
-        "score": 0.38663054479905845
+        "score": 0.3866305447990584
     },
     {
         "team": "British Virgin Islands",
@@ -5757,7 +5757,7 @@ var predictionsData = [
     {
         "team": "Liechtenstein",
         "edition": 2014,
-        "score": 0.3732590209333408
+        "score": 0.37325902093334073
     },
     {
         "team": "Somalia",
@@ -5767,7 +5767,7 @@ var predictionsData = [
     {
         "team": "Central African Republic",
         "edition": 1998,
-        "score": 0.3728977310344567
+        "score": 0.37289773103445667
     },
     {
         "team": "Malta",
@@ -5777,17 +5777,17 @@ var predictionsData = [
     {
         "team": "Macau",
         "edition": 2014,
-        "score": 0.36366767256372845
+        "score": 0.3636676725637284
     },
     {
         "team": "Seychelles",
         "edition": 2002,
-        "score": 0.358126637105705
+        "score": 0.35812663710570497
     },
     {
         "team": "Estonia",
         "edition": 1994,
-        "score": 0.35808666508107906
+        "score": 0.358086665081079
     },
     {
         "team": "Mauritania",
@@ -5802,7 +5802,7 @@ var predictionsData = [
     {
         "team": "Laos",
         "edition": 2006,
-        "score": 0.3558325911280129
+        "score": 0.35583259112801285
     },
     {
         "team": "Luxembourg",
@@ -5812,17 +5812,17 @@ var predictionsData = [
     {
         "team": "Equatorial Guinea",
         "edition": 2002,
-        "score": 0.35248580375281297
+        "score": 0.3524858037528129
     },
     {
         "team": "Laos",
         "edition": 2002,
-        "score": 0.3483931329169968
+        "score": 0.34839313291699675
     },
     {
         "team": "Vietnam",
         "edition": 1994,
-        "score": 0.34592862572102917
+        "score": 0.3459286257210291
     },
     {
         "team": "Equatorial Guinea",
@@ -5842,7 +5842,7 @@ var predictionsData = [
     {
         "team": "Venezuela",
         "edition": 1998,
-        "score": 0.3444452295069787
+        "score": 0.34444522950697865
     },
     {
         "team": "Benin",
@@ -5862,7 +5862,7 @@ var predictionsData = [
     {
         "team": "Botswana",
         "edition": 1998,
-        "score": 0.33844087515857413
+        "score": 0.338440875158574
     },
     {
         "team": "Somalia",
@@ -5872,22 +5872,22 @@ var predictionsData = [
     {
         "team": "Venezuela",
         "edition": 1994,
-        "score": 0.33339267559411284
+        "score": 0.3333926755941128
     },
     {
         "team": "British Virgin Islands",
         "edition": 2014,
-        "score": 0.331252087526101
+        "score": 0.33125208752610097
     },
     {
         "team": "Anguilla",
         "edition": 2014,
-        "score": 0.32979095605126885
+        "score": 0.32979095605126874
     },
     {
         "team": "Liberia",
         "edition": 1994,
-        "score": 0.3277488013539823
+        "score": 0.32774880135398227
     },
     {
         "team": "Luxembourg",
@@ -5902,7 +5902,7 @@ var predictionsData = [
     {
         "team": "Philippines",
         "edition": 2006,
-        "score": 0.324722579766206
+        "score": 0.32472257976620594
     },
     {
         "team": "Bhutan",
@@ -5917,7 +5917,7 @@ var predictionsData = [
     {
         "team": "Seychelles",
         "edition": 1994,
-        "score": 0.3209282325813929
+        "score": 0.32092823258139286
     },
     {
         "team": "Cambodia",
@@ -5927,7 +5927,7 @@ var predictionsData = [
     {
         "team": "Somalia",
         "edition": 2010,
-        "score": 0.31384532217834216
+        "score": 0.3138453221783421
     },
     {
         "team": "Belize",
@@ -5952,22 +5952,22 @@ var predictionsData = [
     {
         "team": "Cook Islands",
         "edition": 1998,
-        "score": 0.29922745399882844
+        "score": 0.2992274539988284
     },
     {
         "team": "Bahamas",
         "edition": 2006,
-        "score": 0.2927664929748069
+        "score": 0.29276649297480684
     },
     {
         "team": "Macau",
         "edition": 1994,
-        "score": 0.29132316806346886
+        "score": 0.29132316806346875
     },
     {
         "team": "Cambodia",
         "edition": 2006,
-        "score": 0.2910781982492963
+        "score": 0.29107819824929626
     },
     {
         "team": "Faroe Islands",
@@ -5977,22 +5977,22 @@ var predictionsData = [
     {
         "team": "Liechtenstein",
         "edition": 2018,
-        "score": 0.2878293958987906
+        "score": 0.28782939589879053
     },
     {
         "team": "Puerto Rico",
         "edition": 2002,
-        "score": 0.28368855430112744
+        "score": 0.2836885543011274
     },
     {
         "team": "Mauritius",
         "edition": 2010,
-        "score": 0.2834691232528644
+        "score": 0.28346912325286433
     },
     {
         "team": "South Sudan",
         "edition": 2014,
-        "score": 0.2830788450094859
+        "score": 0.2830788450094858
     },
     {
         "team": "Eritrea",
@@ -6007,27 +6007,27 @@ var predictionsData = [
     {
         "team": "Liechtenstein",
         "edition": 2010,
-        "score": 0.27286170712410024
+        "score": 0.2728617071241002
     },
     {
         "team": "Faroe Islands",
         "edition": 2014,
-        "score": 0.2720768289613156
+        "score": 0.2720768289613155
     },
     {
         "team": "Comoros",
         "edition": 2014,
-        "score": 0.271832837716536
+        "score": 0.27183283771653594
     },
     {
         "team": "Nepal",
         "edition": 1998,
-        "score": 0.26803655105206736
+        "score": 0.2680365510520673
     },
     {
         "team": "Luxembourg",
         "edition": 1994,
-        "score": 0.26417214640360703
+        "score": 0.264172146403607
     },
     {
         "team": "Puerto Rico",
@@ -6037,7 +6037,7 @@ var predictionsData = [
     {
         "team": "Djibouti",
         "edition": 2002,
-        "score": 0.26014659585240363
+        "score": 0.2601465958524036
     },
     {
         "team": "Philippines",
@@ -6052,32 +6052,32 @@ var predictionsData = [
     {
         "team": "Macau",
         "edition": 2002,
-        "score": 0.25438587021638404
+        "score": 0.254385870216384
     },
     {
         "team": "Maldives",
         "edition": 1998,
-        "score": 0.25357042322932744
+        "score": 0.2535704232293274
     },
     {
         "team": "Djibouti",
         "edition": 1998,
-        "score": 0.2522564597551748
+        "score": 0.25225645975517474
     },
     {
         "team": "Andorra",
         "edition": 2002,
-        "score": 0.25190363193421234
+        "score": 0.2519036319342123
     },
     {
         "team": "Libya",
         "edition": 1994,
-        "score": 0.2502719190170216
+        "score": 0.25027191901702156
     },
     {
         "team": "Andorra",
         "edition": 1998,
-        "score": 0.24898529145628928
+        "score": 0.24898529145628925
     },
     {
         "team": "Montserrat",
@@ -6087,17 +6087,17 @@ var predictionsData = [
     {
         "team": "Djibouti",
         "edition": 2010,
-        "score": 0.24664370376196593
+        "score": 0.24664370376196587
     },
     {
         "team": "Aruba",
         "edition": 1994,
-        "score": 0.24295533054813978
+        "score": 0.24295533054813973
     },
     {
         "team": "Eritrea",
         "edition": 2018,
-        "score": 0.24295533054813978
+        "score": 0.24295533054813973
     },
     {
         "team": "Aruba",
@@ -6107,7 +6107,7 @@ var predictionsData = [
     {
         "team": "Gibraltar",
         "edition": 2018,
-        "score": 0.24218652052237488
+        "score": 0.24218652052237485
     },
     {
         "team": "Djibouti",
@@ -6122,7 +6122,7 @@ var predictionsData = [
     {
         "team": "Luxembourg",
         "edition": 2006,
-        "score": 0.22814174996261022
+        "score": 0.22814174996261016
     },
     {
         "team": "Anguilla",
@@ -6132,27 +6132,27 @@ var predictionsData = [
     {
         "team": "Andorra",
         "edition": 2018,
-        "score": 0.21722572127523365
-    },
-    {
-        "team": "Montserrat",
-        "edition": 2006,
-        "score": 0.21688366246801316
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 1994,
-        "score": 0.21688366246801316
+        "score": 0.2172257212752336
     },
     {
         "team": "Montserrat",
         "edition": 2010,
-        "score": 0.21688366246801316
+        "score": 0.2168836624680131
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2006,
+        "score": 0.2168836624680131
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 1994,
+        "score": 0.2168836624680131
     },
     {
         "team": "Luxembourg",
         "edition": 2002,
-        "score": 0.21466309985673038
+        "score": 0.21466309985673032
     },
     {
         "team": "Nicaragua",
@@ -6162,12 +6162,12 @@ var predictionsData = [
     {
         "team": "San Marino",
         "edition": 2006,
-        "score": 0.21230862019820076
+        "score": 0.21230862019820074
     },
     {
         "team": "Bhutan",
         "edition": 2014,
-        "score": 0.21221351061232369
+        "score": 0.21221351061232366
     },
     {
         "team": "Aruba",
@@ -6177,17 +6177,17 @@ var predictionsData = [
     {
         "team": "Tonga",
         "edition": 2018,
-        "score": 0.2043050545682913
+        "score": 0.20430505456829126
     },
     {
         "team": "Turks and Caicos Islands",
         "edition": 2002,
-        "score": 0.20360231640301793
+        "score": 0.20360231640301787
     },
     {
         "team": "Mongolia",
         "edition": 2002,
-        "score": 0.20157706583534446
+        "score": 0.2015770658353444
     },
     {
         "team": "Djibouti",
@@ -6202,7 +6202,7 @@ var predictionsData = [
     {
         "team": "Liechtenstein",
         "edition": 2002,
-        "score": 0.2007751859468372
+        "score": 0.20077518594683716
     },
     {
         "team": "Pakistan",
@@ -6212,62 +6212,62 @@ var predictionsData = [
     {
         "team": "Anguilla",
         "edition": 1998,
-        "score": 0.19643833133646146
+        "score": 0.19643833133646144
     },
     {
         "team": "Cambodia",
         "edition": 1998,
-        "score": 0.18760504492445135
+        "score": 0.18760504492445132
     },
     {
         "team": "Liechtenstein",
         "edition": 1994,
-        "score": 0.18601991892602324
+        "score": 0.1860199189260232
     },
     {
         "team": "Andorra",
         "edition": 2010,
-        "score": 0.18374737352863277
+        "score": 0.18374737352863274
     },
     {
         "team": "British Virgin Islands",
         "edition": 2018,
-        "score": 0.18244725186001018
+        "score": 0.18244725186001015
     },
     {
         "team": "Nicaragua",
         "edition": 2002,
-        "score": 0.18244725186001015
+        "score": 0.1824472518600101
     },
     {
         "team": "Cook Islands",
         "edition": 2006,
-        "score": 0.18115507979576
+        "score": 0.18115507979575998
     },
     {
         "team": "Bhutan",
         "edition": 2002,
-        "score": 0.17662421806934217
+        "score": 0.17662421806934214
     },
     {
         "team": "San Marino",
         "edition": 2002,
-        "score": 0.170928907569157
+        "score": 0.17092890756915696
     },
     {
         "team": "Liechtenstein",
         "edition": 1998,
-        "score": 0.16745360711552035
+        "score": 0.16745360711552032
     },
     {
         "team": "Somalia",
         "edition": 2002,
-        "score": 0.16717514804022804
+        "score": 0.167175148040228
     },
     {
         "team": "American Samoa",
         "edition": 2002,
-        "score": 0.16614669518155462
+        "score": 0.1661466951815546
     },
     {
         "team": "American Samoa",
@@ -6277,96 +6277,96 @@ var predictionsData = [
     {
         "team": "Somalia",
         "edition": 2014,
-        "score": 0.1644663994784735
+        "score": 0.16446639947847347
     },
     {
         "team": "Andorra",
         "edition": 2014,
-        "score": 0.16419504411585506
+        "score": 0.164195044115855
     },
     {
         "team": "San Marino",
         "edition": 1994,
-        "score": 0.1597680173272444
+        "score": 0.15976801732724438
     },
     {
         "team": "Pakistan",
         "edition": 1994,
-        "score": 0.1557737852726253
+        "score": 0.15577378527262528
     },
     {
         "team": "San Marino",
         "edition": 2018,
-        "score": 0.1535552962973821
+        "score": 0.15355529629738207
     },
     {
         "team": "San Marino",
         "edition": 2010,
-        "score": 0.15346302364163036
+        "score": 0.15346302364163034
     },
     {
         "team": "American Samoa",
         "edition": 2010,
-        "score": 0.152383871246575
+        "score": 0.15238387124657496
     },
     {
         "team": "San Marino",
         "edition": 2014,
-        "score": 0.15209877795869622
+        "score": 0.15209877795869617
     },
     {
         "team": "San Marino",
         "edition": 1998,
-        "score": 0.15195978249793085
+        "score": 0.15195978249793082
     },
     {
         "team": "Philippines",
         "edition": 1998,
-        "score": 0.1492013774198631
+        "score": 0.14920137741986308
     },
     {
         "team": "Guam",
         "edition": 2006,
-        "score": 0.14434819106355298
+        "score": 0.14434819106355293
     },
     {
         "team": "Sri Lanka",
         "edition": 1994,
-        "score": 0.13536620350883166
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2014,
-        "score": 0.13536620350883166
+        "score": 0.13536620350883163
     },
     {
         "team": "Guam",
         "edition": 1998,
-        "score": 0.13536620350883166
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2006,
-        "score": 0.13536620350883166
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2018,
-        "score": 0.13536620350883166
-    },
-    {
-        "team": "Somalia",
-        "edition": 2018,
-        "score": 0.13536620350883166
+        "score": 0.13536620350883163
     },
     {
         "team": "Anguilla",
         "edition": 2018,
-        "score": 0.13536620350883166
+        "score": 0.13536620350883163
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2018,
+        "score": 0.13536620350883163
+    },
+    {
+        "team": "Somalia",
+        "edition": 2018,
+        "score": 0.13536620350883163
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2014,
+        "score": 0.13536620350883163
     },
     {
         "team": "Bahamas",
         "edition": 2018,
-        "score": 0.13536620350883166
+        "score": 0.13536620350883163
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2006,
+        "score": 0.13536620350883163
     }
 ]

@@ -47,7 +47,7 @@ var top10Chart = new Chart(top10Elem, {
       yAxes: [{
         display: false,
         ticks: {
-          min: 98.5,
+          min: 97,
           max: 100
         }
       }]
