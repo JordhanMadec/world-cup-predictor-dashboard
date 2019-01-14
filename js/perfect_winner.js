@@ -14,7 +14,7 @@ var perfectWinner = {
 }
 
 
-var options = {
+var optionsPerfectWinner = {
     legend: false,
     scaleShowLabels: false,
     scales: {
@@ -33,7 +33,7 @@ var options = {
             }
         }]
     }
-}
+};
 
 
 
@@ -92,7 +92,7 @@ var winnerHistoryElem = document.getElementById("winner_history").getContext('2d
 var winnerHistoryChart = new Chart(winnerHistoryElem, {
     type: 'bar',
     data: {
-        labels: ["Semi-Finals", "Finals", "Victory"],
+        labels: ["Semi-Finals", "Finals", "Victories"],
         datasets: [{
             data: [perfectWinner.semiFinals, perfectWinner.finals, perfectWinner.victories],
             backgroundColor: [
@@ -102,5 +102,5 @@ var winnerHistoryChart = new Chart(winnerHistoryElem, {
             ],
         }]
     },
-    options: options
+    options: optionsPerfectWinner
 });
