@@ -29,7 +29,7 @@ function fillPredictionsTables(edition) {
         } else if(prediction.score * 100 > threshold) {
             var text = document.createElement('b');
         }
-        text.appendChild(document.createTextNode(prediction.team));
+        text.appendChild(document.createTextNode(prediction.team + " (" + getRealResults(edition, prediction.team) + ") " ));
         span1.appendChild(text);
 
         var score = document.createElement('span');

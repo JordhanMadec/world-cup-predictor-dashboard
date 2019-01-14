@@ -5,3 +5,14 @@ function getPredictions(edition) {
         )
     );
 }
+
+
+function getRealResults(edition, team){
+
+  var edition =  _.filter(
+      realResults[edition], {'country' : team}
+    );
+
+  return edition.length > 0 ? edition[0]["position"] : 'Not qualified';
+
+}
