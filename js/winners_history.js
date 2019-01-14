@@ -1,4 +1,5 @@
 var labels = _.map(winnersData, 'edition');
+
 var wins = _.map(winnersData, 'win');
 var draws = _.map(winnersData, 'draw');
 var losses = _.map(winnersData, 'loss');
@@ -117,7 +118,7 @@ var winnerFinalsHistoryChart = new Chart(winnerFinalsHistoryElem, {
                 backgroundColor: 'transparent'
             },
             {
-                label: "Victoryies",
+                label: "Victories",
                 data: victories,
                 borderColor: 'rgba(242, 190, 84, .8)',
                 backgroundColor: 'transparent'

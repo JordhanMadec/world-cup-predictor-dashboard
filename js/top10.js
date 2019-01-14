@@ -23,8 +23,30 @@ function getColor(team) {
 }
 
 
+var optionsTop10 = {
+  legend: false,
+  scales: {
+    xAxes: [{
+      gridLines: {
+        display: false
+      }
+    }],
+    yAxes: [{
+      ticks: {
+        min: 97,
+        max: 100
+      },
+      gridLines: {
+        display: false
+      }
+    }]
+  }
+};
 
-var top10Elem = document.getElementById("top10_chart");
+
+
+
+    var top10Elem = document.getElementById("top10_chart");
 
 var top10Chart = new Chart(top10Elem, {
   type: 'bar',
@@ -36,21 +58,5 @@ var top10Chart = new Chart(top10Elem, {
         backgroundColor: colors,
     }]
   },
-  options: {
-    legend: false,
-    scales: {
-      xAxes: [{
-        gridLines: {
-          display: false
-        }
-      }],
-      yAxes: [{
-        display: false,
-        ticks: {
-          min: 97,
-          max: 100
-        }
-      }]
-    }
-  }
+  options: optionsTop10
 });

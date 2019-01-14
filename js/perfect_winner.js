@@ -27,10 +27,12 @@ var optionsPerfectWinner = {
             },
         }],
         yAxes: [{
-            display: false,
             ticks: {
                 beginAtZero:true
-            }
+            },
+            gridLines: {
+                display: false
+            },
         }]
     }
 };

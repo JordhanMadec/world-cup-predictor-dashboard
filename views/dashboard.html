@@ -115,14 +115,14 @@
                         <h1 class="mdl-card__title-text">How does it work ?</h1>
                     </div>
                     <div class="mdl-card__supporting-text">
-                        To determine the favorites for an edition, we have built a profile for each and every single team in the world. This profile is based uppon
-                        several criterias such the number of wins, the number of goals scored or the FIFA rank for example. All of these stats are computed over the 4 years before the worldcup.
+                        To determine the favorites for an edition, we have built a <b>profile</b> for each and every single team in the world. This profile is based uppon
+                        <b>several criterias</b> such as the number of wins, the number of goals scored or the FIFA rank for example. All of these stats are computed over the <b>3 years</b> before the worldcup.
                         <br>
                         These profiles are then compared to the one
                         of the typical winner which is defined as the average profile of every single historic winner. The favorites for an edition are the teams
-                        with the closer profile to the winner profile.
+                        with the <b>closer profile</b> to the winner profile.
                         <br>
-                        The score you can observe for each team matches the cosine similarity multiplied by a factor of 100.
+                        The score you can observe for each team matches the <b>cosine similarity</b> multiplied by a factor of 100.
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
                         <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/JordhanMadec/world-cup-predictor" target="_blank">
@@ -139,12 +139,42 @@
             <div class="mdl-cell mdl-cell--12-col">
                 <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
                     <div class="mdl-tabs__tab-bar">
-                        <a href="#panel-perfect-one" class="mdl-tabs__tab is-active">Perfect one</a>
-                        <a href="#panel-top-10" class="mdl-tabs__tab">Top 10</a>
+                        <a href="#panel-top-10" class="mdl-tabs__tab is-active">Top 10</a>
+                        <a href="#panel-perfect-one" class="mdl-tabs__tab">Perfect one</a>
                         <a href="#panel-winners-history" class="mdl-tabs__tab">Winners history</a>
                     </div>
 
-                    <div class="mdl-tabs__panel is-active" id="panel-perfect-one">
+                    <div class="mdl-tabs__panel is-active" id="panel-top-10">
+                        <h1 class="section-title">Top 10</h1>
+                        <h5 class="section-subtitle">The 10 biggest favorites all time !</h5>
+
+                        <div class="stats-container">
+                            <canvas id="top10_chart" width="200px" height="80"></canvas>
+                        </div>
+
+                        <div class="demo-card-wide mdl-card mdl-shadow--2dp how-is-it-done">
+                            <div class="mdl-card__title">
+                                <h1 class="mdl-card__title-text">How does it work ?</h1>
+                            </div>
+                            <div class="mdl-card__supporting-text">
+                                To determine the favorites for an edition, we have built a <b>profile</b> for each and every single team in the world. This profile is based uppon
+                                <b>several criterias</b> such as the number of wins, the number of goals scored or the FIFA rank for example. All of these stats are computed over the <b>3 years</b> before the worldcup.
+                                <br>
+                                These profiles are then compared to the one
+                                of the typical winner which is defined as the average profile of every single historic winner. The favorites for an edition are the teams
+                                with the <b>closer profile</b> to the winner profile.
+                                <br>
+                                The score you can observe for each team matches the <b>cosine similarity</b> multiplied by a factor of 100.
+                            </div>
+                            <div class="mdl-card__actions mdl-card--border">
+                                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/JordhanMadec/world-cup-predictor" target="_blank">
+                                    See code
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mdl-tabs__panel" id="panel-perfect-one">
                         <h1 class="section-title">Perfect one</h1>
                         <h5 class="section-subtitle">Here are the statistics of the ideal champion !</h5>
 
@@ -186,39 +216,9 @@
                                 <h1 class="mdl-card__title-text">What does it really mean ?</h1>
                             </div>
                             <div class="mdl-card__supporting-text">
-                                The displayed figures are the average figures of every single world champion in the history.
-                                The very same figures have been used to build the vectors of each and every team for each world cup edition.
-                                The figures are computed over the 4 years before the world cup.
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdl-tabs__panel" id="panel-top-10">
-                        <h1 class="section-title">Top 10</h1>
-                        <h5 class="section-subtitle">The 10 biggest favorites all time !</h5>
-
-                        <div class="stats-container">
-                            <canvas id="top10_chart" width="200px" height="80"></canvas>
-                        </div>
-
-                        <div class="demo-card-wide mdl-card mdl-shadow--2dp how-is-it-done">
-                            <div class="mdl-card__title">
-                                <h1 class="mdl-card__title-text">How does it work ?</h1>
-                            </div>
-                            <div class="mdl-card__supporting-text">
-                                To determine the favorites for an edition, we have built a profile for each and every single team in the world. This profile is based uppon
-                                several criterias such the number of wins, the number of goals scored or the FIFA rank for example. All of these stats are computed over the 4 years before the worldcup.
-                                <br>
-                                These profiles are then compared to the one
-                                of the typical winner which is defined as the average profile of every single historic winner. The favorites for an edition are the teams
-                                with the closer profile to the winner profile.
-                                <br>
-                                The score you can observe for each team matches the cosine similarity multiplied by a factor of 100.
-                            </div>
-                            <div class="mdl-card__actions mdl-card--border">
-                                <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect" href="https://github.com/JordhanMadec/world-cup-predictor" target="_blank">
-                                    See code
-                                </a>
+                                The displayed figures are the <b>average figures</b> of every single world champion <b>since 1994</b>.
+                                The very same figures have been used to build the <b>vectors</b> of each and every team for each world cup edition.
+                                The figures are computed over the <b>3 years before</b> the world cup.
                             </div>
                         </div>
                     </div>
@@ -250,6 +250,17 @@
                                 <canvas id="winners_rank_history_chart" width="200px" height="80"></canvas>
                             </div>
                         </div>
+
+                        <div class="demo-card-wide mdl-card mdl-shadow--2dp how-is-it-done">
+                            <div class="mdl-card__title">
+                                <h1 class="mdl-card__title-text">What does it really mean ?</h1>
+                            </div>
+                            <div class="mdl-card__supporting-text">
+                                The displayed figures are the figures of every single world champion <b>since 1994</b>.
+                                The very same figures have been used to build the <b>vectors</b> of each and every team for each world cup edition.
+                                The figures are computed over the <b>3 years before</b> the world cup.
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -276,7 +287,7 @@
 <script type="text/javascript" src="../js/data.js"></script>
 <script type="text/javascript" src="../js/winners_data.js"></script>
 <script type="text/javascript" src="../js/worldcups_results_data.js"></script>
-<script type="text/javascript" src="../js/chart.js"></script>
+<script type="text/javascript" src="../js/top10.js"></script>
 <script type="text/javascript" src="../js/predictions.js"></script>
 <script type="text/javascript" src="../js/searchbar.js"></script>
 <script type="text/javascript" src="../js/dashboard.js"></script>
