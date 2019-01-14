@@ -1,4 +1,4 @@
-var realResults =
+var worldcups_results_data =
   {
     "1994" : [
       {
