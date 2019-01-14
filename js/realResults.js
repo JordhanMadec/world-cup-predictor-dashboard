@@ -3,19 +3,19 @@ var realResults =
     "1994" : [
       {
         "country" : "Brazil",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Italy",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Sweden",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Bulgaria",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Romania",
@@ -102,19 +102,19 @@ var realResults =
     "1998" : [
       {
         "country" : "France",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Brazil",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Croatia",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Netherlands",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Denmark",
@@ -233,19 +233,19 @@ var realResults =
     "2002" : [
       {
         "country" : "Brazil",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Germany",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Turkey",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Korea DPR",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "USA",
@@ -364,19 +364,19 @@ var realResults =
     "2006" : [
       {
         "country" : "Italy",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "France",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Germany",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Portugal",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Argentina",
@@ -495,19 +495,19 @@ var realResults =
     "2010" : [
       {
         "country" : "Spain",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Netherlands",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Germany",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Uruguay",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Argentina",
@@ -627,19 +627,19 @@ var realResults =
     "2014" : [
       {
         "country" : "Germany",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Argentina",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Netherlands",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "Brazil",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Colombia",
@@ -758,19 +758,19 @@ var realResults =
     "2018" : [
       {
         "country" : "France",
-        "position" : "First"
+        "position" : "Winner"
       },
       {
         "country" : "Croatia",
-        "position" : "Second"
+        "position" : "2nd"
       },
       {
         "country" : "Belgium",
-        "position" : "Third"
+        "position" : "3rd"
       },
       {
         "country" : "England",
-        "position" : "Fourth"
+        "position" : "4th"
       },
       {
         "country" : "Uruguay",
