@@ -1,3 +1,19 @@
+var numberPrecision = 1;
+
+var perfectWinner = {
+    goalsFor: _.meanBy(winnersData, 'goalsFor').toFixed(numberPrecision),
+    goalsAgainst: _.meanBy(winnersData, 'goalsAgainst').toFixed(numberPrecision),
+    win: _.meanBy(winnersData, 'win').toFixed(numberPrecision),
+    draw: _.meanBy(winnersData, 'draw').toFixed(numberPrecision),
+    loss: _.meanBy(winnersData, 'loss').toFixed(numberPrecision),
+    rankAverage: _.meanBy(winnersData, 'rankAverage').toFixed(numberPrecision),
+    rankEvolution: _.meanBy(winnersData, 'rankEvolution').toFixed(numberPrecision),
+    semiFinals: _.meanBy(winnersData, 'semiFinals').toFixed(numberPrecision),
+    finals: _.meanBy(winnersData, 'finals').toFixed(numberPrecision),
+    victories: _.meanBy(winnersData, 'victories').toFixed(numberPrecision)
+}
+
+
 var options = {
     legend: false,
     scaleShowLabels: false,
@@ -21,6 +37,10 @@ var options = {
 
 
 
+$('#rankAverage').text(perfectWinner.rankAverage);
+$('#rankEvolution').text(perfectWinner.rankEvolution);
+
+
 
 var winnerGamesElem = document.getElementById("winner_games").getContext('2d');
 
@@ -29,7 +49,7 @@ var winnerGamesChart = new Chart(winnerGamesElem, {
     data: {
         labels: ["Win", "Draw", "Loss"],
         datasets: [{
-            data: [24.65, 9.4, 7.55],
+            data: [perfectWinner.win, perfectWinner.draw, perfectWinner.loss],
             backgroundColor: [
                 'rgba(107, 185, 131, .8)',
                 'rgba(0, 0, 0, .2)',
@@ -52,7 +72,7 @@ var winnerGoalsChart = new Chart(winnerGoalsElem, {
     data: {
         labels: ["For", "Against"],
         datasets: [{
-            data: [83.95, 40.7],
+            data: [perfectWinner.goalsFor, perfectWinner.goalsAgainst],
             backgroundColor: [
                 'rgba(123, 181, 196, .8)',
                 'rgba(255, 82, 82, .8)'
@@ -74,7 +94,7 @@ var winnerHistoryChart = new Chart(winnerHistoryElem, {
     data: {
         labels: ["Semi-Finals", "Finals", "Victory"],
         datasets: [{
-            data: [3.2, 2.65, 1.5],
+            data: [perfectWinner.semiFinals, perfectWinner.finals, perfectWinner.victories],
             backgroundColor: [
                 'rgba(0, 0, 0, .2)',
                 'rgba(123, 181, 196, .8)',
