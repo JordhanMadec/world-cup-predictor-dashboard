@@ -29,8 +29,14 @@ function fillPredictionsTables(edition) {
         } else if(prediction.score * 100 > threshold) {
             var text = document.createElement('b');
         }
-        text.appendChild(document.createTextNode(prediction.team + " (" + getRealResults(edition, prediction.team) + ") " ));
+        text.appendChild(document.createTextNode(prediction.team));
+        // + "(" + getRealResults(edition, prediction.team) + ") "
         span1.appendChild(text);
+
+        var span3 = document.createElement('span');
+        span3.className = 'mdl-list__item-sub-title';
+        span3.appendChild(document.createTextNode(getRealResults(edition, prediction.team)));
+        span1.appendChild(span3);
 
         var score = document.createElement('span');
         score.className = 'mdl-list__item-secondary-info';
@@ -41,9 +47,11 @@ function fillPredictionsTables(edition) {
         span2.appendChild(score);
 
         var li = document.createElement('li');
-        li.className = 'mdl-list__item';
+        li.className = 'mdl-list__item mdl-list__item--two-line';
         li.appendChild(span1);
         li.appendChild(span2);
+
+
 
 
         $('#panel-' + edition + ' .predictions-list')[0].appendChild(li);
