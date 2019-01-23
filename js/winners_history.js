@@ -3,8 +3,22 @@ var labels = _.map(winnersData, 'edition');
 var wins = _.map(winnersData, 'win');
 var draws = _.map(winnersData, 'draw');
 var losses = _.map(winnersData, 'loss');
+
+var winsRatio = _.map(winnersData, (winner) => {
+    return winner.win / (winner.win + winner.draw + winner.loss);
+});
+
+var lossesRatio = _.map(winnersData, (winner) => {
+    return winner.loss / (winner.win + winner.draw + winner.loss);
+});
+
 var goalsFor = _.map(winnersData, 'goalsFor');
 var goalsAgainst = _.map(winnersData, 'goalsAgainst');
+
+var goalsRatio = _.map(winnersData, (winner) => {
+    return winner.goalsFor / (winner.goalsFor + winner.goalsAgainst);
+});
+
 var semiFinals = _.map(winnersData, 'semiFinals');
 var finals = _.map(winnersData, 'finals');
 var victories = _.map(winnersData, 'victories');

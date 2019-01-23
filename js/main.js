@@ -7,7 +7,7 @@ function getPredictionRank(team, predictions) {
 
 function fillPredictionsTables(predictions, edition) {
     i = 1;
-    var threshold = 95;
+    var threshold = 99;
 
     var allPredictions = getPredictions(edition);
     var highestScore = allPredictions[0].score;

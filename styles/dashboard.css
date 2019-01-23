@@ -79,10 +79,8 @@ header.dashboard-header .mdl-layout__header-row {
 }
 
 .how-is-it-done > .mdl-card__title {
-    color: #fff;
-    height: 176px;
-    text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
-    background: url('https://images.unsplash.com/photo-1529854140025-25995121f16f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60') center / cover;
+    color: rgb(255,82,82);
+    text-shadow: 2px 2px 0px rgba(255, 82, 82, .5);
 }
 .how-is-it-done > .mdl-card__menu {
     color: #fff;
@@ -202,7 +200,19 @@ footer .credits .material-icons {
     padding: 15px 20px;
     padding-left: 44px;
     background: #eee;
-    border-radius: 5px;
     font-size: 18px;
     outline: none !important;
+    box-shadow: 8px 8px 0px rgba(0,0,0,.2);
+}
+
+.mdl-card {
+    margin-top: 100px;
+    border-radius: 0;
+    background-color: #eee;
+    box-shadow: 8px 8px 0px rgba(0,0,0,0.3);
+
+}
+
+.mdl-card__title-text {
+  font-size: 30px;
 }
