@@ -1,6352 +1,6352 @@
 var predictionsData = [
     {
-        "team": "Brazil",
-        "edition": 1994,
-        "score": 0.9996037137470652
-    },
-    {
-        "team": "Germany",
-        "edition": 2010,
-        "score": 0.9994012138564092
-    },
-    {
-        "team": "Spain",
-        "edition": 2010,
-        "score": 0.9985786642093444
-    },
-    {
-        "team": "Germany",
-        "edition": 1994,
-        "score": 0.9982872465714703
-    },
-    {
-        "team": "Italy",
-        "edition": 2010,
-        "score": 0.9980070063064871
-    },
-    {
-        "team": "Spain",
-        "edition": 2006,
-        "score": 0.9960787801554001
-    },
-    {
         "team": "France",
-        "edition": 2006,
-        "score": 0.9959502957624283
-    },
-    {
-        "team": "Belgium",
         "edition": 2018,
-        "score": 0.9952848825334015
-    },
-    {
-        "team": "Netherlands",
-        "edition": 2014,
-        "score": 0.9952543134012635
-    },
-    {
-        "team": "Brazil",
-        "edition": 2018,
-        "score": 0.9942028966964636
-    },
-    {
-        "team": "Brazil",
-        "edition": 2010,
-        "score": 0.9936089531614525
+        "score": 0.9990734612671052
     },
     {
         "team": "Argentina",
-        "edition": 2006,
-        "score": 0.9924910815033942
+        "edition": 2002,
+        "score": 0.9989833830459963
     },
     {
         "team": "Germany",
-        "edition": 1998,
-        "score": 0.9916545188170759
-    },
-    {
-        "team": "Norway",
-        "edition": 1994,
-        "score": 0.989759514526011
-    },
-    {
-        "team": "Argentina",
         "edition": 2010,
-        "score": 0.9893548243181342
-    },
-    {
-        "team": "Spain",
-        "edition": 2002,
-        "score": 0.9892191977845743
+        "score": 0.9986106099441716
     },
     {
         "team": "Argentina",
-        "edition": 2002,
-        "score": 0.9884890531487524
-    },
-    {
-        "team": "Spain",
-        "edition": 1998,
-        "score": 0.9864826863712447
-    },
-    {
-        "team": "Netherlands",
         "edition": 2006,
-        "score": 0.9861826580959902
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 2002,
-        "score": 0.9821389619350736
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 2006,
-        "score": 0.9774024586909542
-    },
-    {
-        "team": "Argentina",
-        "edition": 2018,
-        "score": 0.9763175626164508
-    },
-    {
-        "team": "Italy",
-        "edition": 1994,
-        "score": 0.9758747288544183
-    },
-    {
-        "team": "Netherlands",
-        "edition": 2010,
-        "score": 0.9754030421457691
-    },
-    {
-        "team": "Portugal",
-        "edition": 2018,
-        "score": 0.9745184721724328
+        "score": 0.9985877729458108
     },
     {
         "team": "Argentina",
         "edition": 2014,
-        "score": 0.9743437505732734
+        "score": 0.9985397380142326
     },
     {
         "team": "Germany",
         "edition": 2018,
-        "score": 0.974312472411109
+        "score": 0.9975019442734276
     },
     {
-        "team": "Mexico",
-        "edition": 2006,
-        "score": 0.9643952063991441
-    },
-    {
-        "team": "England",
-        "edition": 2014,
-        "score": 0.9634180819353653
-    },
-    {
-        "team": "Spain",
-        "edition": 2018,
-        "score": 0.9626920363486619
-    },
-    {
-        "team": "Germany",
-        "edition": 2014,
-        "score": 0.9622188655353207
-    },
-    {
-        "team": "Portugal",
-        "edition": 2002,
-        "score": 0.960983033871149
-    },
-    {
-        "team": "Portugal",
-        "edition": 2014,
-        "score": 0.9602396725940112
-    },
-    {
-        "team": "France",
-        "edition": 2002,
-        "score": 0.9595474196624081
-    },
-    {
-        "team": "Germany",
-        "edition": 2002,
-        "score": 0.9570989991499512
-    },
-    {
-        "team": "Italy",
-        "edition": 1998,
-        "score": 0.9562567124010801
-    },
-    {
-        "team": "Russia",
-        "edition": 1998,
-        "score": 0.9517029792788884
-    },
-    {
-        "team": "Colombia",
-        "edition": 2018,
-        "score": 0.950674004179971
-    },
-    {
-        "team": "Netherlands",
-        "edition": 1994,
-        "score": 0.9503829760170719
-    },
-    {
-        "team": "England",
-        "edition": 2006,
-        "score": 0.949419880119335
-    },
-    {
-        "team": "England",
+        "team": "Argentina",
         "edition": 2010,
-        "score": 0.9492924124400155
+        "score": 0.99703353221154
     },
     {
         "team": "Brazil",
         "edition": 2014,
-        "score": 0.9492047427011681
+        "score": 0.9968653247463505
     },
     {
-        "team": "Switzerland",
+        "team": "Germany",
         "edition": 1994,
-        "score": 0.9481428222913487
-    },
-    {
-        "team": "Denmark",
-        "edition": 1994,
-        "score": 0.9448589140386707
-    },
-    {
-        "team": "Sweden",
-        "edition": 1994,
-        "score": 0.9438998685003749
-    },
-    {
-        "team": "Chile",
-        "edition": 2018,
-        "score": 0.9436295477999933
-    },
-    {
-        "team": "Netherlands",
-        "edition": 1998,
-        "score": 0.9431734943416039
-    },
-    {
-        "team": "Uruguay",
-        "edition": 2014,
-        "score": 0.9409592885327327
-    },
-    {
-        "team": "Croatia",
-        "edition": 2010,
-        "score": 0.940860054595502
-    },
-    {
-        "team": "Denmark",
-        "edition": 1998,
-        "score": 0.9403361863516744
-    },
-    {
-        "team": "Italy",
-        "edition": 2002,
-        "score": 0.9402375733644821
-    },
-    {
-        "team": "France",
-        "edition": 1998,
-        "score": 0.9385875204833914
-    },
-    {
-        "team": "Italy",
-        "edition": 2014,
-        "score": 0.9363239663755909
-    },
-    {
-        "team": "Romania",
-        "edition": 1998,
-        "score": 0.9343319706342651
-    },
-    {
-        "team": "USA",
-        "edition": 2006,
-        "score": 0.9326464813779592
-    },
-    {
-        "team": "England",
-        "edition": 1994,
-        "score": 0.9320785158179975
-    },
-    {
-        "team": "Argentina",
-        "edition": 1994,
-        "score": 0.9318424976749456
-    },
-    {
-        "team": "Spain",
-        "edition": 1994,
-        "score": 0.930720061839083
-    },
-    {
-        "team": "France",
-        "edition": 2010,
-        "score": 0.930052988571187
-    },
-    {
-        "team": "Portugal",
-        "edition": 2010,
-        "score": 0.9297786719148953
-    },
-    {
-        "team": "Netherlands",
-        "edition": 2002,
-        "score": 0.9284488396304538
-    },
-    {
-        "team": "Portugal",
-        "edition": 2006,
-        "score": 0.9258786900489242
-    },
-    {
-        "team": "Croatia",
-        "edition": 2014,
-        "score": 0.9238189694613331
+        "score": 0.9961340483977068
     },
     {
         "team": "Germany",
         "edition": 2006,
-        "score": 0.9235799118099443
+        "score": 0.9959909580788263
     },
     {
-        "team": "Turkey",
-        "edition": 2006,
-        "score": 0.9221394242885139
-    },
-    {
-        "team": "France",
-        "edition": 2018,
-        "score": 0.9213219420834993
-    },
-    {
-        "team": "Italy",
-        "edition": 2006,
-        "score": 0.9200545031823119
-    },
-    {
-        "team": "Switzerland",
-        "edition": 2018,
-        "score": 0.9199780911182494
-    },
-    {
-        "team": "Norway",
-        "edition": 1998,
-        "score": 0.9193852667383294
-    },
-    {
-        "team": "France",
+        "team": "Argentina",
         "edition": 1994,
-        "score": 0.916594744963467
-    },
-    {
-        "team": "Mexico",
-        "edition": 1998,
-        "score": 0.9159418948390533
-    },
-    {
-        "team": "Russia",
-        "edition": 1994,
-        "score": 0.9152301030124779
-    },
-    {
-        "team": "England",
-        "edition": 2018,
-        "score": 0.914941856682962
-    },
-    {
-        "team": "Mexico",
-        "edition": 2002,
-        "score": 0.9141708564018999
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 2010,
-        "score": 0.9138916604602754
-    },
-    {
-        "team": "Romania",
-        "edition": 2002,
-        "score": 0.9118368256250663
-    },
-    {
-        "team": "Denmark",
-        "edition": 2006,
-        "score": 0.9094762861514982
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 1998,
-        "score": 0.9087501331552666
-    },
-    {
-        "team": "England",
-        "edition": 2002,
-        "score": 0.9077785670047962
+        "score": 0.9959146940503463
     },
     {
         "team": "Argentina",
         "edition": 1998,
-        "score": 0.9074746160437748
+        "score": 0.9957730005875967
     },
     {
-        "team": "Sweden",
-        "edition": 2006,
-        "score": 0.9062738586634355
+        "team": "Brazil",
+        "edition": 2010,
+        "score": 0.9955435069444976
     },
     {
-        "team": "Italy",
+        "team": "Germany",
+        "edition": 2002,
+        "score": 0.9948712862982917
+    },
+    {
+        "team": "Germany",
+        "edition": 1998,
+        "score": 0.9948258518294065
+    },
+    {
+        "team": "Brazil",
         "edition": 2018,
-        "score": 0.9058450081953308
+        "score": 0.9941234674288706
     },
     {
-        "team": "Russia",
+        "team": "Germany",
         "edition": 2014,
-        "score": 0.9054407927968917
-    },
-    {
-        "team": "Norway",
-        "edition": 2002,
-        "score": 0.9048880680882294
-    },
-    {
-        "team": "Nigeria",
-        "edition": 1994,
-        "score": 0.9026227218180332
-    },
-    {
-        "team": "Uruguay",
-        "edition": 2018,
-        "score": 0.9022608194928561
-    },
-    {
-        "team": "Mexico",
-        "edition": 1994,
-        "score": 0.9012702826244882
-    },
-    {
-        "team": "Russia",
-        "edition": 2010,
-        "score": 0.9009763628639651
-    },
-    {
-        "team": "Greece",
-        "edition": 2010,
-        "score": 0.9009442856220412
-    },
-    {
-        "team": "Cameroon",
-        "edition": 2010,
-        "score": 0.9003711447240585
-    },
-    {
-        "team": "Croatia",
-        "edition": 2018,
-        "score": 0.9000824969931384
-    },
-    {
-        "team": "Greece",
-        "edition": 2014,
-        "score": 0.8998273491801617
-    },
-    {
-        "team": "Sweden",
-        "edition": 1998,
-        "score": 0.8994014031903229
-    },
-    {
-        "team": "Romania",
-        "edition": 1994,
-        "score": 0.8993585774950205
-    },
-    {
-        "team": "Croatia",
-        "edition": 2002,
-        "score": 0.8984221421188521
-    },
-    {
-        "team": "Colombia",
-        "edition": 1998,
-        "score": 0.8982844329902961
-    },
-    {
-        "team": "England",
-        "edition": 1998,
-        "score": 0.8973013458270007
-    },
-    {
-        "team": "Netherlands",
-        "edition": 2018,
-        "score": 0.8966773541271619
-    },
-    {
-        "team": "Chile",
-        "edition": 2014,
-        "score": 0.8951041262117054
-    },
-    {
-        "team": "Bulgaria",
-        "edition": 1998,
-        "score": 0.894868829395327
-    },
-    {
-        "team": "Denmark",
-        "edition": 2002,
-        "score": 0.8934615348146959
-    },
-    {
-        "team": "Mexico",
-        "edition": 2010,
-        "score": 0.8910369514740933
-    },
-    {
-        "team": "Poland",
-        "edition": 2018,
-        "score": 0.8905670312728786
-    },
-    {
-        "team": "Paraguay",
-        "edition": 2002,
-        "score": 0.8905621696886076
+        "score": 0.9935850958124552
     },
     {
         "team": "France",
         "edition": 2014,
-        "score": 0.8901242445494787
+        "score": 0.9932863225875079
     },
     {
-        "team": "USA",
-        "edition": 2010,
-        "score": 0.8899258200836305
+        "team": "Italy",
+        "edition": 2006,
+        "score": 0.9932844498564642
     },
     {
-        "team": "Switzerland",
-        "edition": 2014,
-        "score": 0.8890021883379257
-    },
-    {
-        "team": "Mexico",
+        "team": "Italy",
         "edition": 2018,
-        "score": 0.8889796925014203
+        "score": 0.9918893899165572
     },
     {
-        "team": "Sweden",
-        "edition": 2014,
-        "score": 0.8887965582980205
-    },
-    {
-        "team": "Romania",
-        "edition": 2010,
-        "score": 0.8875063360035862
-    },
-    {
-        "team": "Russia",
-        "edition": 2002,
-        "score": 0.887178555793136
-    },
-    {
-        "team": "Mexico",
-        "edition": 2014,
-        "score": 0.8870306184830059
-    },
-    {
-        "team": "Sweden",
-        "edition": 2002,
-        "score": 0.8867684909110567
-    },
-    {
-        "team": "Denmark",
-        "edition": 2014,
-        "score": 0.8866348603994327
-    },
-    {
-        "team": "Colombia",
-        "edition": 2002,
-        "score": 0.8860320090506962
-    },
-    {
-        "team": "Japan",
+        "team": "Italy",
         "edition": 1998,
-        "score": 0.8855971533990659
+        "score": 0.9907489491487722
     },
     {
-        "team": "Portugal",
-        "edition": 1998,
-        "score": 0.8850188448501715
-    },
-    {
-        "team": "Morocco",
-        "edition": 1998,
-        "score": 0.8848518180605565
-    },
-    {
-        "team": "Japan",
+        "team": "Netherlands",
         "edition": 2006,
-        "score": 0.8840804738966751
-    },
-    {
-        "team": "Poland",
-        "edition": 2006,
-        "score": 0.8839166283642892
-    },
-    {
-        "team": "Korea Republic",
-        "edition": 2006,
-        "score": 0.8837534489628043
-    },
-    {
-        "team": "USA",
-        "edition": 2002,
-        "score": 0.8827434040204959
-    },
-    {
-        "team": "Wales",
-        "edition": 2018,
-        "score": 0.8825269703681412
-    },
-    {
-        "team": "Brazil",
-        "edition": 2002,
-        "score": 0.88240506301434
-    },
-    {
-        "team": "Turkey",
-        "edition": 2010,
-        "score": 0.8813681308669149
-    },
-    {
-        "team": "Japan",
-        "edition": 2014,
-        "score": 0.881254737542332
-    },
-    {
-        "team": "Ghana",
-        "edition": 2014,
-        "score": 0.8807266425054736
-    },
-    {
-        "team": "Ukraine",
-        "edition": 2010,
-        "score": 0.8804125673688148
-    },
-    {
-        "team": "Zambia",
-        "edition": 1998,
-        "score": 0.8801763134556002
-    },
-    {
-        "team": "Uruguay",
-        "edition": 1994,
-        "score": 0.8800667392858073
-    },
-    {
-        "team": "Nigeria",
-        "edition": 2006,
-        "score": 0.8800347229807152
-    },
-    {
-        "team": "Croatia",
-        "edition": 2006,
-        "score": 0.8797426571189448
-    },
-    {
-        "team": "Tunisia",
-        "edition": 2002,
-        "score": 0.879569574634851
-    },
-    {
-        "team": "USA",
-        "edition": 2018,
-        "score": 0.8795224076740683
-    },
-    {
-        "team": "Belgium",
-        "edition": 1994,
-        "score": 0.879483176701143
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 2006,
-        "score": 0.8793606929749163
-    },
-    {
-        "team": "Portugal",
-        "edition": 1994,
-        "score": 0.8791888944285725
-    },
-    {
-        "team": "Uruguay",
-        "edition": 2006,
-        "score": 0.8790587643189319
-    },
-    {
-        "team": "Zambia",
-        "edition": 1994,
-        "score": 0.8789691013586258
-    },
-    {
-        "team": "Uruguay",
-        "edition": 2010,
-        "score": 0.8784798915054955
-    },
-    {
-        "team": "Romania",
-        "edition": 2006,
-        "score": 0.8783434341658732
-    },
-    {
-        "team": "Colombia",
-        "edition": 2014,
-        "score": 0.8782386226125173
-    },
-    {
-        "team": "Colombia",
-        "edition": 1994,
-        "score": 0.8782009482137617
-    },
-    {
-        "team": "USA",
-        "edition": 1998,
-        "score": 0.8780843273678494
-    },
-    {
-        "team": "Bulgaria",
-        "edition": 2010,
-        "score": 0.8775870007769302
-    },
-    {
-        "team": "Slovakia",
-        "edition": 2018,
-        "score": 0.8775776023559209
-    },
-    {
-        "team": "Cameroon",
-        "edition": 2006,
-        "score": 0.8773807600367184
-    },
-    {
-        "team": "Australia",
-        "edition": 2014,
-        "score": 0.8769048822634092
-    },
-    {
-        "team": "Serbia",
-        "edition": 2010,
-        "score": 0.8765771237910835
-    },
-    {
-        "team": "Austria",
-        "edition": 2018,
-        "score": 0.8761447530834995
-    },
-    {
-        "team": "Belgium",
-        "edition": 2002,
-        "score": 0.8760490449577207
-    },
-    {
-        "team": "Algeria",
-        "edition": 2018,
-        "score": 0.8759814271279043
-    },
-    {
-        "team": "Egypt",
-        "edition": 2006,
-        "score": 0.8759326193265146
-    },
-    {
-        "team": "Egypt",
-        "edition": 1998,
-        "score": 0.8754363818471836
-    },
-    {
-        "team": "USA",
-        "edition": 2014,
-        "score": 0.8751054723113894
-    },
-    {
-        "team": "Tunisia",
-        "edition": 1998,
-        "score": 0.8749480697343615
-    },
-    {
-        "team": "Israel",
-        "edition": 2010,
-        "score": 0.8747696468688942
-    },
-    {
-        "team": "Saudi Arabia",
-        "edition": 2006,
-        "score": 0.8740484932504331
-    },
-    {
-        "team": "Egypt",
-        "edition": 1994,
-        "score": 0.8740356173360893
-    },
-    {
-        "team": "Ecuador",
-        "edition": 2018,
-        "score": 0.8739671238736895
-    },
-    {
-        "team": "Egypt",
-        "edition": 2010,
-        "score": 0.873677652017137
-    },
-    {
-        "team": "Chile",
-        "edition": 1998,
-        "score": 0.8727587368874159
-    },
-    {
-        "team": "Iceland",
-        "edition": 2018,
-        "score": 0.8721875185281004
-    },
-    {
-        "team": "Ghana",
-        "edition": 2010,
-        "score": 0.871808460757416
+        "score": 0.9894023754752127
     },
     {
         "team": "Austria",
         "edition": 1998,
-        "score": 0.8714915573773938
+        "score": 0.9893313928114253
     },
     {
-        "team": "Russia",
+        "team": "Netherlands",
+        "edition": 1994,
+        "score": 0.9891151137065448
+    },
+    {
+        "team": "Netherlands",
+        "edition": 2010,
+        "score": 0.9891103779901158
+    },
+    {
+        "team": "Portugal",
+        "edition": 2018,
+        "score": 0.9889985102699063
+    },
+    {
+        "team": "Portugal",
+        "edition": 2014,
+        "score": 0.9887696816631287
+    },
+    {
+        "team": "Sweden",
+        "edition": 2014,
+        "score": 0.9887441539195769
+    },
+    {
+        "team": "Portugal",
+        "edition": 2010,
+        "score": 0.9887302915265755
+    },
+    {
+        "team": "Spain",
+        "edition": 2018,
+        "score": 0.9886569214199763
+    },
+    {
+        "team": "Sweden",
+        "edition": 1994,
+        "score": 0.9885214920223713
+    },
+    {
+        "team": "Poland",
         "edition": 2006,
-        "score": 0.8713410476123709
+        "score": 0.9883599395295701
     },
     {
-        "team": "South Africa",
-        "edition": 2002,
-        "score": 0.8710534974949788
+        "team": "France",
+        "edition": 1998,
+        "score": 0.9882506956016843
+    },
+    {
+        "team": "Brazil",
+        "edition": 1994,
+        "score": 0.9882074113038881
+    },
+    {
+        "team": "France",
+        "edition": 1994,
+        "score": 0.9881806314255885
+    },
+    {
+        "team": "Poland",
+        "edition": 2018,
+        "score": 0.9879235098890655
+    },
+    {
+        "team": "Sweden",
+        "edition": 2006,
+        "score": 0.9877692096206832
     },
     {
         "team": "Croatia",
-        "edition": 1998,
-        "score": 0.8710050447017316
-    },
-    {
-        "team": "Australia",
-        "edition": 2002,
-        "score": 0.870905633490954
-    },
-    {
-        "team": "Japan",
         "edition": 2010,
-        "score": 0.8706585575708953
+        "score": 0.9877316467920615
     },
     {
-        "team": "Saudi Arabia",
-        "edition": 2002,
-        "score": 0.8705532283226884
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 2018,
-        "score": 0.8705236370753426
+        "team": "France",
+        "edition": 2010,
+        "score": 0.9876965183359743
     },
     {
         "team": "Belgium",
         "edition": 2014,
-        "score": 0.8704820079965656
-    },
-    {
-        "team": "Belgium",
-        "edition": 1998,
-        "score": 0.8704803124369171
-    },
-    {
-        "team": "Israel",
-        "edition": 2002,
-        "score": 0.8702790712931006
-    },
-    {
-        "team": "Saudi Arabia",
-        "edition": 1994,
-        "score": 0.8701388936645207
-    },
-    {
-        "team": "Belgium",
-        "edition": 2006,
-        "score": 0.8701327403060203
-    },
-    {
-        "team": "Senegal",
-        "edition": 2018,
-        "score": 0.8699537507126052
-    },
-    {
-        "team": "Senegal",
-        "edition": 2006,
-        "score": 0.8698152160972343
-    },
-    {
-        "team": "Cameroon",
-        "edition": 1994,
-        "score": 0.8698047553866705
-    },
-    {
-        "team": "Switzerland",
-        "edition": 2010,
-        "score": 0.8696536085604031
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 2018,
-        "score": 0.8694705111983219
-    },
-    {
-        "team": "Tunisia",
-        "edition": 1994,
-        "score": 0.8694634157601305
-    },
-    {
-        "team": "Poland",
-        "edition": 2010,
-        "score": 0.8693104073222453
-    },
-    {
-        "team": "Korea Republic",
-        "edition": 1998,
-        "score": 0.8692878218107413
+        "score": 0.9876709316100687
     },
     {
         "team": "Bulgaria",
-        "edition": 1994,
-        "score": 0.869259851454884
-    },
-    {
-        "team": "Morocco",
-        "edition": 1994,
-        "score": 0.8692278382369921
-    },
-    {
-        "team": "Denmark",
         "edition": 2010,
-        "score": 0.8691841079968987
+        "score": 0.987640416116195
     },
     {
-        "team": "Saudi Arabia",
-        "edition": 1998,
-        "score": 0.8689629930325197
-    },
-    {
-        "team": "Paraguay",
+        "team": "Portugal",
         "edition": 2006,
-        "score": 0.868507902383874
+        "score": 0.9875405691332886
     },
     {
-        "team": "Scotland",
-        "edition": 1994,
-        "score": 0.8683631210631494
+        "team": "Italy",
+        "edition": 2014,
+        "score": 0.9875183287424972
     },
     {
-        "team": "Slovakia",
-        "edition": 1998,
-        "score": 0.8683521491535517
-    },
-    {
-        "team": "Ukraine",
-        "edition": 2018,
-        "score": 0.8681485826175764
-    },
-    {
-        "team": "Nigeria",
-        "edition": 2010,
-        "score": 0.8679862559766454
-    },
-    {
-        "team": "Greece",
+        "team": "Croatia",
         "edition": 2006,
-        "score": 0.8679569859451992
+        "score": 0.987481013734876
     },
     {
         "team": "Sweden",
         "edition": 2018,
-        "score": 0.8679541433112552
+        "score": 0.987455899931542
     },
     {
-        "team": "Chile",
-        "edition": 2002,
-        "score": 0.8679037175617762
-    },
-    {
-        "team": "Denmark",
-        "edition": 2018,
-        "score": 0.8678696906127341
-    },
-    {
-        "team": "Romania",
-        "edition": 2018,
-        "score": 0.8677882910763316
-    },
-    {
-        "team": "Czech Republic",
-        "edition": 2014,
-        "score": 0.8677761327498477
-    },
-    {
-        "team": "USA",
+        "team": "Italy",
         "edition": 1994,
-        "score": 0.867650170825345
+        "score": 0.9874497110831256
     },
     {
-        "team": "Korea Republic",
-        "edition": 2014,
-        "score": 0.8675882535140768
+        "team": "Netherlands",
+        "edition": 1998,
+        "score": 0.9873654319948818
     },
     {
         "team": "Hungary",
         "edition": 2014,
-        "score": 0.8675152427704583
+        "score": 0.9872661178671122
     },
     {
-        "team": "Egypt",
-        "edition": 2014,
-        "score": 0.8675038683887566
+        "team": "Netherlands",
+        "edition": 2018,
+        "score": 0.9872573428505228
+    },
+    {
+        "team": "Croatia",
+        "edition": 2018,
+        "score": 0.9872558593564374
+    },
+    {
+        "team": "Spain",
+        "edition": 2006,
+        "score": 0.9871545592905087
     },
     {
         "team": "Korea Republic",
-        "edition": 1994,
-        "score": 0.8674180604991399
-    },
-    {
-        "team": "Scotland",
-        "edition": 1998,
-        "score": 0.8673015519515185
-    },
-    {
-        "team": "Honduras",
-        "edition": 1994,
-        "score": 0.8672627590364783
-    },
-    {
-        "team": "Turkey",
         "edition": 2018,
-        "score": 0.8668170179761876
+        "score": 0.9870522460310536
     },
     {
-        "team": "Trinidad and Tobago",
+        "team": "Netherlands",
         "edition": 2002,
-        "score": 0.8667611311321138
+        "score": 0.9869549091525676
+    },
+    {
+        "team": "Spain",
+        "edition": 1994,
+        "score": 0.9865762287115666
+    },
+    {
+        "team": "USA",
+        "edition": 2006,
+        "score": 0.9864592761313271
+    },
+    {
+        "team": "Netherlands",
+        "edition": 2014,
+        "score": 0.9864552854620395
+    },
+    {
+        "team": "USA",
+        "edition": 2018,
+        "score": 0.9863410846897245
+    },
+    {
+        "team": "Spain",
+        "edition": 1998,
+        "score": 0.9862009019628056
+    },
+    {
+        "team": "Bulgaria",
+        "edition": 1998,
+        "score": 0.9861141527118994
+    },
+    {
+        "team": "Sweden",
+        "edition": 1998,
+        "score": 0.9861108984121075
+    },
+    {
+        "team": "Egypt",
+        "edition": 2010,
+        "score": 0.9860787624039576
+    },
+    {
+        "team": "England",
+        "edition": 2010,
+        "score": 0.9860743581027546
+    },
+    {
+        "team": "Morocco",
+        "edition": 1998,
+        "score": 0.9860633940728548
     },
     {
         "team": "Iraq",
-        "edition": 1994,
-        "score": 0.8667212750507168
+        "edition": 1998,
+        "score": 0.9860465965597238
     },
     {
         "team": "Japan",
-        "edition": 1994,
-        "score": 0.8667168062783951
+        "edition": 2010,
+        "score": 0.9859956907787804
     },
     {
-        "team": "Tunisia",
-        "edition": 2006,
-        "score": 0.8667052163643493
+        "team": "Mexico",
+        "edition": 2018,
+        "score": 0.985979317688556
+    },
+    {
+        "team": "Belgium",
+        "edition": 1998,
+        "score": 0.9859511284102819
+    },
+    {
+        "team": "Saudi Arabia",
+        "edition": 1994,
+        "score": 0.9859215345504764
     },
     {
         "team": "Turkey",
-        "edition": 1998,
-        "score": 0.8666755384660154
-    },
-    {
-        "team": "Algeria",
-        "edition": 2014,
-        "score": 0.8665748023567247
-    },
-    {
-        "team": "Norway",
-        "edition": 2014,
-        "score": 0.8664812039016846
-    },
-    {
-        "team": "Tunisia",
-        "edition": 2018,
-        "score": 0.8663130739388202
-    },
-    {
-        "team": "Wales",
-        "edition": 1994,
-        "score": 0.8662231407118358
-    },
-    {
-        "team": "Morocco",
         "edition": 2006,
-        "score": 0.8661863325824334
+        "score": 0.985912366108964
     },
     {
-        "team": "Scotland",
+        "team": "Spain",
         "edition": 2002,
-        "score": 0.8661507441148452
+        "score": 0.9858900167304446
     },
     {
-        "team": "Australia",
-        "edition": 1998,
-        "score": 0.8661294578547052
+        "team": "Ethiopia",
+        "edition": 2006,
+        "score": 0.9858844578152667
     },
     {
-        "team": "Greece",
-        "edition": 1998,
-        "score": 0.8660366530898531
-    },
-    {
-        "team": "Sweden",
+        "team": "USA",
         "edition": 2010,
-        "score": 0.8659075583504956
+        "score": 0.9858353188453859
     },
     {
-        "team": "Poland",
-        "edition": 1994,
-        "score": 0.8657549576299893
-    },
-    {
-        "team": "Ecuador",
-        "edition": 2014,
-        "score": 0.8656455268882742
-    },
-    {
-        "team": "Japan",
-        "edition": 2018,
-        "score": 0.8655925441060566
+        "team": "Russia",
+        "edition": 2002,
+        "score": 0.9857518682880728
     },
     {
         "team": "Egypt",
-        "edition": 2002,
-        "score": 0.8655818807373652
-    },
-    {
-        "team": "Paraguay",
-        "edition": 2010,
-        "score": 0.8652887446665247
-    },
-    {
-        "team": "Scotland",
-        "edition": 2010,
-        "score": 0.865210095821053
-    },
-    {
-        "team": "Ukraine",
-        "edition": 2014,
-        "score": 0.8648501201501851
-    },
-    {
-        "team": "Montenegro",
-        "edition": 2014,
-        "score": 0.8647333068749252
-    },
-    {
-        "team": "Slovakia",
-        "edition": 2002,
-        "score": 0.864719256626269
-    },
-    {
-        "team": "South Africa",
-        "edition": 1998,
-        "score": 0.8647017319747063
-    },
-    {
-        "team": "Turkey",
-        "edition": 2002,
-        "score": 0.8646075179976047
-    },
-    {
-        "team": "Austria",
-        "edition": 2002,
-        "score": 0.8643645917877707
-    },
-    {
-        "team": "Serbia",
-        "edition": 2014,
-        "score": 0.8642972025839606
-    },
-    {
-        "team": "Australia",
         "edition": 2006,
-        "score": 0.8642708796467504
+        "score": 0.985725229595631
     },
     {
-        "team": "Morocco",
-        "edition": 2002,
-        "score": 0.8642615516586771
-    },
-    {
-        "team": "Paraguay",
+        "team": "Korea Republic",
         "edition": 2014,
-        "score": 0.8640315990122148
+        "score": 0.9856734824247048
     },
     {
-        "team": "Cameroon",
+        "team": "Tunisia",
         "edition": 2002,
-        "score": 0.8639792393843665
+        "score": 0.9856227634426796
     },
     {
         "team": "Japan",
-        "edition": 2002,
-        "score": 0.8638924198829996
+        "edition": 1994,
+        "score": 0.9855589493479338
     },
     {
-        "team": "Turkey",
-        "edition": 2014,
-        "score": 0.8638593868375052
+        "team": "Switzerland",
+        "edition": 1994,
+        "score": 0.9855242213723957
     },
     {
-        "team": "Norway",
+        "team": "Nigeria",
+        "edition": 1994,
+        "score": 0.9854291928788796
+    },
+    {
+        "team": "Denmark",
         "edition": 2006,
-        "score": 0.8638255606126661
+        "score": 0.9853987047946883
     },
     {
-        "team": "Poland",
-        "edition": 2002,
-        "score": 0.8637859965058058
-    },
-    {
-        "team": "Peru",
-        "edition": 2018,
-        "score": 0.8637738695588858
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 2018,
-        "score": 0.8637261025569726
+        "team": "Tunisia",
+        "edition": 2006,
+        "score": 0.9853730762428574
     },
     {
         "team": "Bulgaria",
         "edition": 2006,
-        "score": 0.8637122439676278
+        "score": 0.9853641761021859
     },
     {
-        "team": "Algeria",
-        "edition": 1994,
-        "score": 0.8635712801825306
+        "team": "USA",
+        "edition": 2014,
+        "score": 0.9853565017314279
     },
     {
-        "team": "Colombia",
-        "edition": 2010,
-        "score": 0.8633753776636929
-    },
-    {
-        "team": "Morocco",
-        "edition": 2010,
-        "score": 0.863170397294778
-    },
-    {
-        "team": "Norway",
-        "edition": 2010,
-        "score": 0.8631105580878032
-    },
-    {
-        "team": "Egypt",
+        "team": "Zimbabwe",
         "edition": 2018,
-        "score": 0.8630951291532561
+        "score": 0.9853543020091554
     },
     {
-        "team": "Australia",
-        "edition": 2010,
-        "score": 0.8630690025070458
-    },
-    {
-        "team": "Honduras",
-        "edition": 2010,
-        "score": 0.8630539965739229
+        "team": "Russia",
+        "edition": 1998,
+        "score": 0.9853509007615152
     },
     {
         "team": "Nigeria",
         "edition": 2014,
-        "score": 0.8630269880861506
-    },
-    {
-        "team": "Korea Republic",
-        "edition": 2002,
-        "score": 0.8630222191772781
-    },
-    {
-        "team": "Honduras",
-        "edition": 2002,
-        "score": 0.8629788619609979
-    },
-    {
-        "team": "Hungary",
-        "edition": 2018,
-        "score": 0.8628757166985805
-    },
-    {
-        "team": "Jamaica",
-        "edition": 2006,
-        "score": 0.8627849325633208
-    },
-    {
-        "team": "Slovenia",
-        "edition": 2014,
-        "score": 0.8627383127752263
-    },
-    {
-        "team": "Russia",
-        "edition": 2018,
-        "score": 0.8626796405054714
-    },
-    {
-        "team": "Romania",
-        "edition": 2014,
-        "score": 0.8626032498598594
-    },
-    {
-        "team": "Colombia",
-        "edition": 2006,
-        "score": 0.8624882596807131
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 1994,
-        "score": 0.8624363880574861
-    },
-    {
-        "team": "Ghana",
-        "edition": 2018,
-        "score": 0.8622120219578848
-    },
-    {
-        "team": "Greece",
-        "edition": 2002,
-        "score": 0.8619420874205864
-    },
-    {
-        "team": "Greece",
-        "edition": 1994,
-        "score": 0.8618243435657919
-    },
-    {
-        "team": "Austria",
-        "edition": 1994,
-        "score": 0.8617428411438373
-    },
-    {
-        "team": "South Africa",
-        "edition": 2006,
-        "score": 0.8617138066111392
-    },
-    {
-        "team": "Mali",
-        "edition": 2010,
-        "score": 0.8616548166622572
+        "score": 0.9853431884661792
     },
     {
         "team": "Australia",
         "edition": 2018,
-        "score": 0.8614530523571072
+        "score": 0.9853337505215762
     },
     {
-        "team": "Slovakia",
+        "team": "Austria",
+        "edition": 2018,
+        "score": 0.985331196789957
+    },
+    {
+        "team": "Australia",
+        "edition": 1998,
+        "score": 0.9853192434266005
+    },
+    {
+        "team": "Nigeria",
+        "edition": 2006,
+        "score": 0.9853181110051303
+    },
+    {
+        "team": "Japan",
+        "edition": 2018,
+        "score": 0.9853175562595244
+    },
+    {
+        "team": "India",
         "edition": 2010,
-        "score": 0.8613020326445713
+        "score": 0.9852931160942088
     },
     {
-        "team": "Chile",
+        "team": "Saudi Arabia",
+        "edition": 2006,
+        "score": 0.9852496602910028
+    },
+    {
+        "team": "Norway",
+        "edition": 1998,
+        "score": 0.985232505181709
+    },
+    {
+        "team": "Cameroon",
         "edition": 2010,
-        "score": 0.8612385186474539
+        "score": 0.9852028382782603
     },
     {
-        "team": "Ghana",
-        "edition": 1994,
-        "score": 0.8612275027621168
+        "team": "Mexico",
+        "edition": 2006,
+        "score": 0.9851858864398245
+    },
+    {
+        "team": "Romania",
+        "edition": 2006,
+        "score": 0.9851539257791485
+    },
+    {
+        "team": "Switzerland",
+        "edition": 2018,
+        "score": 0.9851370604319055
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 2014,
+        "score": 0.9851097016939477
+    },
+    {
+        "team": "Oman",
+        "edition": 2006,
+        "score": 0.9850462305133955
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 2006,
+        "score": 0.985026561595561
+    },
+    {
+        "team": "Egypt",
+        "edition": 2014,
+        "score": 0.9850149439036373
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 2002,
+        "score": 0.985005323370304
+    },
+    {
+        "team": "Nigeria",
+        "edition": 2002,
+        "score": 0.9849425810742918
+    },
+    {
+        "team": "Japan",
+        "edition": 2014,
+        "score": 0.9849338273532393
     },
     {
         "team": "Korea Republic",
-        "edition": 2018,
-        "score": 0.8611668797261697
+        "edition": 2006,
+        "score": 0.9849280405269338
     },
     {
-        "team": "Guinea",
+        "team": "Saudi Arabia",
         "edition": 2010,
-        "score": 0.8611341899957868
+        "score": 0.9849160724124368
     },
     {
-        "team": "Scotland",
-        "edition": 2018,
-        "score": 0.8610853791948601
+        "team": "Korea Republic",
+        "edition": 2002,
+        "score": 0.984909525516914
     },
     {
-        "team": "Qatar",
+        "team": "Kazakhstan",
+        "edition": 2002,
+        "score": 0.9848814061704839
+    },
+    {
+        "team": "Russia",
         "edition": 1994,
-        "score": 0.8610841902611474
+        "score": 0.9848545451166022
+    },
+    {
+        "team": "Suriname",
+        "edition": 1994,
+        "score": 0.984823970490714
+    },
+    {
+        "team": "Ghana",
+        "edition": 2014,
+        "score": 0.9847925409839865
+    },
+    {
+        "team": "New Caledonia",
+        "edition": 2010,
+        "score": 0.984775811977883
+    },
+    {
+        "team": "India",
+        "edition": 2018,
+        "score": 0.9847478675079059
+    },
+    {
+        "team": "Uganda",
+        "edition": 2010,
+        "score": 0.9847158737915962
+    },
+    {
+        "team": "Saudi Arabia",
+        "edition": 2002,
+        "score": 0.9847133822563164
+    },
+    {
+        "team": "United Arab Emirates",
+        "edition": 2014,
+        "score": 0.9846963998504201
+    },
+    {
+        "team": "Senegal",
+        "edition": 2018,
+        "score": 0.9846946410871347
+    },
+    {
+        "team": "Morocco",
+        "edition": 2010,
+        "score": 0.9846881123094035
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 2010,
+        "score": 0.984681447235837
+    },
+    {
+        "team": "Vietnam",
+        "edition": 2018,
+        "score": 0.9846780244557571
+    },
+    {
+        "team": "Slovenia",
+        "edition": 2002,
+        "score": 0.984648371297798
+    },
+    {
+        "team": "Chile",
+        "edition": 2018,
+        "score": 0.9845774251007448
+    },
+    {
+        "team": "Croatia",
+        "edition": 1998,
+        "score": 0.984562577462609
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 1998,
+        "score": 0.9845323654049142
+    },
+    {
+        "team": "Croatia",
+        "edition": 2014,
+        "score": 0.9845212901824228
+    },
+    {
+        "team": "Turkey",
+        "edition": 1998,
+        "score": 0.9844971207323681
+    },
+    {
+        "team": "Uzbekistan",
+        "edition": 2006,
+        "score": 0.9844881331781055
+    },
+    {
+        "team": "Mexico",
+        "edition": 1994,
+        "score": 0.9844860919864247
+    },
+    {
+        "team": "Switzerland",
+        "edition": 2014,
+        "score": 0.9844844879125694
+    },
+    {
+        "team": "Australia",
+        "edition": 2014,
+        "score": 0.98447843504442
+    },
+    {
+        "team": "Romania",
+        "edition": 1998,
+        "score": 0.9843978603134985
+    },
+    {
+        "team": "Togo",
+        "edition": 2006,
+        "score": 0.9843951046570183
+    },
+    {
+        "team": "Spain",
+        "edition": 2010,
+        "score": 0.9843850861035603
+    },
+    {
+        "team": "Slovakia",
+        "edition": 1994,
+        "score": 0.9843539255066255
+    },
+    {
+        "team": "Senegal",
+        "edition": 2010,
+        "score": 0.9843531869857727
+    },
+    {
+        "team": "Norway",
+        "edition": 1994,
+        "score": 0.9843494164758412
+    },
+    {
+        "team": "Denmark",
+        "edition": 2002,
+        "score": 0.9842895292414271
+    },
+    {
+        "team": "Saudi Arabia",
+        "edition": 1998,
+        "score": 0.9842732930283595
+    },
+    {
+        "team": "Romania",
+        "edition": 1994,
+        "score": 0.9842720239264371
+    },
+    {
+        "team": "Korea Republic",
+        "edition": 1994,
+        "score": 0.9842262727420548
+    },
+    {
+        "team": "Syria",
+        "edition": 2018,
+        "score": 0.9841954840248041
+    },
+    {
+        "team": "Costa Rica",
+        "edition": 2010,
+        "score": 0.9841899607264749
+    },
+    {
+        "team": "Afghanistan",
+        "edition": 2014,
+        "score": 0.9841540007025382
+    },
+    {
+        "team": "Syria",
+        "edition": 2010,
+        "score": 0.9841034884519235
+    },
+    {
+        "team": "Brazil",
+        "edition": 1998,
+        "score": 0.98407221007082
+    },
+    {
+        "team": "Tahiti",
+        "edition": 2018,
+        "score": 0.9840693200537028
+    },
+    {
+        "team": "Norway",
+        "edition": 2002,
+        "score": 0.9840641303084559
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 2002,
+        "score": 0.9840617410203072
+    },
+    {
+        "team": "Zambia",
+        "edition": 1994,
+        "score": 0.9840450695621005
+    },
+    {
+        "team": "Mexico",
+        "edition": 2010,
+        "score": 0.9840044226039993
+    },
+    {
+        "team": "Costa Rica",
+        "edition": 2002,
+        "score": 0.9839592392321045
+    },
+    {
+        "team": "Portugal",
+        "edition": 2002,
+        "score": 0.9839482022059731
+    },
+    {
+        "team": "Benin",
+        "edition": 2018,
+        "score": 0.9838595716122582
+    },
+    {
+        "team": "Japan",
+        "edition": 2006,
+        "score": 0.9838419173727617
+    },
+    {
+        "team": "Poland",
+        "edition": 2014,
+        "score": 0.9837787499348606
+    },
+    {
+        "team": "Korea Republic",
+        "edition": 1998,
+        "score": 0.9837642346369521
     },
     {
         "team": "Congo DR",
         "edition": 2018,
-        "score": 0.8609090895321716
-    },
-    {
-        "team": "Uruguay",
-        "edition": 1998,
-        "score": 0.8608454349948803
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 1994,
-        "score": 0.8607837220581163
-    },
-    {
-        "team": "Finland",
-        "edition": 2006,
-        "score": 0.860565682567678
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 2010,
-        "score": 0.8605503238318064
-    },
-    {
-        "team": "Bolivia",
-        "edition": 1998,
-        "score": 0.8604455742307366
-    },
-    {
-        "team": "Slovenia",
-        "edition": 2002,
-        "score": 0.8603939657201807
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 2002,
-        "score": 0.8603898473881986
+        "score": 0.9837634843665357
     },
     {
         "team": "Thailand",
-        "edition": 1998,
-        "score": 0.8602079512048961
+        "edition": 2010,
+        "score": 0.9837383648958402
     },
     {
-        "team": "Ecuador",
-        "edition": 2006,
-        "score": 0.8601726461407814
+        "team": "Mexico",
+        "edition": 2014,
+        "score": 0.9837326998321098
     },
     {
-        "team": "Trinidad and Tobago",
-        "edition": 1998,
-        "score": 0.8601700926643804
+        "team": "Madagascar",
+        "edition": 2018,
+        "score": 0.9836712656466003
     },
     {
-        "team": "Ukraine",
+        "team": "Egypt",
         "edition": 2002,
-        "score": 0.8601412548184435
+        "score": 0.9836708941707388
+    },
+    {
+        "team": "Denmark",
+        "edition": 2018,
+        "score": 0.9836309911390939
+    },
+    {
+        "team": "Honduras",
+        "edition": 2010,
+        "score": 0.9836135122813231
+    },
+    {
+        "team": "Israel",
+        "edition": 2010,
+        "score": 0.9836125559282101
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 1994,
+        "score": 0.9836102322270779
+    },
+    {
+        "team": "Croatia",
+        "edition": 2002,
+        "score": 0.9835172739547523
     },
     {
         "team": "Tunisia",
         "edition": 2014,
-        "score": 0.8601368653264342
+        "score": 0.983483559512085
     },
     {
-        "team": "Switzerland",
-        "edition": 2006,
-        "score": 0.8599640193221825
-    },
-    {
-        "team": "Ecuador",
-        "edition": 1994,
-        "score": 0.8598164834626428
+        "team": "Chile",
+        "edition": 2014,
+        "score": 0.9834829755646182
     },
     {
         "team": "Tunisia",
+        "edition": 1994,
+        "score": 0.9834620948296654
+    },
+    {
+        "team": "Turkey",
         "edition": 2010,
-        "score": 0.8594370234082699
+        "score": 0.9834122983352508
     },
     {
-        "team": "Ghana",
-        "edition": 1998,
-        "score": 0.8594004942353445
+        "team": "Russia",
+        "edition": 2010,
+        "score": 0.983404909643936
     },
     {
-        "team": "Nigeria",
+        "team": "Poland",
+        "edition": 2010,
+        "score": 0.9834010778715148
+    },
+    {
+        "team": "Serbia",
+        "edition": 2010,
+        "score": 0.9833744962292755
+    },
+    {
+        "team": "Mali",
+        "edition": 2010,
+        "score": 0.9833734683406613
+    },
+    {
+        "team": "Belgium",
+        "edition": 2018,
+        "score": 0.9833712444124008
+    },
+    {
+        "team": "Cameroon",
         "edition": 2002,
-        "score": 0.8593169769253045
+        "score": 0.9833577986270526
+    },
+    {
+        "team": "New Zealand",
+        "edition": 2014,
+        "score": 0.983318757646953
+    },
+    {
+        "team": "Zambia",
+        "edition": 1998,
+        "score": 0.983261892481428
     },
     {
         "team": "Zimbabwe",
         "edition": 1994,
-        "score": 0.8592801373831852
+        "score": 0.9832387217488333
+    },
+    {
+        "team": "Angola",
+        "edition": 2002,
+        "score": 0.9831890418603696
+    },
+    {
+        "team": "Honduras",
+        "edition": 1994,
+        "score": 0.9831586412507222
+    },
+    {
+        "team": "Honduras",
+        "edition": 2002,
+        "score": 0.9831475245462982
+    },
+    {
+        "team": "Zimbabwe",
+        "edition": 2006,
+        "score": 0.9831449783930598
+    },
+    {
+        "team": "Ghana",
+        "edition": 2006,
+        "score": 0.9831432095295997
+    },
+    {
+        "team": "Jamaica",
+        "edition": 1998,
+        "score": 0.9830951841275001
+    },
+    {
+        "team": "USA",
+        "edition": 2002,
+        "score": 0.9830908245858425
+    },
+    {
+        "team": "Iraq",
+        "edition": 2002,
+        "score": 0.9830905514742279
+    },
+    {
+        "team": "Italy",
+        "edition": 2010,
+        "score": 0.9830890092475181
+    },
+    {
+        "team": "Senegal",
+        "edition": 2006,
+        "score": 0.9830781599557629
+    },
+    {
+        "team": "Egypt",
+        "edition": 1994,
+        "score": 0.9830771731591746
+    },
+    {
+        "team": "Japan",
+        "edition": 2002,
+        "score": 0.9830516925224758
+    },
+    {
+        "team": "Brazil",
+        "edition": 2002,
+        "score": 0.9829901603300075
+    },
+    {
+        "team": "United Arab Emirates",
+        "edition": 2018,
+        "score": 0.9829804240048967
+    },
+    {
+        "team": "Belgium",
+        "edition": 1994,
+        "score": 0.9829803012230388
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 2002,
+        "score": 0.9829577447750398
+    },
+    {
+        "team": "Jamaica",
+        "edition": 2010,
+        "score": 0.9829548626111306
+    },
+    {
+        "team": "Jordan",
+        "edition": 1994,
+        "score": 0.9829386063480299
+    },
+    {
+        "team": "Cuba",
+        "edition": 1998,
+        "score": 0.9829274492313411
+    },
+    {
+        "team": "Turkey",
+        "edition": 2018,
+        "score": 0.9828970837971395
+    },
+    {
+        "team": "Colombia",
+        "edition": 2002,
+        "score": 0.982789163973119
+    },
+    {
+        "team": "Angola",
+        "edition": 1998,
+        "score": 0.9827769046659552
+    },
+    {
+        "team": "Romania",
+        "edition": 2014,
+        "score": 0.9827337833210926
+    },
+    {
+        "team": "Jordan",
+        "edition": 2014,
+        "score": 0.9827068197233434
+    },
+    {
+        "team": "Qatar",
+        "edition": 2002,
+        "score": 0.982692057580915
+    },
+    {
+        "team": "Greece",
+        "edition": 2010,
+        "score": 0.9826739888607045
+    },
+    {
+        "team": "Tunisia",
+        "edition": 2018,
+        "score": 0.9826591624807788
+    },
+    {
+        "team": "Saudi Arabia",
+        "edition": 2018,
+        "score": 0.9826044733702416
+    },
+    {
+        "team": "Poland",
+        "edition": 2002,
+        "score": 0.9825787026986894
+    },
+    {
+        "team": "Belgium",
+        "edition": 2002,
+        "score": 0.9825439199138778
+    },
+    {
+        "team": "Chile",
+        "edition": 1998,
+        "score": 0.9825282021104652
+    },
+    {
+        "team": "Israel",
+        "edition": 2006,
+        "score": 0.982488806377521
+    },
+    {
+        "team": "Bahrain",
+        "edition": 2010,
+        "score": 0.9824533629058568
+    },
+    {
+        "team": "Ukraine",
+        "edition": 2014,
+        "score": 0.9824408651865838
+    },
+    {
+        "team": "Kuwait",
+        "edition": 1994,
+        "score": 0.9824403429544261
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 2010,
+        "score": 0.9824356002597927
+    },
+    {
+        "team": "USA",
+        "edition": 1998,
+        "score": 0.982428412331868
+    },
+    {
+        "team": "Scotland",
+        "edition": 2018,
+        "score": 0.9823748376891346
+    },
+    {
+        "team": "Egypt",
+        "edition": 1998,
+        "score": 0.982372404891077
+    },
+    {
+        "team": "Zambia",
+        "edition": 2006,
+        "score": 0.9823715463047379
+    },
+    {
+        "team": "Denmark",
+        "edition": 1998,
+        "score": 0.9823549465610734
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 2014,
+        "score": 0.9823262794163179
+    },
+    {
+        "team": "Curaçao",
+        "edition": 2018,
+        "score": 0.9823091179894463
+    },
+    {
+        "team": "Ukraine",
+        "edition": 2010,
+        "score": 0.9822976099975518
+    },
+    {
+        "team": "Romania",
+        "edition": 2002,
+        "score": 0.9822470871549552
+    },
+    {
+        "team": "Russia",
+        "edition": 2006,
+        "score": 0.9821874672207316
+    },
+    {
+        "team": "Tunisia",
+        "edition": 2010,
+        "score": 0.9821105840897645
+    },
+    {
+        "team": "Grenada",
+        "edition": 1998,
+        "score": 0.9821021297834108
+    },
+    {
+        "team": "France",
+        "edition": 2006,
+        "score": 0.9820604855847328
+    },
+    {
+        "team": "Indonesia",
+        "edition": 2018,
+        "score": 0.9820526085399897
+    },
+    {
+        "team": "Romania",
+        "edition": 2010,
+        "score": 0.982037599226168
+    },
+    {
+        "team": "Russia",
+        "edition": 2014,
+        "score": 0.9820186345188577
+    },
+    {
+        "team": "Japan",
+        "edition": 1998,
+        "score": 0.9819838395940282
+    },
+    {
+        "team": "Philippines",
+        "edition": 2014,
+        "score": 0.9819706281877788
+    },
+    {
+        "team": "Algeria",
+        "edition": 2014,
+        "score": 0.9819632433450037
+    },
+    {
+        "team": "Ghana",
+        "edition": 1994,
+        "score": 0.9818760198417323
+    },
+    {
+        "team": "Greece",
+        "edition": 2002,
+        "score": 0.9818667457976861
+    },
+    {
+        "team": "Jamaica",
+        "edition": 2006,
+        "score": 0.9818659252441426
+    },
+    {
+        "team": "Panama",
+        "edition": 2014,
+        "score": 0.9817260356140449
+    },
+    {
+        "team": "Ghana",
+        "edition": 2010,
+        "score": 0.9816960866752318
+    },
+    {
+        "team": "Italy",
+        "edition": 2002,
+        "score": 0.9815983353396904
+    },
+    {
+        "team": "South Africa",
+        "edition": 2018,
+        "score": 0.9815699945461371
+    },
+    {
+        "team": "Tajikistan",
+        "edition": 1998,
+        "score": 0.9815139834547901
+    },
+    {
+        "team": "Guinea",
+        "edition": 2006,
+        "score": 0.9814125820486881
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 2010,
+        "score": 0.9814118370615164
+    },
+    {
+        "team": "Australia",
+        "edition": 2006,
+        "score": 0.9813671453537821
+    },
+    {
+        "team": "Kuwait",
+        "edition": 1998,
+        "score": 0.981363981411558
+    },
+    {
+        "team": "Vietnam",
+        "edition": 2002,
+        "score": 0.9813629382635016
+    },
+    {
+        "team": "Maldives",
+        "edition": 2010,
+        "score": 0.9813552336733521
+    },
+    {
+        "team": "Guinea",
+        "edition": 2002,
+        "score": 0.9813191722083181
+    },
+    {
+        "team": "Slovakia",
+        "edition": 2006,
+        "score": 0.9813018521259571
+    },
+    {
+        "team": "Bermuda",
+        "edition": 2002,
+        "score": 0.981296010418267
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 2018,
+        "score": 0.9812620038755281
+    },
+    {
+        "team": "Oman",
+        "edition": 2018,
+        "score": 0.9812540084900561
+    },
+    {
+        "team": "Sweden",
+        "edition": 2002,
+        "score": 0.9812441381809717
+    },
+    {
+        "team": "Austria",
+        "edition": 2006,
+        "score": 0.9812098010108761
+    },
+    {
+        "team": "Bulgaria",
+        "edition": 1994,
+        "score": 0.9811919655673632
+    },
+    {
+        "team": "Lebanon",
+        "edition": 1998,
+        "score": 0.9811433178718931
+    },
+    {
+        "team": "England",
+        "edition": 2014,
+        "score": 0.9811064410770813
+    },
+    {
+        "team": "Turkey",
+        "edition": 2014,
+        "score": 0.9810844880548446
+    },
+    {
+        "team": "Algeria",
+        "edition": 2018,
+        "score": 0.9810668938051562
+    },
+    {
+        "team": "Gabon",
+        "edition": 2010,
+        "score": 0.9810105048951969
+    },
+    {
+        "team": "Korea Republic",
+        "edition": 2010,
+        "score": 0.9809649387506592
+    },
+    {
+        "team": "United Arab Emirates",
+        "edition": 1998,
+        "score": 0.9809382257078346
+    },
+    {
+        "team": "Jordan",
+        "edition": 2018,
+        "score": 0.9808437156390778
+    },
+    {
+        "team": "Portugal",
+        "edition": 1994,
+        "score": 0.9808251093138355
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 2014,
+        "score": 0.9808215711624686
+    },
+    {
+        "team": "Bahrain",
+        "edition": 2006,
+        "score": 0.9808117886201608
+    },
+    {
+        "team": "Malaysia",
+        "edition": 1998,
+        "score": 0.9807447547017472
+    },
+    {
+        "team": "Mexico",
+        "edition": 2002,
+        "score": 0.9807237044010181
+    },
+    {
+        "team": "Algeria",
+        "edition": 1994,
+        "score": 0.9807227642845663
+    },
+    {
+        "team": "Thailand",
+        "edition": 2002,
+        "score": 0.9806884669260327
+    },
+    {
+        "team": "Slovakia",
+        "edition": 2018,
+        "score": 0.9806706994275192
+    },
+    {
+        "team": "Denmark",
+        "edition": 2010,
+        "score": 0.9806319579194841
     },
     {
         "team": "Ecuador",
+        "edition": 2014,
+        "score": 0.9805581126303193
+    },
+    {
+        "team": "Turkey",
+        "edition": 2002,
+        "score": 0.9805341243303715
+    },
+    {
+        "team": "Switzerland",
+        "edition": 2006,
+        "score": 0.9805288392091716
+    },
+    {
+        "team": "Lebanon",
+        "edition": 2002,
+        "score": 0.9805151237466924
+    },
+    {
+        "team": "Mexico",
         "edition": 1998,
-        "score": 0.8591903045360075
+        "score": 0.9805069326019383
+    },
+    {
+        "team": "Peru",
+        "edition": 2018,
+        "score": 0.9804787776779337
+    },
+    {
+        "team": "Angola",
+        "edition": 2006,
+        "score": 0.9804724189233971
+    },
+    {
+        "team": "Senegal",
+        "edition": 2002,
+        "score": 0.9804692255933967
+    },
+    {
+        "team": "Kenya",
+        "edition": 1994,
+        "score": 0.980426993780595
+    },
+    {
+        "team": "Norway",
+        "edition": 2010,
+        "score": 0.9804064205650678
+    },
+    {
+        "team": "Cuba",
+        "edition": 2006,
+        "score": 0.9803813824008656
+    },
+    {
+        "team": "Cuba",
+        "edition": 2002,
+        "score": 0.9803245245884856
+    },
+    {
+        "team": "Uzbekistan",
+        "edition": 2014,
+        "score": 0.9803191212836442
+    },
+    {
+        "team": "Indonesia",
+        "edition": 2002,
+        "score": 0.9803170128818856
+    },
+    {
+        "team": "Iceland",
+        "edition": 2018,
+        "score": 0.9802910802663501
+    },
+    {
+        "team": "Portugal",
+        "edition": 1998,
+        "score": 0.980279279140622
+    },
+    {
+        "team": "Fiji",
+        "edition": 2014,
+        "score": 0.980169683776788
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 2010,
+        "score": 0.980161314503768
+    },
+    {
+        "team": "Morocco",
+        "edition": 1994,
+        "score": 0.980151755688204
+    },
+    {
+        "team": "Belgium",
+        "edition": 2006,
+        "score": 0.9801044180256986
+    },
+    {
+        "team": "Mozambique",
+        "edition": 1998,
+        "score": 0.980072661431153
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 2014,
+        "score": 0.980043025496851
+    },
+    {
+        "team": "Denmark",
+        "edition": 2014,
+        "score": 0.98003691285459
+    },
+    {
+        "team": "Serbia",
+        "edition": 2018,
+        "score": 0.9800256761919771
+    },
+    {
+        "team": "Paraguay",
+        "edition": 2002,
+        "score": 0.9799844952198437
+    },
+    {
+        "team": "Congo DR",
+        "edition": 2006,
+        "score": 0.9799828824484063
+    },
+    {
+        "team": "Rwanda",
+        "edition": 2002,
+        "score": 0.9799299576519567
+    },
+    {
+        "team": "New Caledonia",
+        "edition": 2018,
+        "score": 0.97992848963785
+    },
+    {
+        "team": "Zimbabwe",
+        "edition": 2002,
+        "score": 0.9799003881418751
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 1994,
+        "score": 0.9798934901356954
     },
     {
         "team": "Kuwait",
         "edition": 2002,
-        "score": 0.8590962209061225
+        "score": 0.9798538036333455
     },
     {
-        "team": "Iraq",
-        "edition": 2006,
-        "score": 0.8590953823837714
+        "team": "Ghana",
+        "edition": 2002,
+        "score": 0.9797695353551001
+    },
+    {
+        "team": "Qatar",
+        "edition": 1994,
+        "score": 0.9797301216212299
+    },
+    {
+        "team": "Uganda",
+        "edition": 2014,
+        "score": 0.9797273709731553
+    },
+    {
+        "team": "Nigeria",
+        "edition": 2018,
+        "score": 0.9797011607807069
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 2010,
+        "score": 0.9796919062593027
     },
     {
         "team": "Yugoslavia",
         "edition": 1994,
-        "score": 0.8590601231599578
+        "score": 0.9796676459976912
+    },
+    {
+        "team": "Suriname",
+        "edition": 2014,
+        "score": 0.9796022320182297
+    },
+    {
+        "team": "Singapore",
+        "edition": 2010,
+        "score": 0.9795725170426194
+    },
+    {
+        "team": "Ghana",
+        "edition": 2018,
+        "score": 0.9795581557344063
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 2018,
+        "score": 0.9795134076697884
+    },
+    {
+        "team": "Iceland",
+        "edition": 2002,
+        "score": 0.9795075741527014
+    },
+    {
+        "team": "Slovakia",
+        "edition": 1998,
+        "score": 0.9795067299443513
+    },
+    {
+        "team": "Hungary",
+        "edition": 2002,
+        "score": 0.9794952573372787
+    },
+    {
+        "team": "Mali",
+        "edition": 2006,
+        "score": 0.9794627989738742
+    },
+    {
+        "team": "Bermuda",
+        "edition": 2014,
+        "score": 0.9794335277260949
+    },
+    {
+        "team": "Gabon",
+        "edition": 1998,
+        "score": 0.9793839300853342
+    },
+    {
+        "team": "Kuwait",
+        "edition": 2006,
+        "score": 0.9793838531895672
+    },
+    {
+        "team": "Cuba",
+        "edition": 1994,
+        "score": 0.979372518767494
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 1994,
+        "score": 0.9792970302807305
+    },
+    {
+        "team": "Denmark",
+        "edition": 1994,
+        "score": 0.9792798200708314
+    },
+    {
+        "team": "Cameroon",
+        "edition": 2018,
+        "score": 0.9792714269047444
+    },
+    {
+        "team": "Palestine",
+        "edition": 2018,
+        "score": 0.9792672512249188
+    },
+    {
+        "team": "Belarus",
+        "edition": 2006,
+        "score": 0.9792469416398412
+    },
+    {
+        "team": "Libya",
+        "edition": 2010,
+        "score": 0.9792437537758872
     },
     {
         "team": "Switzerland",
-        "edition": 1998,
-        "score": 0.8588922379563695
+        "edition": 2010,
+        "score": 0.979183383500689
     },
     {
-        "team": "Bulgaria",
+        "team": "Fiji",
+        "edition": 1994,
+        "score": 0.9791338122364666
+    },
+    {
+        "team": "Barbados",
+        "edition": 1994,
+        "score": 0.9790859576213364
+    },
+    {
+        "team": "Syria",
+        "edition": 2006,
+        "score": 0.9790850654899516
+    },
+    {
+        "team": "Switzerland",
         "edition": 2002,
-        "score": 0.8588778981623317
+        "score": 0.9789916885942703
     },
     {
-        "team": "Serbia",
+        "team": "Guinea",
+        "edition": 2014,
+        "score": 0.9789711751834893
+    },
+    {
+        "team": "Colombia",
         "edition": 2018,
-        "score": 0.858806433797763
+        "score": 0.978908933758121
+    },
+    {
+        "team": "Hungary",
+        "edition": 2018,
+        "score": 0.9788949430823393
     },
     {
         "team": "Uzbekistan",
         "edition": 2002,
-        "score": 0.8586305334538732
+        "score": 0.9788108277834623
     },
     {
-        "team": "Panama",
+        "team": "Fiji",
+        "edition": 2006,
+        "score": 0.9787992468550114
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 2018,
+        "score": 0.9787519337417573
+    },
+    {
+        "team": "England",
+        "edition": 2006,
+        "score": 0.9787317963124857
+    },
+    {
+        "team": "Thailand",
+        "edition": 1998,
+        "score": 0.9786997681357383
+    },
+    {
+        "team": "Kuwait",
         "edition": 2014,
-        "score": 0.8585896425555583
+        "score": 0.9786922628517905
+    },
+    {
+        "team": "South Africa",
+        "edition": 1998,
+        "score": 0.9786896077011102
+    },
+    {
+        "team": "Jordan",
+        "edition": 2006,
+        "score": 0.9785586261847442
+    },
+    {
+        "team": "Congo",
+        "edition": 2010,
+        "score": 0.9785544481862603
+    },
+    {
+        "team": "Mali",
+        "edition": 2002,
+        "score": 0.9784338680286152
+    },
+    {
+        "team": "Algeria",
+        "edition": 2010,
+        "score": 0.9783560419402377
+    },
+    {
+        "team": "Finland",
+        "edition": 2002,
+        "score": 0.978334921207991
+    },
+    {
+        "team": "Dominica",
+        "edition": 1998,
+        "score": 0.9783159148060674
+    },
+    {
+        "team": "Congo DR",
+        "edition": 2014,
+        "score": 0.9782798393251739
+    },
+    {
+        "team": "South Africa",
+        "edition": 2002,
+        "score": 0.9782648170436674
+    },
+    {
+        "team": "Singapore",
+        "edition": 2006,
+        "score": 0.9782194360005033
+    },
+    {
+        "team": "Suriname",
+        "edition": 2010,
+        "score": 0.9782113141804983
+    },
+    {
+        "team": "Jamaica",
+        "edition": 1994,
+        "score": 0.9782054842557846
     },
     {
         "team": "Cameroon",
-        "edition": 1998,
-        "score": 0.8585547654803405
+        "edition": 2014,
+        "score": 0.9781610197919266
     },
     {
-        "team": "Saudi Arabia",
-        "edition": 2018,
-        "score": 0.8585040294145239
-    },
-    {
-        "team": "Saudi Arabia",
+        "team": "Venezuela",
         "edition": 2010,
-        "score": 0.8585000938224492
+        "score": 0.9781368911837416
+    },
+    {
+        "team": "Oman",
+        "edition": 2010,
+        "score": 0.9781328677219907
+    },
+    {
+        "team": "Morocco",
+        "edition": 2006,
+        "score": 0.9781048624855078
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 2018,
+        "score": 0.9781037947095729
+    },
+    {
+        "team": "Haiti",
+        "edition": 2014,
+        "score": 0.9780938968096213
+    },
+    {
+        "team": "Poland",
+        "edition": 1994,
+        "score": 0.9780670271429379
     },
     {
         "team": "Greece",
-        "edition": 2018,
-        "score": 0.8584883381848836
-    },
-    {
-        "team": "Fiji",
-        "edition": 2002,
-        "score": 0.8583617899115804
-    },
-    {
-        "team": "Canada",
-        "edition": 1994,
-        "score": 0.858326208504875
-    },
-    {
-        "team": "Senegal",
-        "edition": 2010,
-        "score": 0.8582681791135037
-    },
-    {
-        "team": "Tajikistan",
-        "edition": 2002,
-        "score": 0.8582646733223616
-    },
-    {
-        "team": "Uruguay",
-        "edition": 2002,
-        "score": 0.858219725889539
-    },
-    {
-        "team": "Iceland",
-        "edition": 2002,
-        "score": 0.858195304099191
-    },
-    {
-        "team": "Honduras",
-        "edition": 2006,
-        "score": 0.858127682706773
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 2006,
-        "score": 0.8578906905683453
-    },
-    {
-        "team": "Thailand",
-        "edition": 2002,
-        "score": 0.857778698390268
-    },
-    {
-        "team": "Poland",
         "edition": 1998,
-        "score": 0.8577140462566655
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 2010,
-        "score": 0.8575793998193149
-    },
-    {
-        "team": "Nigeria",
-        "edition": 2018,
-        "score": 0.8574747015837504
-    },
-    {
-        "team": "Korea Republic",
-        "edition": 2010,
-        "score": 0.8574263633174705
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 1994,
-        "score": 0.8572552831418467
-    },
-    {
-        "team": "Israel",
-        "edition": 1998,
-        "score": 0.8571777435342325
-    },
-    {
-        "team": "Slovakia",
-        "edition": 2006,
-        "score": 0.8571618150184936
-    },
-    {
-        "team": "Jamaica",
-        "edition": 1998,
-        "score": 0.8570679214320741
-    },
-    {
-        "team": "Ecuador",
-        "edition": 2010,
-        "score": 0.8569223217724219
-    },
-    {
-        "team": "Kuwait",
-        "edition": 1994,
-        "score": 0.8567979325059843
-    },
-    {
-        "team": "Nigeria",
-        "edition": 1998,
-        "score": 0.8565704544702515
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 2002,
-        "score": 0.8565502882286714
-    },
-    {
-        "team": "Serbia",
-        "edition": 2006,
-        "score": 0.8565176845888829
-    },
-    {
-        "team": "Ghana",
-        "edition": 2002,
-        "score": 0.856491137132101
-    },
-    {
-        "team": "Oman",
-        "edition": 2006,
-        "score": 0.8563874010302787
-    },
-    {
-        "team": "Bahamas",
-        "edition": 2014,
-        "score": 0.8562990069348634
-    },
-    {
-        "team": "Lithuania",
-        "edition": 1998,
-        "score": 0.8562345471896039
-    },
-    {
-        "team": "Hungary",
-        "edition": 2002,
-        "score": 0.8562017333090343
-    },
-    {
-        "team": "Chile",
-        "edition": 1994,
-        "score": 0.856164168844414
-    },
-    {
-        "team": "Israel",
-        "edition": 2006,
-        "score": 0.8561436287876438
-    },
-    {
-        "team": "Finland",
-        "edition": 2002,
-        "score": 0.8561151024666376
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 2018,
-        "score": 0.8561008377506427
-    },
-    {
-        "team": "Angola",
-        "edition": 2002,
-        "score": 0.8560195097687545
-    },
-    {
-        "team": "Switzerland",
-        "edition": 2002,
-        "score": 0.8559975739598957
-    },
-    {
-        "team": "Hungary",
-        "edition": 1994,
-        "score": 0.8559351278313362
-    },
-    {
-        "team": "Peru",
-        "edition": 2014,
-        "score": 0.8559294853042654
-    },
-    {
-        "team": "Israel",
-        "edition": 2014,
-        "score": 0.8558555412806448
-    },
-    {
-        "team": "Mali",
-        "edition": 2006,
-        "score": 0.8556983178989744
-    },
-    {
-        "team": "Uzbekistan",
-        "edition": 2010,
-        "score": 0.8556689807170139
-    },
-    {
-        "team": "Paraguay",
-        "edition": 1998,
-        "score": 0.8556651374815055
-    },
-    {
-        "team": "Jamaica",
-        "edition": 2002,
-        "score": 0.8555085872749982
-    },
-    {
-        "team": "Bahrain",
-        "edition": 2006,
-        "score": 0.8553883685136394
-    },
-    {
-        "team": "Algeria",
-        "edition": 1998,
-        "score": 0.8551681610126052
-    },
-    {
-        "team": "Slovenia",
-        "edition": 2006,
-        "score": 0.8551665623895977
-    },
-    {
-        "team": "Mali",
-        "edition": 2014,
-        "score": 0.854959782464655
-    },
-    {
-        "team": "Armenia",
-        "edition": 2014,
-        "score": 0.8548119878404304
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 2014,
-        "score": 0.8547966735420518
-    },
-    {
-        "team": "Honduras",
-        "edition": 2014,
-        "score": 0.8547352260050569
-    },
-    {
-        "team": "New Caledonia",
-        "edition": 2014,
-        "score": 0.8547120757109714
-    },
-    {
-        "team": "Morocco",
-        "edition": 2018,
-        "score": 0.8546815082885191
-    },
-    {
-        "team": "Zambia",
-        "edition": 2002,
-        "score": 0.8546349681951134
-    },
-    {
-        "team": "Albania",
-        "edition": 2018,
-        "score": 0.8545404782257536
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 1994,
-        "score": 0.8545284199482769
-    },
-    {
-        "team": "Uzbekistan",
-        "edition": 2006,
-        "score": 0.8545183899895774
-    },
-    {
-        "team": "Cameroon",
-        "edition": 2018,
-        "score": 0.8545156973854113
-    },
-    {
-        "team": "Cameroon",
-        "edition": 2014,
-        "score": 0.8545088827068092
-    },
-    {
-        "team": "Peru",
-        "edition": 1998,
-        "score": 0.8544780488152155
-    },
-    {
-        "team": "Guinea",
-        "edition": 1998,
-        "score": 0.8544769751837674
-    },
-    {
-        "team": "Gabon",
-        "edition": 1998,
-        "score": 0.8544644501197363
-    },
-    {
-        "team": "Trinidad and Tobago",
-        "edition": 2006,
-        "score": 0.8544468692044933
-    },
-    {
-        "team": "Venezuela",
-        "edition": 2014,
-        "score": 0.8544123319417212
-    },
-    {
-        "team": "Indonesia",
-        "edition": 2002,
-        "score": 0.8543661935101057
-    },
-    {
-        "team": "Australia",
-        "edition": 1994,
-        "score": 0.854355647169275
-    },
-    {
-        "team": "Kuwait",
-        "edition": 1998,
-        "score": 0.8542955520650871
-    },
-    {
-        "team": "Peru",
-        "edition": 2002,
-        "score": 0.8542861004349678
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 1998,
-        "score": 0.8542494150825651
-    },
-    {
-        "team": "Hungary",
-        "edition": 2006,
-        "score": 0.8542333685372584
-    },
-    {
-        "team": "Slovakia",
-        "edition": 2014,
-        "score": 0.8541487710706057
-    },
-    {
-        "team": "Scotland",
-        "edition": 2014,
-        "score": 0.8541217772526176
-    },
-    {
-        "team": "Honduras",
-        "edition": 1998,
-        "score": 0.8540760692821915
-    },
-    {
-        "team": "Austria",
-        "edition": 2014,
-        "score": 0.8540641556300832
-    },
-    {
-        "team": "New Zealand",
-        "edition": 1994,
-        "score": 0.854055285436515
-    },
-    {
-        "team": "Ghana",
-        "edition": 2006,
-        "score": 0.8540413124282914
-    },
-    {
-        "team": "Libya",
-        "edition": 2014,
-        "score": 0.8539339524543955
-    },
-    {
-        "team": "Slovenia",
-        "edition": 2018,
-        "score": 0.853907229796231
-    },
-    {
-        "team": "Kuwait",
-        "edition": 2006,
-        "score": 0.8539029225524233
-    },
-    {
-        "team": "Venezuela",
-        "edition": 2010,
-        "score": 0.8539019215162791
-    },
-    {
-        "team": "Senegal",
-        "edition": 1994,
-        "score": 0.8538851115050046
-    },
-    {
-        "team": "Haiti",
-        "edition": 2014,
-        "score": 0.8538804900755086
-    },
-    {
-        "team": "South Africa",
-        "edition": 2014,
-        "score": 0.8538624135549222
-    },
-    {
-        "team": "Jordan",
-        "edition": 2006,
-        "score": 0.8538001534449182
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 2002,
-        "score": 0.8537515315986197
-    },
-    {
-        "team": "New Caledonia",
-        "edition": 2006,
-        "score": 0.8537185944384018
-    },
-    {
-        "team": "Ecuador",
-        "edition": 2002,
-        "score": 0.85368271951778
-    },
-    {
-        "team": "Vietnam",
-        "edition": 2002,
-        "score": 0.8536186878146349
-    },
-    {
-        "team": "Iceland",
-        "edition": 1994,
-        "score": 0.8536043783745134
-    },
-    {
-        "team": "Qatar",
-        "edition": 1998,
-        "score": 0.8535678990725637
-    },
-    {
-        "team": "Fiji",
-        "edition": 1994,
-        "score": 0.8535600386743307
-    },
-    {
-        "team": "Qatar",
-        "edition": 2006,
-        "score": 0.8535570427417369
-    },
-    {
-        "team": "Iraq",
-        "edition": 2002,
-        "score": 0.853529256315672
-    },
-    {
-        "team": "Bolivia",
-        "edition": 1994,
-        "score": 0.8534617643228258
-    },
-    {
-        "team": "Guinea",
-        "edition": 2014,
-        "score": 0.8533911411260476
-    },
-    {
-        "team": "Austria",
-        "edition": 2006,
-        "score": 0.8533907147776495
-    },
-    {
-        "team": "Haiti",
-        "edition": 2002,
-        "score": 0.8533566982215625
-    },
-    {
-        "team": "Poland",
-        "edition": 2014,
-        "score": 0.8533450964194471
-    },
-    {
-        "team": "Fiji",
-        "edition": 2010,
-        "score": 0.8533352998341204
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 2010,
-        "score": 0.8532808551461027
-    },
-    {
-        "team": "Cyprus",
-        "edition": 2002,
-        "score": 0.853256696890798
-    },
-    {
-        "team": "Iraq",
-        "edition": 1998,
-        "score": 0.8531938836551128
-    },
-    {
-        "team": "South Africa",
-        "edition": 2018,
-        "score": 0.8531265326088344
-    },
-    {
-        "team": "Angola",
-        "edition": 1998,
-        "score": 0.8531264670676283
-    },
-    {
-        "team": "Zambia",
-        "edition": 2006,
-        "score": 0.8531166025203964
-    },
-    {
-        "team": "Finland",
-        "edition": 2010,
-        "score": 0.8531084686644271
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 1998,
-        "score": 0.8530818803405635
-    },
-    {
-        "team": "Panama",
-        "edition": 2018,
-        "score": 0.8530760750633855
-    },
-    {
-        "team": "Palestine",
-        "edition": 2018,
-        "score": 0.8530759952314432
-    },
-    {
-        "team": "Fiji",
-        "edition": 2006,
-        "score": 0.8530548946740777
-    },
-    {
-        "team": "Guinea",
-        "edition": 2018,
-        "score": 0.8530504683646334
-    },
-    {
-        "team": "Hungary",
-        "edition": 2010,
-        "score": 0.8530292035763232
-    },
-    {
-        "team": "El Salvador",
-        "edition": 1994,
-        "score": 0.85300172469889
-    },
-    {
-        "team": "Guatemala",
-        "edition": 2002,
-        "score": 0.85289948069561
-    },
-    {
-        "team": "Uzbekistan",
-        "edition": 2018,
-        "score": 0.8528944006484516
-    },
-    {
-        "team": "Zambia",
-        "edition": 2014,
-        "score": 0.8528656052971086
-    },
-    {
-        "team": "Trinidad and Tobago",
-        "edition": 2014,
-        "score": 0.852848508661834
-    },
-    {
-        "team": "Trinidad and Tobago",
-        "edition": 2010,
-        "score": 0.8528355898446839
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 2014,
-        "score": 0.8527915137352814
-    },
-    {
-        "team": "Ukraine",
-        "edition": 2006,
-        "score": 0.8527862121730385
-    },
-    {
-        "team": "Uzbekistan",
-        "edition": 2014,
-        "score": 0.8527847636905262
-    },
-    {
-        "team": "Cuba",
-        "edition": 1998,
-        "score": 0.8527826423587611
-    },
-    {
-        "team": "Congo DR",
-        "edition": 2006,
-        "score": 0.8527544581246169
-    },
-    {
-        "team": "Belgium",
-        "edition": 2010,
-        "score": 0.8527408085342599
-    },
-    {
-        "team": "Uganda",
-        "edition": 2010,
-        "score": 0.8527296128317358
-    },
-    {
-        "team": "Belarus",
-        "edition": 2010,
-        "score": 0.8527118411841951
-    },
-    {
-        "team": "Cuba",
-        "edition": 2006,
-        "score": 0.8527098746262214
-    },
-    {
-        "team": "Belarus",
-        "edition": 2006,
-        "score": 0.8526608824362006
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 2010,
-        "score": 0.8526534032819562
-    },
-    {
-        "team": "Guatemala",
-        "edition": 2006,
-        "score": 0.8525408939443758
-    },
-    {
-        "team": "Trinidad and Tobago",
-        "edition": 1994,
-        "score": 0.852501097770808
-    },
-    {
-        "team": "Costa Rica",
-        "edition": 1998,
-        "score": 0.8524642363447088
-    },
-    {
-        "team": "Bahrain",
-        "edition": 2010,
-        "score": 0.8524312512026955
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 2018,
-        "score": 0.852420110236265
-    },
-    {
-        "team": "Ukraine",
-        "edition": 1998,
-        "score": 0.8524062492257827
-    },
-    {
-        "team": "Thailand",
-        "edition": 2006,
-        "score": 0.8523976836821032
-    },
-    {
-        "team": "Gabon",
-        "edition": 1994,
-        "score": 0.852345931776199
-    },
-    {
-        "team": "Venezuela",
-        "edition": 2006,
-        "score": 0.8523292487582678
-    },
-    {
-        "team": "Algeria",
-        "edition": 2010,
-        "score": 0.8523036096433739
-    },
-    {
-        "team": "Togo",
-        "edition": 2006,
-        "score": 0.8522854059657156
-    },
-    {
-        "team": "Iceland",
-        "edition": 1998,
-        "score": 0.8522703195592058
-    },
-    {
-        "team": "Haiti",
-        "edition": 2006,
-        "score": 0.8522566708588656
-    },
-    {
-        "team": "Senegal",
-        "edition": 1998,
-        "score": 0.8522255146404475
-    },
-    {
-        "team": "Montenegro",
-        "edition": 2018,
-        "score": 0.8521939555116632
-    },
-    {
-        "team": "Finland",
-        "edition": 1998,
-        "score": 0.8521195443708088
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 1998,
-        "score": 0.8520971790699519
-    },
-    {
-        "team": "Paraguay",
-        "edition": 2018,
-        "score": 0.8520905047391508
-    },
-    {
-        "team": "Mali",
-        "edition": 1998,
-        "score": 0.8520796180397517
-    },
-    {
-        "team": "Wales",
-        "edition": 1998,
-        "score": 0.8520214497213145
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 2006,
-        "score": 0.8520204351839251
-    },
-    {
-        "team": "Mozambique",
-        "edition": 1998,
-        "score": 0.8519961098170359
-    },
-    {
-        "team": "Wales",
-        "edition": 2010,
-        "score": 0.8519733498813356
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 2002,
-        "score": 0.8519587012314964
-    },
-    {
-        "team": "Bermuda",
-        "edition": 2014,
-        "score": 0.8519493940609784
-    },
-    {
-        "team": "Morocco",
-        "edition": 2014,
-        "score": 0.8519316414289805
-    },
-    {
-        "team": "Qatar",
-        "edition": 2018,
-        "score": 0.8518439209024915
-    },
-    {
-        "team": "Finland",
-        "edition": 1994,
-        "score": 0.8518014736522675
+        "score": 0.9780267386822901
     },
     {
         "team": "Tahiti",
-        "edition": 2002,
-        "score": 0.8517861560892475
+        "edition": 1994,
+        "score": 0.9780141152506983
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 2006,
+        "score": 0.9779865587132675
+    },
+    {
+        "team": "Russia",
+        "edition": 2018,
+        "score": 0.9779515792501867
+    },
+    {
+        "team": "Chile",
+        "edition": 2010,
+        "score": 0.9778828185318741
+    },
+    {
+        "team": "Morocco",
+        "edition": 2018,
+        "score": 0.9778692168530446
     },
     {
         "team": "Algeria",
         "edition": 2002,
-        "score": 0.851781625591189
+        "score": 0.9778583614054328
     },
     {
-        "team": "Trinidad and Tobago",
+        "team": "United Arab Emirates",
+        "edition": 2002,
+        "score": 0.9777963043767693
+    },
+    {
+        "team": "Thailand",
+        "edition": 2014,
+        "score": 0.9777126030943294
+    },
+    {
+        "team": "Dominican Republic",
         "edition": 2018,
-        "score": 0.8517780429233619
+        "score": 0.9776757316447595
     },
     {
-        "team": "Jamaica",
-        "edition": 2010,
-        "score": 0.851742150079954
-    },
-    {
-        "team": "Congo",
+        "team": "Lebanon",
         "edition": 2018,
-        "score": 0.8517375487001138
+        "score": 0.9776051180900978
     },
     {
-        "team": "Canada",
-        "edition": 2010,
-        "score": 0.8517049177669684
+        "team": "Haiti",
+        "edition": 2002,
+        "score": 0.9775653653213923
     },
     {
-        "team": "Hong Kong",
-        "edition": 2006,
-        "score": 0.8516785420224703
+        "team": "Guinea",
+        "edition": 1998,
+        "score": 0.9775586323734963
     },
     {
-        "team": "Gabon",
-        "edition": 2010,
-        "score": 0.8516642258076984
+        "team": "Qatar",
+        "edition": 1998,
+        "score": 0.9775514231570613
+    },
+    {
+        "team": "Czech Republic",
+        "edition": 2014,
+        "score": 0.9775362307634511
     },
     {
         "team": "El Salvador",
         "edition": 2014,
-        "score": 0.8516547073857238
+        "score": 0.9775217744693568
     },
     {
-        "team": "Peru",
-        "edition": 2006,
-        "score": 0.8516534961564326
-    },
-    {
-        "team": "Oman",
-        "edition": 2002,
-        "score": 0.8515632109662928
-    },
-    {
-        "team": "Latvia",
-        "edition": 2006,
-        "score": 0.8515613087375119
-    },
-    {
-        "team": "Lithuania",
-        "edition": 2010,
-        "score": 0.8515535248086827
-    },
-    {
-        "team": "Malaysia",
+        "team": "Philippines",
         "edition": 1994,
-        "score": 0.8515418696992926
-    },
-    {
-        "team": "Congo DR",
-        "edition": 2002,
-        "score": 0.8515190693781877
-    },
-    {
-        "team": "Kenya",
-        "edition": 1994,
-        "score": 0.8514866862462304
-    },
-    {
-        "team": "New Zealand",
-        "edition": 2006,
-        "score": 0.8514758039317746
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 2010,
-        "score": 0.8514346952265489
-    },
-    {
-        "team": "Libya",
-        "edition": 2006,
-        "score": 0.8513907463306759
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 2014,
-        "score": 0.8513592303625716
-    },
-    {
-        "team": "Cuba",
-        "edition": 2002,
-        "score": 0.8513393350424059
+        "score": 0.9774922002835822
     },
     {
         "team": "Syria",
-        "edition": 2006,
-        "score": 0.8513068841573163
-    },
-    {
-        "team": "Canada",
-        "edition": 1998,
-        "score": 0.8513033032128046
-    },
-    {
-        "team": "Georgia",
         "edition": 2002,
-        "score": 0.8512806612296525
-    },
-    {
-        "team": "Singapore",
-        "edition": 1994,
-        "score": 0.8512744682410034
-    },
-    {
-        "team": "Jamaica",
-        "edition": 2014,
-        "score": 0.8512595106024018
-    },
-    {
-        "team": "Jordan",
-        "edition": 1994,
-        "score": 0.851247606369449
+        "score": 0.9774883908914183
     },
     {
         "team": "Norway",
+        "edition": 2006,
+        "score": 0.9774561027999414
+    },
+    {
+        "team": "Colombia",
+        "edition": 1994,
+        "score": 0.9774404332257217
+    },
+    {
+        "team": "Thailand",
         "edition": 2018,
-        "score": 0.8511833606591549
-    },
-    {
-        "team": "New Zealand",
-        "edition": 2014,
-        "score": 0.8511615865379583
-    },
-    {
-        "team": "Angola",
-        "edition": 2010,
-        "score": 0.8511544117532743
+        "score": 0.9774208162802185
     },
     {
         "team": "Haiti",
-        "edition": 2018,
-        "score": 0.8511492835046448
+        "edition": 1998,
+        "score": 0.9773720064304114
     },
     {
-        "team": "Congo DR",
-        "edition": 2010,
-        "score": 0.8511317897784658
-    },
-    {
-        "team": "Latvia",
-        "edition": 2010,
-        "score": 0.8511014273006727
-    },
-    {
-        "team": "Senegal",
-        "edition": 2002,
-        "score": 0.8511012475729652
-    },
-    {
-        "team": "Mali",
-        "edition": 2018,
-        "score": 0.8510743661800928
-    },
-    {
-        "team": "Jamaica",
+        "team": "Lesotho",
         "edition": 1994,
-        "score": 0.8510677459903336
+        "score": 0.977340096389661
     },
     {
         "team": "Bulgaria",
-        "edition": 2018,
-        "score": 0.8510411045355685
-    },
-    {
-        "team": "Jordan",
-        "edition": 2014,
-        "score": 0.8510390271707411
-    },
-    {
-        "team": "Cuba",
-        "edition": 2010,
-        "score": 0.8510364560147348
-    },
-    {
-        "team": "Tahiti",
-        "edition": 1994,
-        "score": 0.8510314826472655
-    },
-    {
-        "team": "Oman",
-        "edition": 1998,
-        "score": 0.8510281868622908
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 1994,
-        "score": 0.8510152066336467
-    },
-    {
-        "team": "Syria",
-        "edition": 1994,
-        "score": 0.8509866820443728
-    },
-    {
-        "team": "Slovenia",
-        "edition": 2010,
-        "score": 0.8509736783442909
-    },
-    {
-        "team": "Syria",
         "edition": 2002,
-        "score": 0.8509580402303472
-    },
-    {
-        "team": "Angola",
-        "edition": 2006,
-        "score": 0.8509571148687157
-    },
-    {
-        "team": "Malaysia",
-        "edition": 1998,
-        "score": 0.8509116403908218
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 2002,
-        "score": 0.8508592610905332
-    },
-    {
-        "team": "Qatar",
-        "edition": 2002,
-        "score": 0.8508166924074635
-    },
-    {
-        "team": "Wales",
-        "edition": 2006,
-        "score": 0.8508009600035664
-    },
-    {
-        "team": "Lebanon",
-        "edition": 2002,
-        "score": 0.850797720153015
-    },
-    {
-        "team": "Slovenia",
-        "edition": 1998,
-        "score": 0.8507687648574543
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 1998,
-        "score": 0.850736125738704
-    },
-    {
-        "team": "Indonesia",
-        "edition": 2006,
-        "score": 0.8507165270853195
-    },
-    {
-        "team": "Hungary",
-        "edition": 1998,
-        "score": 0.8507056873965534
-    },
-    {
-        "team": "Tahiti",
-        "edition": 1998,
-        "score": 0.8507033977302801
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 2002,
-        "score": 0.8507030969283141
-    },
-    {
-        "team": "Oman",
-        "edition": 2018,
-        "score": 0.850699884639198
-    },
-    {
-        "team": "Uzbekistan",
-        "edition": 1998,
-        "score": 0.8506939637340833
-    },
-    {
-        "team": "Jordan",
-        "edition": 2018,
-        "score": 0.8506933431905478
-    },
-    {
-        "team": "Finland",
-        "edition": 2014,
-        "score": 0.8506858330015279
-    },
-    {
-        "team": "Guinea",
-        "edition": 2002,
-        "score": 0.850662474541167
-    },
-    {
-        "team": "Barbados",
-        "edition": 1994,
-        "score": 0.8506461705919449
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 1998,
-        "score": 0.8506364774102867
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 2006,
-        "score": 0.8506115736336721
-    },
-    {
-        "team": "Iceland",
-        "edition": 2006,
-        "score": 0.8505499795134268
-    },
-    {
-        "team": "Vietnam",
-        "edition": 2006,
-        "score": 0.8505367860393134
-    },
-    {
-        "team": "Uganda",
-        "edition": 2014,
-        "score": 0.8504976828406083
-    },
-    {
-        "team": "Turkey",
-        "edition": 1994,
-        "score": 0.8504869674420649
-    },
-    {
-        "team": "Cyprus",
-        "edition": 2010,
-        "score": 0.8504865898327144
-    },
-    {
-        "team": "Fiji",
-        "edition": 1998,
-        "score": 0.8504719495753857
-    },
-    {
-        "team": "Algeria",
-        "edition": 2006,
-        "score": 0.8504713098489403
-    },
-    {
-        "team": "Benin",
-        "edition": 2018,
-        "score": 0.8504584974792171
-    },
-    {
-        "team": "Senegal",
-        "edition": 2014,
-        "score": 0.8504390186653052
-    },
-    {
-        "team": "Zambia",
-        "edition": 2010,
-        "score": 0.8504173733017073
-    },
-    {
-        "team": "Syria",
-        "edition": 2010,
-        "score": 0.8504133722544038
-    },
-    {
-        "team": "Togo",
-        "edition": 2010,
-        "score": 0.8503946089465656
-    },
-    {
-        "team": "Guinea",
-        "edition": 1994,
-        "score": 0.8503370059653508
-    },
-    {
-        "team": "Kenya",
-        "edition": 2006,
-        "score": 0.8503356489367927
-    },
-    {
-        "team": "Madagascar",
-        "edition": 1994,
-        "score": 0.8503177935227991
-    },
-    {
-        "team": "Liberia",
-        "edition": 2002,
-        "score": 0.850304553940691
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 2014,
-        "score": 0.8502793437912065
-    },
-    {
-        "team": "Yemen",
-        "edition": 1994,
-        "score": 0.8502551108224934
-    },
-    {
-        "team": "Paraguay",
-        "edition": 1994,
-        "score": 0.8502549165569172
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 2018,
-        "score": 0.8502462298622087
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 2006,
-        "score": 0.85024121728349
-    },
-    {
-        "team": "Armenia",
-        "edition": 2018,
-        "score": 0.8502363504289308
-    },
-    {
-        "team": "Libya",
-        "edition": 2010,
-        "score": 0.8502259763888546
+        "score": 0.9773347275712598
     },
     {
         "team": "Israel",
-        "edition": 1994,
-        "score": 0.8502205917830312
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 2014,
-        "score": 0.8501826447005076
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 2014,
-        "score": 0.8501221267827331
-    },
-    {
-        "team": "Gabon",
-        "edition": 2014,
-        "score": 0.8500900624288095
-    },
-    {
-        "team": "Panama",
-        "edition": 2010,
-        "score": 0.8500836580351827
-    },
-    {
-        "team": "Oman",
-        "edition": 2010,
-        "score": 0.8500756221444944
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 2006,
-        "score": 0.8500173103320718
-    },
-    {
-        "team": "Bahrain",
-        "edition": 1994,
-        "score": 0.8499967813840605
-    },
-    {
-        "team": "Latvia",
-        "edition": 1998,
-        "score": 0.8499953158242841
-    },
-    {
-        "team": "Tahiti",
-        "edition": 2006,
-        "score": 0.8499869447556944
-    },
-    {
-        "team": "Gabon",
         "edition": 2002,
-        "score": 0.8499633338826709
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 2010,
-        "score": 0.8499623017569727
-    },
-    {
-        "team": "Thailand",
-        "edition": 2010,
-        "score": 0.8499247651170536
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 2010,
-        "score": 0.8499208666401522
-    },
-    {
-        "team": "Georgia",
-        "edition": 1998,
-        "score": 0.8498950200617426
-    },
-    {
-        "team": "Estonia",
-        "edition": 2002,
-        "score": 0.8498690412673848
-    },
-    {
-        "team": "Belarus",
-        "edition": 2014,
-        "score": 0.8498541821413377
-    },
-    {
-        "team": "Bulgaria",
-        "edition": 2014,
-        "score": 0.8498515889881622
-    },
-    {
-        "team": "Mali",
-        "edition": 2002,
-        "score": 0.8498075130531405
-    },
-    {
-        "team": "Singapore",
-        "edition": 2006,
-        "score": 0.8498047163173058
-    },
-    {
-        "team": "Bermuda",
-        "edition": 1994,
-        "score": 0.8498019355861361
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 2006,
-        "score": 0.849795561327546
-    },
-    {
-        "team": "Suriname",
-        "edition": 2014,
-        "score": 0.8497742813968284
-    },
-    {
-        "team": "Honduras",
-        "edition": 2018,
-        "score": 0.8497640255458349
-    },
-    {
-        "team": "Malawi",
-        "edition": 1994,
-        "score": 0.8497634846391952
-    },
-    {
-        "team": "Thailand",
-        "edition": 1994,
-        "score": 0.8497365834508034
-    },
-    {
-        "team": "New Zealand",
-        "edition": 2002,
-        "score": 0.8497095989039585
-    },
-    {
-        "team": "Guinea",
-        "edition": 2006,
-        "score": 0.8497013800885895
-    },
-    {
-        "team": "Venezuela",
-        "edition": 2018,
-        "score": 0.8496720718312545
-    },
-    {
-        "team": "Suriname",
-        "edition": 1994,
-        "score": 0.8496519254371699
-    },
-    {
-        "team": "Israel",
-        "edition": 2018,
-        "score": 0.8496255477831666
-    },
-    {
-        "team": "Syria",
-        "edition": 2018,
-        "score": 0.8496133862076093
-    },
-    {
-        "team": "Albania",
-        "edition": 2014,
-        "score": 0.8496017565452592
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 2014,
-        "score": 0.8495667885756961
-    },
-    {
-        "team": "Syria",
-        "edition": 1998,
-        "score": 0.8495218916563743
-    },
-    {
-        "team": "Albania",
-        "edition": 2006,
-        "score": 0.8495209703583402
-    },
-    {
-        "team": "Wales",
-        "edition": 2014,
-        "score": 0.8494880562845942
-    },
-    {
-        "team": "Uganda",
-        "edition": 1994,
-        "score": 0.8494825597827513
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 1994,
-        "score": 0.849474827995021
-    },
-    {
-        "team": "Grenada",
-        "edition": 2002,
-        "score": 0.8494517420910882
-    },
-    {
-        "team": "Uganda",
-        "edition": 2002,
-        "score": 0.8494368725807637
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 2014,
-        "score": 0.8494162206147677
-    },
-    {
-        "team": "Ethiopia",
-        "edition": 2006,
-        "score": 0.8493872106879305
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 2002,
-        "score": 0.849374390997252
-    },
-    {
-        "team": "Fiji",
-        "edition": 2014,
-        "score": 0.8493375780712542
-    },
-    {
-        "team": "Uganda",
-        "edition": 2018,
-        "score": 0.8493216420571278
-    },
-    {
-        "team": "Malaysia",
-        "edition": 2002,
-        "score": 0.8493031028121552
-    },
-    {
-        "team": "El Salvador",
-        "edition": 1998,
-        "score": 0.8492937931809974
-    },
-    {
-        "team": "Yemen",
-        "edition": 2002,
-        "score": 0.8492928940068435
-    },
-    {
-        "team": "Scotland",
-        "edition": 2006,
-        "score": 0.8492193657871644
-    },
-    {
-        "team": "Bermuda",
-        "edition": 2002,
-        "score": 0.8492173840234933
-    },
-    {
-        "team": "Qatar",
-        "edition": 2014,
-        "score": 0.8492100898406433
-    },
-    {
-        "team": "South Africa",
-        "edition": 2010,
-        "score": 0.8491533780048318
-    },
-    {
-        "team": "Tajikistan",
-        "edition": 1998,
-        "score": 0.8491522587172634
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 2006,
-        "score": 0.8491251498629343
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 2006,
-        "score": 0.8491206515162405
-    },
-    {
-        "team": "Benin",
-        "edition": 2010,
-        "score": 0.8491182248098998
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 2018,
-        "score": 0.8491167617295811
-    },
-    {
-        "team": "Mali",
-        "edition": 1994,
-        "score": 0.8491049625809074
-    },
-    {
-        "team": "Bolivia",
-        "edition": 2002,
-        "score": 0.8490989185736405
-    },
-    {
-        "team": "Cyprus",
-        "edition": 1998,
-        "score": 0.8490488269660729
-    },
-    {
-        "team": "Chile",
-        "edition": 2006,
-        "score": 0.8490485756326427
-    },
-    {
-        "team": "Grenada",
-        "edition": 1998,
-        "score": 0.8489573782852927
-    },
-    {
-        "team": "Jamaica",
-        "edition": 2018,
-        "score": 0.8488958602055926
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 2014,
-        "score": 0.848848398678889
-    },
-    {
-        "team": "Curaçao",
-        "edition": 2018,
-        "score": 0.8488446955771538
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 1994,
-        "score": 0.8488388315187289
-    },
-    {
-        "team": "Slovakia",
-        "edition": 1994,
-        "score": 0.848819408242153
-    },
-    {
-        "team": "Iraq",
-        "edition": 2010,
-        "score": 0.8488185815162085
-    },
-    {
-        "team": "Togo",
-        "edition": 2002,
-        "score": 0.8487403764524428
-    },
-    {
-        "team": "Togo",
-        "edition": 1998,
-        "score": 0.848687537716055
-    },
-    {
-        "team": "Congo",
-        "edition": 2010,
-        "score": 0.8486475906714458
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 1998,
-        "score": 0.8486446905229362
-    },
-    {
-        "team": "Indonesia",
-        "edition": 1998,
-        "score": 0.8486273161964406
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 2010,
-        "score": 0.848624225032411
-    },
-    {
-        "team": "Sudan",
-        "edition": 2006,
-        "score": 0.8486116820826081
-    },
-    {
-        "team": "Peru",
-        "edition": 1994,
-        "score": 0.8486043523816609
-    },
-    {
-        "team": "Moldova",
-        "edition": 2010,
-        "score": 0.8485987175058268
-    },
-    {
-        "team": "Lithuania",
-        "edition": 2002,
-        "score": 0.8485904738796012
-    },
-    {
-        "team": "Tahiti",
-        "edition": 2014,
-        "score": 0.848587255889584
-    },
-    {
-        "team": "Barbados",
-        "edition": 2006,
-        "score": 0.8485751771334846
-    },
-    {
-        "team": "Kuwait",
-        "edition": 2014,
-        "score": 0.8484969070248485
-    },
-    {
-        "team": "Singapore",
-        "edition": 1998,
-        "score": 0.8484700599955742
-    },
-    {
-        "team": "Estonia",
-        "edition": 2014,
-        "score": 0.8484656419110288
-    },
-    {
-        "team": "Canada",
-        "edition": 2006,
-        "score": 0.8484611108264047
-    },
-    {
-        "team": "Zambia",
-        "edition": 2018,
-        "score": 0.8484408891296049
-    },
-    {
-        "team": "Estonia",
-        "edition": 2006,
-        "score": 0.8484381525859869
-    },
-    {
-        "team": "Qatar",
-        "edition": 2010,
-        "score": 0.8484221460304416
-    },
-    {
-        "team": "Congo DR",
-        "edition": 2014,
-        "score": 0.8484211201422478
-    },
-    {
-        "team": "New Caledonia",
-        "edition": 2010,
-        "score": 0.8483676885555592
-    },
-    {
-        "team": "Haiti",
-        "edition": 1998,
-        "score": 0.8483601410214883
-    },
-    {
-        "team": "Ethiopia",
-        "edition": 2010,
-        "score": 0.8483462133024704
-    },
-    {
-        "team": "Philippines",
-        "edition": 1994,
-        "score": 0.8483329687211988
-    },
-    {
-        "team": "Barbados",
-        "edition": 2002,
-        "score": 0.8483157694525728
-    },
-    {
-        "team": "New Zealand",
-        "edition": 2010,
-        "score": 0.8483095214448858
-    },
-    {
-        "team": "India",
-        "edition": 2018,
-        "score": 0.8483004738495371
-    },
-    {
-        "team": "Singapore",
-        "edition": 2010,
-        "score": 0.8482884288193676
-    },
-    {
-        "team": "Suriname",
-        "edition": 2010,
-        "score": 0.8482766496079597
-    },
-    {
-        "team": "Canada",
-        "edition": 2014,
-        "score": 0.8482709365930206
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 2018,
-        "score": 0.8482550598416487
-    },
-    {
-        "team": "Lebanon",
-        "edition": 1998,
-        "score": 0.8482121989560651
-    },
-    {
-        "team": "Iraq",
-        "edition": 2018,
-        "score": 0.848192797870912
-    },
-    {
-        "team": "Vietnam",
-        "edition": 2018,
-        "score": 0.8481889039120967
-    },
-    {
-        "team": "Peru",
-        "edition": 2010,
-        "score": 0.8481766756906741
-    },
-    {
-        "team": "Rwanda",
-        "edition": 2010,
-        "score": 0.848156614559258
-    },
-    {
-        "team": "Austria",
-        "edition": 2010,
-        "score": 0.8481489785645423
-    },
-    {
-        "team": "Malawi",
-        "edition": 1998,
-        "score": 0.8481348576528689
-    },
-    {
-        "team": "Latvia",
-        "edition": 2002,
-        "score": 0.8481174644199826
-    },
-    {
-        "team": "Ethiopia",
-        "edition": 1994,
-        "score": 0.8481159547931396
-    },
-    {
-        "team": "Tahiti",
-        "edition": 2018,
-        "score": 0.8481122831318535
-    },
-    {
-        "team": "Samoa",
-        "edition": 2010,
-        "score": 0.8481036483989601
-    },
-    {
-        "team": "Albania",
-        "edition": 2010,
-        "score": 0.8480964793108429
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 2014,
-        "score": 0.8480670485864654
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 2014,
-        "score": 0.848033773257476
-    },
-    {
-        "team": "Iceland",
-        "edition": 2014,
-        "score": 0.8480327770719216
-    },
-    {
-        "team": "Estonia",
-        "edition": 2018,
-        "score": 0.848030574046344
-    },
-    {
-        "team": "Tanzania",
-        "edition": 1998,
-        "score": 0.8480003655424088
-    },
-    {
-        "team": "El Salvador",
-        "edition": 2002,
-        "score": 0.8479977854110141
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 2014,
-        "score": 0.8479875357688008
-    },
-    {
-        "team": "Sudan",
-        "edition": 1998,
-        "score": 0.8479818109195264
-    },
-    {
-        "team": "India",
-        "edition": 2002,
-        "score": 0.8479675737375456
-    },
-    {
-        "team": "Guyana",
-        "edition": 2018,
-        "score": 0.84796380288131
-    },
-    {
-        "team": "Bolivia",
-        "edition": 2018,
-        "score": 0.8479442031690948
-    },
-    {
-        "team": "India",
-        "edition": 2010,
-        "score": 0.8479313431454156
-    },
-    {
-        "team": "Albania",
-        "edition": 2002,
-        "score": 0.8478952475904268
-    },
-    {
-        "team": "Guatemala",
-        "edition": 2014,
-        "score": 0.8478910772271362
-    },
-    {
-        "team": "Vietnam",
-        "edition": 1998,
-        "score": 0.8478784691058334
-    },
-    {
-        "team": "Gabon",
-        "edition": 2006,
-        "score": 0.8478667745408174
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 2018,
-        "score": 0.8478082668068928
-    },
-    {
-        "team": "Angola",
-        "edition": 2014,
-        "score": 0.8477988641799615
-    },
-    {
-        "team": "Saudi Arabia",
-        "edition": 2014,
-        "score": 0.8477931578532425
-    },
-    {
-        "team": "Cyprus",
-        "edition": 1994,
-        "score": 0.8477694336782823
-    },
-    {
-        "team": "British Virgin Islands",
-        "edition": 1998,
-        "score": 0.8477583604691832
-    },
-    {
-        "team": "Cuba",
-        "edition": 1994,
-        "score": 0.8477366111440685
-    },
-    {
-        "team": "Canada",
-        "edition": 2018,
-        "score": 0.8476982188361174
-    },
-    {
-        "team": "Croatia",
-        "edition": 1994,
-        "score": 0.8476970919849683
-    },
-    {
-        "team": "Maldives",
-        "edition": 2006,
-        "score": 0.8476878269648666
-    },
-    {
-        "team": "Madagascar",
-        "edition": 2018,
-        "score": 0.8476847687198249
-    },
-    {
-        "team": "Dominica",
-        "edition": 1998,
-        "score": 0.8476639751972762
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 1994,
-        "score": 0.8476402161163537
-    },
-    {
-        "team": "Grenada",
-        "edition": 2010,
-        "score": 0.8476388975272856
-    },
-    {
-        "team": "Thailand",
-        "edition": 2014,
-        "score": 0.8476217689892597
-    },
-    {
-        "team": "Maldives",
-        "edition": 2010,
-        "score": 0.8476150800988174
-    },
-    {
-        "team": "Burundi",
-        "edition": 2018,
-        "score": 0.8475976940257581
-    },
-    {
-        "team": "Mozambique",
-        "edition": 2010,
-        "score": 0.8475832755450944
-    },
-    {
-        "team": "Canada",
-        "edition": 2002,
-        "score": 0.8475681317251692
-    },
-    {
-        "team": "Oman",
-        "edition": 2014,
-        "score": 0.8475652015774735
-    },
-    {
-        "team": "Samoa",
-        "edition": 2002,
-        "score": 0.8475461173049468
-    },
-    {
-        "team": "Niger",
-        "edition": 1994,
-        "score": 0.847525172941585
-    },
-    {
-        "team": "Barbados",
-        "edition": 2010,
-        "score": 0.8474617350892397
-    },
-    {
-        "team": "Thailand",
-        "edition": 2018,
-        "score": 0.847450955536138
-    },
-    {
-        "team": "Iraq",
-        "edition": 2014,
-        "score": 0.847449704308488
-    },
-    {
-        "team": "Lithuania",
-        "edition": 1994,
-        "score": 0.8474288227503717
-    },
-    {
-        "team": "Ethiopia",
-        "edition": 2002,
-        "score": 0.8474263128962498
-    },
-    {
-        "team": "Namibia",
-        "edition": 1998,
-        "score": 0.8474168144247357
-    },
-    {
-        "team": "Indonesia",
-        "edition": 2010,
-        "score": 0.8473992321235269
-    },
-    {
-        "team": "Bermuda",
-        "edition": 2006,
-        "score": 0.8473818478226427
-    },
-    {
-        "team": "Rwanda",
-        "edition": 2006,
-        "score": 0.8473787252078552
-    },
-    {
-        "team": "Rwanda",
-        "edition": 2018,
-        "score": 0.8473733642282927
-    },
-    {
-        "team": "Tajikistan",
-        "edition": 2014,
-        "score": 0.8473587910229854
-    },
-    {
-        "team": "Kenya",
-        "edition": 1998,
-        "score": 0.8473586336261341
-    },
-    {
-        "team": "Benin",
-        "edition": 2014,
-        "score": 0.8473422615213805
-    },
-    {
-        "team": "Tanzania",
-        "edition": 2002,
-        "score": 0.847335066088262
-    },
-    {
-        "team": "Tanzania",
-        "edition": 2010,
-        "score": 0.8473278176044885
-    },
-    {
-        "team": "Congo",
-        "edition": 2014,
-        "score": 0.8473169610910344
-    },
-    {
-        "team": "Uganda",
-        "edition": 2006,
-        "score": 0.8473131811243034
-    },
-    {
-        "team": "Namibia",
-        "edition": 2002,
-        "score": 0.8472903715760085
-    },
-    {
-        "team": "Iceland",
-        "edition": 2010,
-        "score": 0.8472882583537361
-    },
-    {
-        "team": "Latvia",
-        "edition": 2014,
-        "score": 0.8472794278685081
-    },
-    {
-        "team": "India",
-        "edition": 1998,
-        "score": 0.8472778016259728
-    },
-    {
-        "team": "Malawi",
-        "edition": 2010,
-        "score": 0.8472685225447033
-    },
-    {
-        "team": "Haiti",
-        "edition": 2010,
-        "score": 0.8472581296626946
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 2010,
-        "score": 0.8472205596278813
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 1994,
-        "score": 0.8472152216606982
-    },
-    {
-        "team": "Congo",
-        "edition": 2002,
-        "score": 0.8472027913785745
-    },
-    {
-        "team": "Tajikistan",
-        "edition": 2018,
-        "score": 0.8471721650723262
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 2002,
-        "score": 0.8471649777518996
-    },
-    {
-        "team": "Jordan",
-        "edition": 2002,
-        "score": 0.8471557082663161
-    },
-    {
-        "team": "Vietnam",
-        "edition": 2014,
-        "score": 0.8471545331517567
-    },
-    {
-        "team": "Malaysia",
-        "edition": 2006,
-        "score": 0.8471458822711067
-    },
-    {
-        "team": "Grenada",
-        "edition": 2006,
-        "score": 0.8471315323539512
-    },
-    {
-        "team": "Cyprus",
-        "edition": 2018,
-        "score": 0.8470860264003497
-    },
-    {
-        "team": "Zimbabwe",
-        "edition": 2010,
-        "score": 0.8470754948068848
-    },
-    {
-        "team": "Suriname",
-        "edition": 2006,
-        "score": 0.8470602530589119
-    },
-    {
-        "team": "Kenya",
-        "edition": 2002,
-        "score": 0.8470560899788819
-    },
-    {
-        "team": "Philippines",
-        "edition": 2014,
-        "score": 0.8470461650123
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 2002,
-        "score": 0.8470295968912863
-    },
-    {
-        "team": "Bolivia",
-        "edition": 2014,
-        "score": 0.8470236224035715
-    },
-    {
-        "team": "Georgia",
-        "edition": 2006,
-        "score": 0.8470171415950803
-    },
-    {
-        "team": "Gabon",
-        "edition": 2018,
-        "score": 0.8469963048844099
-    },
-    {
-        "team": "United Arab Emirates",
-        "edition": 2010,
-        "score": 0.8469864007141243
-    },
-    {
-        "team": "Ethiopia",
-        "edition": 2018,
-        "score": 0.8469799475155333
-    },
-    {
-        "team": "Bolivia",
-        "edition": 2010,
-        "score": 0.8469520507998859
-    },
-    {
-        "team": "Cyprus",
-        "edition": 2006,
-        "score": 0.8469493169651321
-    },
-    {
-        "team": "Sudan",
-        "edition": 2010,
-        "score": 0.8469275822099025
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 2018,
-        "score": 0.8469216726267611
-    },
-    {
-        "team": "Maldives",
-        "edition": 2014,
-        "score": 0.8469124767110051
-    },
-    {
-        "team": "Bahrain",
-        "edition": 2018,
-        "score": 0.8468946165587705
-    },
-    {
-        "team": "Pakistan",
-        "edition": 2010,
-        "score": 0.8468735678946554
-    },
-    {
-        "team": "Tajikistan",
-        "edition": 2010,
-        "score": 0.8468728655186707
-    },
-    {
-        "team": "Vietnam",
-        "edition": 2010,
-        "score": 0.8468541126816895
-    },
-    {
-        "team": "Togo",
-        "edition": 2018,
-        "score": 0.8468389808616594
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 2018,
-        "score": 0.8468379959212344
-    },
-    {
-        "team": "Guyana",
-        "edition": 2014,
-        "score": 0.8468332011651266
-    },
-    {
-        "team": "Afghanistan",
-        "edition": 2014,
-        "score": 0.8468295392040608
-    },
-    {
-        "team": "Bolivia",
-        "edition": 2006,
-        "score": 0.8468252708149595
-    },
-    {
-        "team": "Mozambique",
-        "edition": 2018,
-        "score": 0.8468223396177388
-    },
-    {
-        "team": "Kenya",
-        "edition": 2010,
-        "score": 0.8468070410284384
-    },
-    {
-        "team": "Lithuania",
-        "edition": 2006,
-        "score": 0.8468016950952291
-    },
-    {
-        "team": "Kenya",
-        "edition": 2018,
-        "score": 0.8467914316580125
-    },
-    {
-        "team": "Swaziland",
-        "edition": 2018,
-        "score": 0.8467660980190881
-    },
-    {
-        "team": "New Zealand",
-        "edition": 2018,
-        "score": 0.8467611702144134
-    },
-    {
-        "team": "New Zealand",
-        "edition": 1998,
-        "score": 0.8467563452303938
-    },
-    {
-        "team": "Bermuda",
-        "edition": 2018,
-        "score": 0.8467506198962682
-    },
-    {
-        "team": "Montserrat",
-        "edition": 2014,
-        "score": 0.8467389378229326
-    },
-    {
-        "team": "Liberia",
-        "edition": 2018,
-        "score": 0.846730721779759
-    },
-    {
-        "team": "Uganda",
-        "edition": 1998,
-        "score": 0.8467250714880658
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 2018,
-        "score": 0.8467190030775466
-    },
-    {
-        "team": "Curaçao",
-        "edition": 2014,
-        "score": 0.8467059880820471
-    },
-    {
-        "team": "Georgia",
-        "edition": 2014,
-        "score": 0.8466998938295889
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 1998,
-        "score": 0.8466864828044338
-    },
-    {
-        "team": "Panama",
-        "edition": 1998,
-        "score": 0.8466837292149696
-    },
-    {
-        "team": "Malaysia",
-        "edition": 2010,
-        "score": 0.8466606150916836
-    },
-    {
-        "team": "Namibia",
-        "edition": 2018,
-        "score": 0.8466442609835516
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 2010,
-        "score": 0.8466319631565247
-    },
-    {
-        "team": "Bahrain",
-        "edition": 2014,
-        "score": 0.8466296668728984
-    },
-    {
-        "team": "Botswana",
-        "edition": 2014,
-        "score": 0.8466295978179441
-    },
-    {
-        "team": "Mozambique",
-        "edition": 1994,
-        "score": 0.8466216820921272
-    },
-    {
-        "team": "Equatorial Guinea",
-        "edition": 2018,
-        "score": 0.8466189767937337
-    },
-    {
-        "team": "Mongolia",
-        "edition": 2018,
-        "score": 0.8466053675182714
-    },
-    {
-        "team": "Jordan",
-        "edition": 2010,
-        "score": 0.8465856029373594
-    },
-    {
-        "team": "Belarus",
-        "edition": 2018,
-        "score": 0.846584994911978
-    },
-    {
-        "team": "Lebanon",
-        "edition": 2018,
-        "score": 0.8465704460975474
-    },
-    {
-        "team": "Bermuda",
-        "edition": 2010,
-        "score": 0.8465688144678976
-    },
-    {
-        "team": "Ukraine",
-        "edition": 1994,
-        "score": 0.8465441774180712
-    },
-    {
-        "team": "Finland",
-        "edition": 2018,
-        "score": 0.8465404279784078
-    },
-    {
-        "team": "Malawi",
-        "edition": 2006,
-        "score": 0.8465390051245598
-    },
-    {
-        "team": "Libya",
-        "edition": 2018,
-        "score": 0.8465280730161305
-    },
-    {
-        "team": "Suriname",
-        "edition": 2018,
-        "score": 0.8465258354056143
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 2018,
-        "score": 0.846521167446023
-    },
-    {
-        "team": "Togo",
-        "edition": 2014,
-        "score": 0.8465180499587923
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 2018,
-        "score": 0.8465167686241922
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 1998,
-        "score": 0.8465098249910141
-    },
-    {
-        "team": "Mozambique",
-        "edition": 2014,
-        "score": 0.8465082114550364
-    },
-    {
-        "team": "Barbados",
-        "edition": 1998,
-        "score": 0.8464914599528106
-    },
-    {
-        "team": "Burundi",
-        "edition": 1998,
-        "score": 0.8464293942624416
-    },
-    {
-        "team": "Guam",
-        "edition": 2010,
-        "score": 0.8464034144365189
-    },
-    {
-        "team": "Kuwait",
-        "edition": 2010,
-        "score": 0.846401606442461
-    },
-    {
-        "team": "Philippines",
-        "edition": 2018,
-        "score": 0.8463951963191325
-    },
-    {
-        "team": "India",
-        "edition": 2006,
-        "score": 0.8463935364428412
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 1994,
-        "score": 0.8463927627519865
-    },
-    {
-        "team": "Georgia",
-        "edition": 2018,
-        "score": 0.8463884751758546
-    },
-    {
-        "team": "Liberia",
-        "edition": 1998,
-        "score": 0.8463875566475313
-    },
-    {
-        "team": "Guatemala",
-        "edition": 1994,
-        "score": 0.8463845656710179
-    },
-    {
-        "team": "Libya",
-        "edition": 2002,
-        "score": 0.8463792051768042
-    },
-    {
-        "team": "Gambia",
-        "edition": 2010,
-        "score": 0.8463431974403315
-    },
-    {
-        "team": "Syria",
-        "edition": 2014,
-        "score": 0.8463402234824785
-    },
-    {
-        "team": "New Caledonia",
-        "edition": 2018,
-        "score": 0.8463316711467971
-    },
-    {
-        "team": "Burkina Faso",
-        "edition": 1998,
-        "score": 0.8463278822586823
-    },
-    {
-        "team": "Latvia",
-        "edition": 2018,
-        "score": 0.8463180570296469
-    },
-    {
-        "team": "Yemen",
-        "edition": 1998,
-        "score": 0.8463153344261842
-    },
-    {
-        "team": "Fiji",
-        "edition": 2018,
-        "score": 0.8463150707865507
+        "score": 0.977248526708032
     },
     {
         "team": "Dominica",
         "edition": 2018,
-        "score": 0.8463028902030264
+        "score": 0.9772475851947828
     },
     {
-        "team": "El Salvador",
-        "edition": 2010,
-        "score": 0.8462835852748614
-    },
-    {
-        "team": "Sudan",
-        "edition": 2014,
-        "score": 0.846278356788489
-    },
-    {
-        "team": "Guatemala",
-        "edition": 1998,
-        "score": 0.846273363059469
-    },
-    {
-        "team": "Kenya",
-        "edition": 2014,
-        "score": 0.8462692764768008
-    },
-    {
-        "team": "Guyana",
+        "team": "Qatar",
         "edition": 2006,
-        "score": 0.846259270953416
+        "score": 0.9771846752098456
     },
     {
-        "team": "Burundi",
-        "edition": 2014,
-        "score": 0.8462130895655793
-    },
-    {
-        "team": "Aruba",
-        "edition": 2014,
-        "score": 0.8462116431513556
-    },
-    {
-        "team": "South Africa",
-        "edition": 1994,
-        "score": 0.8462030996027352
-    },
-    {
-        "team": "Afghanistan",
-        "edition": 2018,
-        "score": 0.8462011049898844
+        "team": "Ecuador",
+        "edition": 1998,
+        "score": 0.9771258924684865
     },
     {
         "team": "Tanzania",
+        "edition": 2002,
+        "score": 0.9771023489102332
+    },
+    {
+        "team": "Tunisia",
+        "edition": 1998,
+        "score": 0.9770903784714865
+    },
+    {
+        "team": "Iraq",
         "edition": 1994,
-        "score": 0.8461918894191588
+        "score": 0.9770679454493861
     },
     {
-        "team": "Congo",
-        "edition": 1998,
-        "score": 0.8461891188769658
+        "team": "Costa Rica",
+        "edition": 2006,
+        "score": 0.977041717769878
     },
     {
-        "team": "Ethiopia",
+        "team": "Libya",
+        "edition": 2006,
+        "score": 0.9770281951841804
+    },
+    {
+        "team": "Colombia",
         "edition": 2014,
-        "score": 0.8461479144230957
+        "score": 0.977027878309589
     },
     {
-        "team": "Indonesia",
-        "edition": 2018,
-        "score": 0.8461220988370098
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 1998,
-        "score": 0.8461189924474224
-    },
-    {
-        "team": "Mauritania",
-        "edition": 2018,
-        "score": 0.8461154470918643
-    },
-    {
-        "team": "Guatemala",
+        "team": "Vietnam",
         "edition": 2010,
-        "score": 0.8461149728311543
+        "score": 0.9769401157307874
     },
     {
-        "team": "Rwanda",
+        "team": "Suriname",
         "edition": 2002,
-        "score": 0.846110551212185
+        "score": 0.9768867354985233
     },
     {
-        "team": "Ethiopia",
-        "edition": 1998,
-        "score": 0.8461086335562586
+        "team": "Northern Ireland",
+        "edition": 1994,
+        "score": 0.9768744092298642
     },
     {
-        "team": "Nepal",
+        "team": "Iraq",
+        "edition": 2006,
+        "score": 0.9768580027857658
+    },
+    {
+        "team": "Oman",
         "edition": 2002,
-        "score": 0.8460956872390555
-    },
-    {
-        "team": "Lithuania",
-        "edition": 2014,
-        "score": 0.8460913651479027
-    },
-    {
-        "team": "Panama",
-        "edition": 2002,
-        "score": 0.8460875034215216
+        "score": 0.9768332117031365
     },
     {
         "team": "Montenegro",
         "edition": 2010,
-        "score": 0.8460808119600176
+        "score": 0.9767827082983485
     },
     {
-        "team": "Lebanon",
-        "edition": 2006,
-        "score": 0.8460595802711978
-    },
-    {
-        "team": "Albania",
+        "team": "Trinidad and Tobago",
         "edition": 1998,
-        "score": 0.8460030924107391
-    },
-    {
-        "team": "Burundi",
-        "edition": 1994,
-        "score": 0.8459799624418053
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 2014,
-        "score": 0.8459787688407996
-    },
-    {
-        "team": "Tonga",
-        "edition": 2002,
-        "score": 0.8459728808291525
-    },
-    {
-        "team": "India",
-        "edition": 2014,
-        "score": 0.8459725161101326
-    },
-    {
-        "team": "Venezuela",
-        "edition": 2002,
-        "score": 0.8459701414062497
-    },
-    {
-        "team": "Lesotho",
-        "edition": 1994,
-        "score": 0.845959169044231
-    },
-    {
-        "team": "Bermuda",
-        "edition": 1998,
-        "score": 0.8459501942796096
-    },
-    {
-        "team": "Malawi",
-        "edition": 2018,
-        "score": 0.8459496940034847
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 2018,
-        "score": 0.8459392378211007
-    },
-    {
-        "team": "Namibia",
-        "edition": 2010,
-        "score": 0.8459291066702033
-    },
-    {
-        "team": "El Salvador",
-        "edition": 2018,
-        "score": 0.8459285926493257
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 2018,
-        "score": 0.8459248139447846
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 2002,
-        "score": 0.8459222875887388
-    },
-    {
-        "team": "Laos",
-        "edition": 2014,
-        "score": 0.8459181357307566
-    },
-    {
-        "team": "Georgia",
-        "edition": 2010,
-        "score": 0.845915198108051
-    },
-    {
-        "team": "Bahrain",
-        "edition": 1998,
-        "score": 0.845914660544121
-    },
-    {
-        "team": "Suriname",
-        "edition": 2002,
-        "score": 0.8458933972505468
-    },
-    {
-        "team": "Aruba",
-        "edition": 1998,
-        "score": 0.8458920270427391
-    },
-    {
-        "team": "Malawi",
-        "edition": 2014,
-        "score": 0.8458910234503987
-    },
-    {
-        "team": "Guyana",
-        "edition": 2010,
-        "score": 0.8458889709369304
-    },
-    {
-        "team": "Singapore",
-        "edition": 2002,
-        "score": 0.845883004355195
-    },
-    {
-        "team": "Armenia",
-        "edition": 2002,
-        "score": 0.8458763344930387
-    },
-    {
-        "team": "Anguilla",
-        "edition": 2002,
-        "score": 0.8458704242422893
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 2014,
-        "score": 0.8458660994259953
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 2014,
-        "score": 0.84586143477014
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 2002,
-        "score": 0.8458611764355872
-    },
-    {
-        "team": "Lebanon",
-        "edition": 1994,
-        "score": 0.8458591439162274
-    },
-    {
-        "team": "Yemen",
-        "edition": 2006,
-        "score": 0.8458520188733476
-    },
-    {
-        "team": "Gambia",
-        "edition": 1998,
-        "score": 0.8458512532273326
-    },
-    {
-        "team": "Seychelles",
-        "edition": 1994,
-        "score": 0.8458498909945422
-    },
-    {
-        "team": "Swaziland",
-        "edition": 1994,
-        "score": 0.8458345063001944
-    },
-    {
-        "team": "British Virgin Islands",
-        "edition": 2002,
-        "score": 0.8458119981726855
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 1998,
-        "score": 0.8458091616156205
-    },
-    {
-        "team": "Belarus",
-        "edition": 2002,
-        "score": 0.8457984264996513
-    },
-    {
-        "team": "Congo",
-        "edition": 1994,
-        "score": 0.8457964658596864
-    },
-    {
-        "team": "Burundi",
-        "edition": 2002,
-        "score": 0.8457926057293632
-    },
-    {
-        "team": "Chad",
-        "edition": 2006,
-        "score": 0.8457884339118261
-    },
-    {
-        "team": "Swaziland",
-        "edition": 2002,
-        "score": 0.8457828410037693
-    },
-    {
-        "team": "Tanzania",
-        "edition": 2014,
-        "score": 0.8457773423978551
-    },
-    {
-        "team": "Singapore",
-        "edition": 2014,
-        "score": 0.8457769155776433
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 1994,
-        "score": 0.8457635394565775
-    },
-    {
-        "team": "Solomon Islands",
-        "edition": 2018,
-        "score": 0.8457543159442579
-    },
-    {
-        "team": "Botswana",
-        "edition": 2018,
-        "score": 0.8457459611678996
-    },
-    {
-        "team": "Mozambique",
-        "edition": 2006,
-        "score": 0.8457445626357746
-    },
-    {
-        "team": "Mongolia",
-        "edition": 2010,
-        "score": 0.8457305627086036
-    },
-    {
-        "team": "Swaziland",
-        "edition": 2006,
-        "score": 0.8457297350723836
-    },
-    {
-        "team": "Panama",
-        "edition": 2006,
-        "score": 0.8457237397223446
-    },
-    {
-        "team": "Palestine",
-        "edition": 2014,
-        "score": 0.8456935160515922
-    },
-    {
-        "team": "Niger",
-        "edition": 2018,
-        "score": 0.845687217147134
-    },
-    {
-        "team": "Equatorial Guinea",
-        "edition": 2014,
-        "score": 0.8456830932046923
-    },
-    {
-        "team": "Madagascar",
-        "edition": 2010,
-        "score": 0.845659040133678
-    },
-    {
-        "team": "Mauritius",
-        "edition": 2006,
-        "score": 0.8456569693167698
-    },
-    {
-        "team": "Congo",
-        "edition": 2006,
-        "score": 0.8456518752624165
-    },
-    {
-        "team": "Malta",
-        "edition": 1994,
-        "score": 0.8456476551329547
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 2002,
-        "score": 0.8456407186355956
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 1998,
-        "score": 0.845637373843169
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 2018,
-        "score": 0.8456313682634669
-    },
-    {
-        "team": "Bahrain",
-        "edition": 2002,
-        "score": 0.8456163773188227
-    },
-    {
-        "team": "Maldives",
-        "edition": 2018,
-        "score": 0.8455913544512637
-    },
-    {
-        "team": "Guyana",
-        "edition": 1994,
-        "score": 0.8455876710470428
-    },
-    {
-        "team": "Malawi",
-        "edition": 2002,
-        "score": 0.8455861576793714
-    },
-    {
-        "team": "Moldova",
-        "edition": 2014,
-        "score": 0.8455783902486538
-    },
-    {
-        "team": "Rwanda",
-        "edition": 2014,
-        "score": 0.8455765860577791
-    },
-    {
-        "team": "Latvia",
-        "edition": 1994,
-        "score": 0.845571189200903
-    },
-    {
-        "team": "Northern Ireland",
-        "edition": 2014,
-        "score": 0.8455710004267603
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 2002,
-        "score": 0.845566612894718
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 2010,
-        "score": 0.8455657854721722
-    },
-    {
-        "team": "Mauritius",
-        "edition": 2002,
-        "score": 0.8455495691705898
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 2006,
-        "score": 0.8455490189850149
-    },
-    {
-        "team": "Cuba",
-        "edition": 2014,
-        "score": 0.8455443564475933
-    },
-    {
-        "team": "Liberia",
-        "edition": 1994,
-        "score": 0.8454917563818892
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 2006,
-        "score": 0.8454557999330659
-    },
-    {
-        "team": "Benin",
-        "edition": 2002,
-        "score": 0.8454548540677336
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 2018,
-        "score": 0.845449659650992
-    },
-    {
-        "team": "American Samoa",
-        "edition": 2018,
-        "score": 0.8454347680453885
-    },
-    {
-        "team": "Sudan",
-        "edition": 1994,
-        "score": 0.8454342466346467
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 1998,
-        "score": 0.8454319650189224
-    },
-    {
-        "team": "Barbados",
-        "edition": 2018,
-        "score": 0.8454215287620829
-    },
-    {
-        "team": "Belarus",
-        "edition": 1998,
-        "score": 0.8454003322491556
-    },
-    {
-        "team": "Eritrea",
-        "edition": 2010,
-        "score": 0.8453914801130473
-    },
-    {
-        "team": "Haiti",
-        "edition": 1994,
-        "score": 0.8453880861760096
-    },
-    {
-        "team": "Suriname",
-        "edition": 1998,
-        "score": 0.8453505753877526
-    },
-    {
-        "team": "Laos",
-        "edition": 1998,
-        "score": 0.8453498363330685
-    },
-    {
-        "team": "Grenada",
-        "edition": 2018,
-        "score": 0.8453494032509902
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 2018,
-        "score": 0.8453447632343406
-    },
-    {
-        "team": "Malaysia",
-        "edition": 2014,
-        "score": 0.8453344921354092
-    },
-    {
-        "team": "Yemen",
-        "edition": 2010,
-        "score": 0.8453086628929487
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 2006,
-        "score": 0.8453061797373878
-    },
-    {
-        "team": "Aruba",
-        "edition": 2002,
-        "score": 0.845300830941643
-    },
-    {
-        "team": "Armenia",
-        "edition": 2006,
-        "score": 0.8452915449732962
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 2010,
-        "score": 0.8452552173560428
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 1998,
-        "score": 0.8452522521706978
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 1998,
-        "score": 0.8452361743705711
-    },
-    {
-        "team": "Wales",
-        "edition": 2002,
-        "score": 0.8452246562775823
-    },
-    {
-        "team": "Namibia",
-        "edition": 2014,
-        "score": 0.845212727845825
-    },
-    {
-        "team": "Turkmenistan",
-        "edition": 1998,
-        "score": 0.8452000687533022
-    },
-    {
-        "team": "India",
-        "edition": 1994,
-        "score": 0.8451916233949982
-    },
-    {
-        "team": "Kuwait",
-        "edition": 2018,
-        "score": 0.8451913563433318
-    },
-    {
-        "team": "Gambia",
-        "edition": 1994,
-        "score": 0.8451864289504515
-    },
-    {
-        "team": "Lesotho",
-        "edition": 2006,
-        "score": 0.8451805729474126
-    },
-    {
-        "team": "Chad",
-        "edition": 2010,
-        "score": 0.8451306613390072
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 1994,
-        "score": 0.8451166820536034
-    },
-    {
-        "team": "Chad",
-        "edition": 2002,
-        "score": 0.845112975498706
-    },
-    {
-        "team": "Guatemala",
-        "edition": 2018,
-        "score": 0.8451117376654054
-    },
-    {
-        "team": "Korea DPR",
-        "edition": 2002,
-        "score": 0.8450676411550755
-    },
-    {
-        "team": "El Salvador",
-        "edition": 2006,
-        "score": 0.8450631212741336
-    },
-    {
-        "team": "Belarus",
-        "edition": 1994,
-        "score": 0.8450616381141277
-    },
-    {
-        "team": "Benin",
-        "edition": 2006,
-        "score": 0.8450549687099977
-    },
-    {
-        "team": "Guam",
-        "edition": 2014,
-        "score": 0.8450549326452118
-    },
-    {
-        "team": "Angola",
-        "edition": 1994,
-        "score": 0.8450340087276016
-    },
-    {
-        "team": "Dominica",
-        "edition": 2002,
-        "score": 0.845028290317828
-    },
-    {
-        "team": "Equatorial Guinea",
-        "edition": 2010,
-        "score": 0.845007135984297
-    },
-    {
-        "team": "Botswana",
-        "edition": 2002,
-        "score": 0.8450041395540254
-    },
-    {
-        "team": "Montserrat",
-        "edition": 2018,
-        "score": 0.8449963800091046
-    },
-    {
-        "team": "Tonga",
-        "edition": 2014,
-        "score": 0.8449835799322747
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 2006,
-        "score": 0.8449829320749833
-    },
-    {
-        "team": "Estonia",
-        "edition": 1998,
-        "score": 0.8449813738427663
-    },
-    {
-        "team": "Sudan",
-        "edition": 2002,
-        "score": 0.8449782142509304
-    },
-    {
-        "team": "Angola",
-        "edition": 2018,
-        "score": 0.8449698653248537
-    },
-    {
-        "team": "Niger",
-        "edition": 2014,
-        "score": 0.8449499560204434
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 2002,
-        "score": 0.8449453131876647
-    },
-    {
-        "team": "Lebanon",
-        "edition": 2010,
-        "score": 0.8449354953862802
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 2014,
-        "score": 0.8449349057486016
-    },
-    {
-        "team": "Belize",
-        "edition": 2014,
-        "score": 0.8449297123817876
-    },
-    {
-        "team": "Cambodia",
-        "edition": 2018,
-        "score": 0.8449283595377134
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 1998,
-        "score": 0.844923682509358
-    },
-    {
-        "team": "Botswana",
-        "edition": 2006,
-        "score": 0.8449203535828786
-    },
-    {
-        "team": "Tonga",
-        "edition": 2006,
-        "score": 0.844918939420266
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 1994,
-        "score": 0.8449074972236784
-    },
-    {
-        "team": "Nepal",
-        "edition": 2010,
-        "score": 0.8448587744625473
-    },
-    {
-        "team": "Burundi",
-        "edition": 2010,
-        "score": 0.8448543446408621
-    },
-    {
-        "team": "Madagascar",
-        "edition": 1998,
-        "score": 0.844850562301649
-    },
-    {
-        "team": "Liberia",
-        "edition": 2014,
-        "score": 0.8448386943040863
-    },
-    {
-        "team": "Madagascar",
-        "edition": 2002,
-        "score": 0.8448220256806331
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 2018,
-        "score": 0.8448184405325934
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 2018,
-        "score": 0.8448057792822122
-    },
-    {
-        "team": "Albania",
-        "edition": 1994,
-        "score": 0.8448042553226519
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 2010,
-        "score": 0.8448036829473943
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2002,
-        "score": 0.8447946754068814
-    },
-    {
-        "team": "Tonga",
-        "edition": 2010,
-        "score": 0.8447912416575329
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 2014,
-        "score": 0.8447907075812134
-    },
-    {
-        "team": "Niger",
-        "edition": 2010,
-        "score": 0.8447854958705189
-    },
-    {
-        "team": "Armenia",
-        "edition": 2010,
-        "score": 0.8447696617442628
+        "score": 0.9767595384672338
     },
     {
         "team": "Tajikistan",
-        "edition": 2006,
-        "score": 0.844768385190512
+        "edition": 2018,
+        "score": 0.9767567764447264
     },
     {
-        "team": "Gambia",
-        "edition": 2006,
-        "score": 0.8447569676666989
+        "team": "India",
+        "edition": 2002,
+        "score": 0.9767358522330678
     },
     {
-        "team": "Northern Ireland",
-        "edition": 2006,
-        "score": 0.8447537204033234
-    },
-    {
-        "team": "Barbados",
+        "team": "Montenegro",
         "edition": 2014,
-        "score": 0.844752455491675
+        "score": 0.9767052226660953
     },
     {
-        "team": "Venezuela",
+        "team": "Tajikistan",
+        "edition": 2014,
+        "score": 0.9766668075501
+    },
+    {
+        "team": "Fiji",
+        "edition": 1998,
+        "score": 0.9766524201174686
+    },
+    {
+        "team": "Burkina Faso",
         "edition": 1994,
-        "score": 0.8447121239293951
+        "score": 0.9766449988621827
     },
     {
-        "team": "Moldova",
-        "edition": 2006,
-        "score": 0.8446246640956439
-    },
-    {
-        "team": "Gambia",
-        "edition": 2014,
-        "score": 0.8446227114834594
-    },
-    {
-        "team": "Palestine",
-        "edition": 2006,
-        "score": 0.8446223443413473
-    },
-    {
-        "team": "Moldova",
-        "edition": 2002,
-        "score": 0.844611833701013
-    },
-    {
-        "team": "Liberia",
-        "edition": 2010,
-        "score": 0.8446083539952398
-    },
-    {
-        "team": "Tanzania",
+        "team": "Qatar",
         "edition": 2018,
-        "score": 0.84459526647694
+        "score": 0.9765425679271397
     },
     {
-        "team": "Burundi",
-        "edition": 2006,
-        "score": 0.844586076698579
+        "team": "Colombia",
+        "edition": 1998,
+        "score": 0.976526724255757
     },
     {
-        "team": "Lesotho",
+        "team": "Swaziland",
         "edition": 2018,
-        "score": 0.8445617352044402
+        "score": 0.9765209990790679
     },
     {
-        "team": "Lebanon",
+        "team": "Maldives",
         "edition": 2014,
-        "score": 0.8445489492482662
+        "score": 0.9765043727263742
     },
     {
-        "team": "Slovenia",
-        "edition": 1994,
-        "score": 0.8445402083589881
-    },
-    {
-        "team": "Estonia",
+        "team": "Congo DR",
         "edition": 2010,
-        "score": 0.844537185913195
-    },
-    {
-        "team": "Macau",
-        "edition": 2018,
-        "score": 0.844524508688766
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 2006,
-        "score": 0.8444898895455205
-    },
-    {
-        "team": "Palestine",
-        "edition": 2002,
-        "score": 0.8444702697269237
-    },
-    {
-        "team": "Hong Kong",
-        "edition": 2014,
-        "score": 0.844461515354136
-    },
-    {
-        "team": "Mozambique",
-        "edition": 2002,
-        "score": 0.8444571041559312
-    },
-    {
-        "team": "Botswana",
-        "edition": 2010,
-        "score": 0.8444428667839533
-    },
-    {
-        "team": "Antigua and Barbuda",
-        "edition": 2002,
-        "score": 0.8444345861233995
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 1994,
-        "score": 0.8444224246786668
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2010,
-        "score": 0.8444086936980811
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 1998,
-        "score": 0.844407232163075
-    },
-    {
-        "team": "Belize",
-        "edition": 2002,
-        "score": 0.8444052580851236
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 2006,
-        "score": 0.844403832061297
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 2002,
-        "score": 0.8443748069907853
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 2014,
-        "score": 0.8443672684584442
-    },
-    {
-        "team": "Mauritania",
-        "edition": 1998,
-        "score": 0.8443576246277485
-    },
-    {
-        "team": "Macau",
-        "edition": 1998,
-        "score": 0.8443567731203789
-    },
-    {
-        "team": "Samoa",
-        "edition": 1998,
-        "score": 0.8443543575543204
-    },
-    {
-        "team": "Jordan",
-        "edition": 1998,
-        "score": 0.8443213266846411
-    },
-    {
-        "team": "Indonesia",
-        "edition": 2014,
-        "score": 0.8443206353527836
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 1994,
-        "score": 0.8443162084377147
-    },
-    {
-        "team": "Dominica",
-        "edition": 2006,
-        "score": 0.844310241244728
-    },
-    {
-        "team": "Philippines",
-        "edition": 2010,
-        "score": 0.8443016520305414
-    },
-    {
-        "team": "Macau",
-        "edition": 2010,
-        "score": 0.8442422244324984
-    },
-    {
-        "team": "Madagascar",
-        "edition": 2006,
-        "score": 0.8442379978998602
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 2010,
-        "score": 0.8442284253714238
-    },
-    {
-        "team": "Malta",
-        "edition": 2006,
-        "score": 0.8442275945496192
-    },
-    {
-        "team": "Libya",
-        "edition": 1998,
-        "score": 0.8442262276369519
-    },
-    {
-        "team": "Moldova",
-        "edition": 1998,
-        "score": 0.8442147309340485
-    },
-    {
-        "team": "Guyana",
-        "edition": 2002,
-        "score": 0.8442115868924117
-    },
-    {
-        "team": "Cambodia",
-        "edition": 2010,
-        "score": 0.8441734403621712
-    },
-    {
-        "team": "Mongolia",
-        "edition": 2006,
-        "score": 0.8441411894495698
-    },
-    {
-        "team": "Grenada",
-        "edition": 2014,
-        "score": 0.8441321305345793
-    },
-    {
-        "team": "Laos",
-        "edition": 2018,
-        "score": 0.8441256028209714
-    },
-    {
-        "team": "Aruba",
-        "edition": 2018,
-        "score": 0.8441250834570208
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 2014,
-        "score": 0.844118256723377
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 2002,
-        "score": 0.8441120177873496
-    },
-    {
-        "team": "Nepal",
-        "edition": 2014,
-        "score": 0.8441065306157408
-    },
-    {
-        "team": "Malta",
-        "edition": 2014,
-        "score": 0.8440826193724293
-    },
-    {
-        "team": "Singapore",
-        "edition": 2018,
-        "score": 0.8440800184494636
-    },
-    {
-        "team": "Chad",
-        "edition": 2014,
-        "score": 0.8440367112869487
-    },
-    {
-        "team": "Belize",
-        "edition": 2018,
-        "score": 0.8440253242036134
-    },
-    {
-        "team": "Samoa",
-        "edition": 2006,
-        "score": 0.8440162448606938
+        "score": 0.9764889310182451
     },
     {
         "team": "Malaysia",
-        "edition": 2018,
-        "score": 0.8439976523298843
-    },
-    {
-        "team": "Maldives",
         "edition": 2002,
-        "score": 0.8439935791378477
+        "score": 0.97648250290309
     },
     {
-        "team": "Guinea-Bissau",
-        "edition": 2014,
-        "score": 0.8439881442532258
+        "team": "Congo DR",
+        "edition": 2002,
+        "score": 0.9764233747318922
     },
     {
-        "team": "Pakistan",
-        "edition": 2018,
-        "score": 0.8439865999133994
-    },
-    {
-        "team": "Cambodia",
-        "edition": 2014,
-        "score": 0.843969324983307
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 2006,
-        "score": 0.8439650785414374
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 2014,
-        "score": 0.8439570322478163
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 2010,
-        "score": 0.8439504105848691
-    },
-    {
-        "team": "Lesotho",
-        "edition": 2010,
-        "score": 0.8439391374763232
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 2014,
-        "score": 0.8439384148041857
-    },
-    {
-        "team": "Vanuatu",
-        "edition": 1994,
-        "score": 0.8439240904667425
-    },
-    {
-        "team": "Equatorial Guinea",
-        "edition": 2006,
-        "score": 0.84391162157154
-    },
-    {
-        "team": "Benin",
+        "team": "Paraguay",
         "edition": 1998,
-        "score": 0.8439076825425327
+        "score": 0.9763538899789003
     },
     {
-        "team": "Sudan",
+        "team": "Guatemala",
+        "edition": 2002,
+        "score": 0.9763280265692612
+    },
+    {
+        "team": "Paraguay",
+        "edition": 2006,
+        "score": 0.9762564165342256
+    },
+    {
+        "team": "Finland",
+        "edition": 2014,
+        "score": 0.9762484765705551
+    },
+    {
+        "team": "Ukraine",
         "edition": 2018,
-        "score": 0.8439052398145385
+        "score": 0.9761522749367582
     },
     {
-        "team": "British Virgin Islands",
+        "team": "Costa Rica",
+        "edition": 2014,
+        "score": 0.9760689259555989
+    },
+    {
+        "team": "Uzbekistan",
+        "edition": 2010,
+        "score": 0.97602280418043
+    },
+    {
+        "team": "Egypt",
+        "edition": 2018,
+        "score": 0.97599221440158
+    },
+    {
+        "team": "Honduras",
         "edition": 2006,
-        "score": 0.8439029431170264
+        "score": 0.9759565070038004
     },
     {
-        "team": "Chad",
+        "team": "Cameroon",
         "edition": 1998,
-        "score": 0.8438895127431681
+        "score": 0.9759292828007942
     },
     {
-        "team": "Montserrat",
-        "edition": 2006,
-        "score": 0.8438881397273019
+        "team": "Greece",
+        "edition": 2014,
+        "score": 0.9759265593527678
+    },
+    {
+        "team": "Tonga",
+        "edition": 2014,
+        "score": 0.975868946480442
+    },
+    {
+        "team": "France",
+        "edition": 2002,
+        "score": 0.9758214055686621
     },
     {
         "team": "Panama",
-        "edition": 1994,
-        "score": 0.843881403233882
-    },
-    {
-        "team": "Samoa",
         "edition": 2018,
-        "score": 0.8438628502585699
+        "score": 0.9758092895190498
     },
     {
-        "team": "Sri Lanka",
+        "team": "United Arab Emirates",
         "edition": 2006,
-        "score": 0.8438625479821718
-    },
-    {
-        "team": "Kosovo",
-        "edition": 2018,
-        "score": 0.8438560983680912
-    },
-    {
-        "team": "Seychelles",
-        "edition": 2010,
-        "score": 0.8438451727863255
-    },
-    {
-        "team": "Philippines",
-        "edition": 2006,
-        "score": 0.8438430292518596
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 2018,
-        "score": 0.8438318353203316
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2010,
-        "score": 0.8438272896193383
-    },
-    {
-        "team": "Swaziland",
-        "edition": 2010,
-        "score": 0.843783560271801
-    },
-    {
-        "team": "Lesotho",
-        "edition": 2002,
-        "score": 0.8437821909350413
-    },
-    {
-        "team": "Pakistan",
-        "edition": 2006,
-        "score": 0.8437810856659668
-    },
-    {
-        "team": "Lithuania",
-        "edition": 2018,
-        "score": 0.843750987600173
-    },
-    {
-        "team": "Laos",
-        "edition": 2010,
-        "score": 0.843746686381622
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 2010,
-        "score": 0.8437374239529605
-    },
-    {
-        "team": "Malta",
-        "edition": 2002,
-        "score": 0.8437331042423203
-    },
-    {
-        "team": "Chad",
-        "edition": 2018,
-        "score": 0.8437314604761679
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 2002,
-        "score": 0.8437263664570694
-    },
-    {
-        "team": "Namibia",
-        "edition": 2006,
-        "score": 0.8437232579250343
-    },
-    {
-        "team": "Indonesia",
-        "edition": 1994,
-        "score": 0.8437135238792146
-    },
-    {
-        "team": "Armenia",
-        "edition": 1998,
-        "score": 0.8437054659003768
-    },
-    {
-        "team": "Guyana",
-        "edition": 1998,
-        "score": 0.8437014865252589
-    },
-    {
-        "team": "Lesotho",
-        "edition": 2014,
-        "score": 0.8436951187409786
-    },
-    {
-        "team": "Niger",
-        "edition": 1998,
-        "score": 0.8436915249114314
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 2006,
-        "score": 0.8436820711221941
-    },
-    {
-        "team": "Kazakhstan",
-        "edition": 2018,
-        "score": 0.8436729765491054
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 2002,
-        "score": 0.8436633763064049
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 2006,
-        "score": 0.8436353300885155
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 1998,
-        "score": 0.8436339705216606
-    },
-    {
-        "team": "South Sudan",
-        "edition": 2018,
-        "score": 0.8436295629568487
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 2010,
-        "score": 0.8435987618066545
-    },
-    {
-        "team": "Nepal",
-        "edition": 2006,
-        "score": 0.8435770489328869
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 2010,
-        "score": 0.8435616777516897
-    },
-    {
-        "team": "Andorra",
-        "edition": 1998,
-        "score": 0.8435503168659145
-    },
-    {
-        "team": "Papua New Guinea",
-        "edition": 2002,
-        "score": 0.8435472487345733
-    },
-    {
-        "team": "Tonga",
-        "edition": 1998,
-        "score": 0.8435409107217786
-    },
-    {
-        "team": "Guam",
-        "edition": 2002,
-        "score": 0.8435080239172768
-    },
-    {
-        "team": "Guinea-Bissau",
-        "edition": 2010,
-        "score": 0.8435041645215761
-    },
-    {
-        "team": "Macau",
-        "edition": 2006,
-        "score": 0.8434645342356228
-    },
-    {
-        "team": "Lesotho",
-        "edition": 1998,
-        "score": 0.8434436906470556
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 2006,
-        "score": 0.8434367910303049
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 2006,
-        "score": 0.8434247645805392
-    },
-    {
-        "team": "Aruba",
-        "edition": 2006,
-        "score": 0.8433983381564193
-    },
-    {
-        "team": "Togo",
-        "edition": 1994,
-        "score": 0.8433913197958555
-    },
-    {
-        "team": "Equatorial Guinea",
-        "edition": 2002,
-        "score": 0.843377235531964
-    },
-    {
-        "team": "Madagascar",
-        "edition": 2014,
-        "score": 0.8433755449748399
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 1998,
-        "score": 0.8433647168289933
-    },
-    {
-        "team": "Venezuela",
-        "edition": 1998,
-        "score": 0.8433625317181244
-    },
-    {
-        "team": "Malta",
-        "edition": 2010,
-        "score": 0.84336081090016
-    },
-    {
-        "team": "Bahamas",
-        "edition": 2002,
-        "score": 0.8433407596662006
-    },
-    {
-        "team": "Nepal",
-        "edition": 2018,
-        "score": 0.8433198140091803
-    },
-    {
-        "team": "Mauritania",
-        "edition": 2010,
-        "score": 0.8433196587180971
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2006,
-        "score": 0.8433185328335634
-    },
-    {
-        "team": "Montserrat",
-        "edition": 2010,
-        "score": 0.8433071644794992
-    },
-    {
-        "team": "Liberia",
-        "edition": 2006,
-        "score": 0.8432885653194222
-    },
-    {
-        "team": "Belize",
-        "edition": 2010,
-        "score": 0.8432864227880689
-    },
-    {
-        "team": "Cyprus",
-        "edition": 2014,
-        "score": 0.843280938607918
-    },
-    {
-        "team": "Mauritania",
-        "edition": 2014,
-        "score": 0.8432728041151383
-    },
-    {
-        "team": "Djibouti",
-        "edition": 2002,
-        "score": 0.8432719275998307
-    },
-    {
-        "team": "Mauritius",
-        "edition": 1994,
-        "score": 0.8432605158051739
-    },
-    {
-        "team": "Samoa",
-        "edition": 2014,
-        "score": 0.8432573322854007
-    },
-    {
-        "team": "Oman",
-        "edition": 1994,
-        "score": 0.8432022901289583
-    },
-    {
-        "team": "Macau",
-        "edition": 2014,
-        "score": 0.8431639313839172
-    },
-    {
-        "team": "Laos",
-        "edition": 2006,
-        "score": 0.843144739494043
-    },
-    {
-        "team": "Benin",
-        "edition": 1994,
-        "score": 0.8431397363284094
-    },
-    {
-        "team": "Azerbaijan",
-        "edition": 1998,
-        "score": 0.8431390735633232
-    },
-    {
-        "team": "British Virgin Islands",
-        "edition": 2010,
-        "score": 0.8431356399182384
-    },
-    {
-        "team": "Rwanda",
-        "edition": 1998,
-        "score": 0.8431288160409418
-    },
-    {
-        "team": "Bahamas",
-        "edition": 2010,
-        "score": 0.8431153906711406
-    },
-    {
-        "team": "Sierra Leone",
-        "edition": 2010,
-        "score": 0.8430971336297425
-    },
-    {
-        "team": "Yemen",
-        "edition": 2018,
-        "score": 0.84309324130369
-    },
-    {
-        "team": "Gambia",
-        "edition": 2018,
-        "score": 0.8430748131077557
-    },
-    {
-        "team": "Dominica",
-        "edition": 2010,
-        "score": 0.843071049976988
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 1994,
-        "score": 0.8430575712161676
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 1998,
-        "score": 0.8430570763724626
-    },
-    {
-        "team": "Comoros",
-        "edition": 2018,
-        "score": 0.843052093428083
-    },
-    {
-        "team": "Bhutan",
-        "edition": 2010,
-        "score": 0.8430322612601612
-    },
-    {
-        "team": "Mauritius",
-        "edition": 2014,
-        "score": 0.8430090130151334
-    },
-    {
-        "team": "Cambodia",
-        "edition": 2002,
-        "score": 0.8430012242565341
-    },
-    {
-        "team": "Mauritius",
-        "edition": 2018,
-        "score": 0.8429907678233192
-    },
-    {
-        "team": "Seychelles",
-        "edition": 2014,
-        "score": 0.8429874479770038
-    },
-    {
-        "team": "Vietnam",
-        "edition": 1994,
-        "score": 0.8429719998722263
-    },
-    {
-        "team": "Estonia",
-        "edition": 1994,
-        "score": 0.842965520673537
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 2002,
-        "score": 0.842955773832718
-    },
-    {
-        "team": "Tanzania",
-        "edition": 2006,
-        "score": 0.8429314730099472
-    },
-    {
-        "team": "Moldova",
-        "edition": 2018,
-        "score": 0.8429233775090377
-    },
-    {
-        "team": "Pakistan",
-        "edition": 1998,
-        "score": 0.8429028055519678
-    },
-    {
-        "team": "Mauritania",
-        "edition": 1994,
-        "score": 0.8428860450669196
-    },
-    {
-        "team": "Afghanistan",
-        "edition": 2010,
-        "score": 0.8428846689255578
-    },
-    {
-        "team": "Bangladesh",
-        "edition": 2018,
-        "score": 0.8428816119107981
-    },
-    {
-        "team": "Cuba",
-        "edition": 2018,
-        "score": 0.8428405724399644
-    },
-    {
-        "team": "Mongolia",
-        "edition": 2014,
-        "score": 0.8428394382105762
-    },
-    {
-        "team": "Belize",
-        "edition": 1998,
-        "score": 0.8428218696016454
-    },
-    {
-        "team": "Guam",
-        "edition": 2018,
-        "score": 0.8427871847899194
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 2010,
-        "score": 0.8427507714511644
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 2014,
-        "score": 0.8427434550580677
-    },
-    {
-        "team": "Pakistan",
-        "edition": 2014,
-        "score": 0.84274044453162
-    },
-    {
-        "team": "Bhutan",
-        "edition": 2018,
-        "score": 0.8427205931081795
-    },
-    {
-        "team": "Maldives",
-        "edition": 1998,
-        "score": 0.8427195602579307
-    },
-    {
-        "team": "Dominica",
-        "edition": 2014,
-        "score": 0.8427137040737683
-    },
-    {
-        "team": "Mauritania",
-        "edition": 2002,
-        "score": 0.8427096594701278
-    },
-    {
-        "team": "Seychelles",
-        "edition": 2006,
-        "score": 0.8427022482401457
-    },
-    {
-        "team": "Gambia",
-        "edition": 2002,
-        "score": 0.8426719474094445
-    },
-    {
-        "team": "Yemen",
-        "edition": 2014,
-        "score": 0.8426638126796214
-    },
-    {
-        "team": "Malta",
-        "edition": 1998,
-        "score": 0.8426409899377175
-    },
-    {
-        "team": "Faroe Islands",
-        "edition": 2014,
-        "score": 0.8426317419248112
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 2010,
-        "score": 0.8426314190955755
-    },
-    {
-        "team": "Bahamas",
-        "edition": 2006,
-        "score": 0.842616164645744
-    },
-    {
-        "team": "Macau",
-        "edition": 1994,
-        "score": 0.8425883142707619
-    },
-    {
-        "team": "Eritrea",
-        "edition": 2006,
-        "score": 0.8425819157317718
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 1994,
-        "score": 0.8425779830289294
-    },
-    {
-        "team": "Puerto Rico",
-        "edition": 2002,
-        "score": 0.8425590647612915
-    },
-    {
-        "team": "Nepal",
-        "edition": 1998,
-        "score": 0.8425383467775125
-    },
-    {
-        "team": "Mauritius",
-        "edition": 1998,
-        "score": 0.8425371676692585
-    },
-    {
-        "team": "Montserrat",
-        "edition": 2002,
-        "score": 0.8425225667643865
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 2010,
-        "score": 0.8424831622619974
-    },
-    {
-        "team": "Seychelles",
-        "edition": 1998,
-        "score": 0.8424689546837864
-    },
-    {
-        "team": "Andorra",
-        "edition": 2002,
-        "score": 0.8424534536556704
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 2002,
-        "score": 0.842431690356349
-    },
-    {
-        "team": "Niger",
-        "edition": 2006,
-        "score": 0.8424128404126116
-    },
-    {
-        "team": "Eritrea",
-        "edition": 2002,
-        "score": 0.8424090058232826
-    },
-    {
-        "team": "Luxembourg",
-        "edition": 2006,
-        "score": 0.8423692887431763
-    },
-    {
-        "team": "Anguilla",
-        "edition": 1998,
-        "score": 0.8423474545899222
-    },
-    {
-        "team": "South Sudan",
-        "edition": 2014,
-        "score": 0.8423259353762719
-    },
-    {
-        "team": "Comoros",
-        "edition": 2010,
-        "score": 0.8422872602576715
-    },
-    {
-        "team": "Djibouti",
-        "edition": 2010,
-        "score": 0.8422867418736926
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 2018,
-        "score": 0.8422778531959997
-    },
-    {
-        "team": "Bhutan",
-        "edition": 2002,
-        "score": 0.8422758505060167
-    },
-    {
-        "team": "Somalia",
-        "edition": 2010,
-        "score": 0.8422597445023704
-    },
-    {
-        "team": "Central African Republic",
-        "edition": 2006,
-        "score": 0.8422512834145651
-    },
-    {
-        "team": "Mauritania",
-        "edition": 2006,
-        "score": 0.8422431368001627
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 1998,
-        "score": 0.842239206240462
-    },
-    {
-        "team": "Grenada",
-        "edition": 1994,
-        "score": 0.8422252787600045
-    },
-    {
-        "team": "Bhutan",
-        "edition": 2006,
-        "score": 0.8422218280598184
-    },
-    {
-        "team": "Botswana",
-        "edition": 1994,
-        "score": 0.84221364728166
-    },
-    {
-        "team": "Swaziland",
-        "edition": 1998,
-        "score": 0.8421936805040289
-    },
-    {
-        "team": "Mauritius",
-        "edition": 2010,
-        "score": 0.8421923189194088
-    },
-    {
-        "team": "Bhutan",
-        "edition": 2014,
-        "score": 0.8421735179963475
-    },
-    {
-        "team": "Laos",
-        "edition": 2002,
-        "score": 0.8421525080803332
-    },
-    {
-        "team": "Afghanistan",
-        "edition": 2006,
-        "score": 0.8421141673724731
-    },
-    {
-        "team": "Malta",
-        "edition": 2018,
-        "score": 0.8420975958222953
-    },
-    {
-        "team": "Somalia",
-        "edition": 2006,
-        "score": 0.8420970261307711
-    },
-    {
-        "team": "Eritrea",
-        "edition": 2018,
-        "score": 0.8420956493327731
-    },
-    {
-        "team": "Djibouti",
-        "edition": 2006,
-        "score": 0.8420804351493661
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 1998,
-        "score": 0.842073665317768
-    },
-    {
-        "team": "Eritrea",
-        "edition": 2014,
-        "score": 0.8420568154107578
-    },
-    {
-        "team": "Tonga",
-        "edition": 2018,
-        "score": 0.8420544938017518
-    },
-    {
-        "team": "Comoros",
-        "edition": 2014,
-        "score": 0.8420422327841859
-    },
-    {
-        "team": "Seychelles",
-        "edition": 2018,
-        "score": 0.8420367700942871
-    },
-    {
-        "team": "Pakistan",
-        "edition": 2002,
-        "score": 0.8419566420111007
-    },
-    {
-        "team": "Cambodia",
-        "edition": 2006,
-        "score": 0.8419229409646763
-    },
-    {
-        "team": "Botswana",
-        "edition": 1998,
-        "score": 0.8419223038422123
-    },
-    {
-        "team": "Palestine",
-        "edition": 2010,
-        "score": 0.8418992898842111
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 2018,
-        "score": 0.8418990953521559
-    },
-    {
-        "team": "American Samoa",
-        "edition": 2014,
-        "score": 0.8418889688139407
-    },
-    {
-        "team": "Aruba",
-        "edition": 1994,
-        "score": 0.8418762508803472
-    },
-    {
-        "team": "Mongolia",
-        "edition": 2002,
-        "score": 0.8418459560645101
-    },
-    {
-        "team": "Djibouti",
-        "edition": 2014,
-        "score": 0.8418321386985241
-    },
-    {
-        "team": "Tahiti",
-        "edition": 2010,
-        "score": 0.8418298918550425
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2002,
-        "score": 0.8418263150702804
-    },
-    {
-        "team": "Swaziland",
-        "edition": 2014,
-        "score": 0.8417989623602962
-    },
-    {
-        "team": "British Virgin Islands",
-        "edition": 2014,
-        "score": 0.841790463450388
-    },
-    {
-        "team": "San Marino",
-        "edition": 2006,
-        "score": 0.8417755475993398
-    },
-    {
-        "team": "Seychelles",
-        "edition": 2002,
-        "score": 0.8417710194419391
-    },
-    {
-        "team": "Namibia",
-        "edition": 1994,
-        "score": 0.841770846533766
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2014,
-        "score": 0.8417661580564452
-    },
-    {
-        "team": "Macau",
-        "edition": 2002,
-        "score": 0.8417519403903492
-    },
-    {
-        "team": "Philippines",
-        "edition": 2002,
-        "score": 0.8417377066894158
-    },
-    {
-        "team": "Djibouti",
-        "edition": 2018,
-        "score": 0.8416939135656529
-    },
-    {
-        "team": "Gibraltar",
-        "edition": 2018,
-        "score": 0.8416440107641193
-    },
-    {
-        "team": "Cambodia",
-        "edition": 1998,
-        "score": 0.8416402629558033
-    },
-    {
-        "team": "Anguilla",
-        "edition": 2010,
-        "score": 0.8416208339974315
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 1998,
-        "score": 0.8415937183759963
-    },
-    {
-        "team": "Libya",
-        "edition": 1994,
-        "score": 0.8415853149354622
-    },
-    {
-        "team": "Andorra",
-        "edition": 2010,
-        "score": 0.8415676463914032
-    },
-    {
-        "team": "Dominican Republic",
-        "edition": 2010,
-        "score": 0.8415584114343896
-    },
-    {
-        "team": "San Marino",
-        "edition": 1994,
-        "score": 0.841535640513317
-    },
-    {
-        "team": "Andorra",
-        "edition": 2006,
-        "score": 0.841517052139658
-    },
-    {
-        "team": "Aruba",
-        "edition": 2010,
-        "score": 0.8414843632051072
-    },
-    {
-        "team": "San Marino",
-        "edition": 2002,
-        "score": 0.841475981764958
-    },
-    {
-        "team": "Nicaragua",
-        "edition": 2002,
-        "score": 0.8414680130890524
-    },
-    {
-        "team": "American Samoa",
-        "edition": 2010,
-        "score": 0.8413916519113717
-    },
-    {
-        "team": "American Samoa",
-        "edition": 2006,
-        "score": 0.8413863824626175
-    },
-    {
-        "team": "Andorra",
-        "edition": 2018,
-        "score": 0.8413297361331432
-    },
-    {
-        "team": "Cook Islands",
-        "edition": 2006,
-        "score": 0.8413244030420196
-    },
-    {
-        "team": "Pakistan",
-        "edition": 1994,
-        "score": 0.8412745329737559
-    },
-    {
-        "team": "Somalia",
-        "edition": 2014,
-        "score": 0.8412640461318884
-    },
-    {
-        "team": "American Samoa",
-        "edition": 2002,
-        "score": 0.8412621662433918
-    },
-    {
-        "team": "Chad",
-        "edition": 1994,
-        "score": 0.8412564426069146
-    },
-    {
-        "team": "Anguilla",
-        "edition": 2014,
-        "score": 0.841199081498026
-    },
-    {
-        "team": "San Marino",
-        "edition": 2010,
-        "score": 0.8411779633420183
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 2002,
-        "score": 0.8411672540899262
-    },
-    {
-        "team": "San Marino",
-        "edition": 2014,
-        "score": 0.8411626642699623
-    },
-    {
-        "team": "San Marino",
-        "edition": 2018,
-        "score": 0.8411551079347764
-    },
-    {
-        "team": "Somalia",
-        "edition": 2002,
-        "score": 0.8410407358184555
-    },
-    {
-        "team": "Philippines",
-        "edition": 1998,
-        "score": 0.8410391425072081
-    },
-    {
-        "team": "Guam",
-        "edition": 2006,
-        "score": 0.8410380061296076
-    },
-    {
-        "team": "Andorra",
-        "edition": 2014,
-        "score": 0.8410068146207105
-    },
-    {
-        "team": "San Marino",
-        "edition": 1998,
-        "score": 0.8409843915151664
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2006,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Belize",
-        "edition": 2006,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Anguilla",
-        "edition": 2006,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Cayman Islands",
-        "edition": 2018,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "British Virgin Islands",
-        "edition": 2018,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Somalia",
-        "edition": 1998,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Turks and Caicos Islands",
-        "edition": 2014,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Niger",
-        "edition": 2002,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Guam",
-        "edition": 1998,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Liechtenstein",
-        "edition": 1994,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Somalia",
-        "edition": 2018,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Sri Lanka",
-        "edition": 1994,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Bahamas",
-        "edition": 2018,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Anguilla",
-        "edition": 2018,
-        "score": 0.8407565898159427
-    },
-    {
-        "team": "Brazil",
-        "edition": 2006,
-        "score": 0.8377484251142708
+        "score": 0.975789081606552
     },
     {
         "team": "Spain",
         "edition": 2014,
-        "score": 0.8085089874116824
+        "score": 0.9757452192914314
+    },
+    {
+        "team": "Cameroon",
+        "edition": 2006,
+        "score": 0.9757437926340083
+    },
+    {
+        "team": "Ecuador",
+        "edition": 2018,
+        "score": 0.9757420402121356
+    },
+    {
+        "team": "Gabon",
+        "edition": 2002,
+        "score": 0.9757399183233635
+    },
+    {
+        "team": "Romania",
+        "edition": 2018,
+        "score": 0.9757334305495032
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 2018,
+        "score": 0.975697035743373
+    },
+    {
+        "team": "Morocco",
+        "edition": 2014,
+        "score": 0.9756898183602969
+    },
+    {
+        "team": "Australia",
+        "edition": 2010,
+        "score": 0.9756537405907351
+    },
+    {
+        "team": "Indonesia",
+        "edition": 2010,
+        "score": 0.9756064852203713
+    },
+    {
+        "team": "Tahiti",
+        "edition": 1998,
+        "score": 0.9754582078828804
+    },
+    {
+        "team": "Fiji",
+        "edition": 2018,
+        "score": 0.9754061829432027
+    },
+    {
+        "team": "Angola",
+        "edition": 2010,
+        "score": 0.9753620291408233
+    },
+    {
+        "team": "Greece",
+        "edition": 1994,
+        "score": 0.9753480102807981
+    },
+    {
+        "team": "Scotland",
+        "edition": 2002,
+        "score": 0.9753480102807033
+    },
+    {
+        "team": "Qatar",
+        "edition": 2014,
+        "score": 0.9753440427601154
+    },
+    {
+        "team": "Yemen",
+        "edition": 1994,
+        "score": 0.9753429744636386
+    },
+    {
+        "team": "Bahrain",
+        "edition": 2018,
+        "score": 0.9753379103340308
+    },
+    {
+        "team": "Libya",
+        "edition": 2014,
+        "score": 0.9753027838029081
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 2010,
+        "score": 0.9752626887756404
+    },
+    {
+        "team": "Costa Rica",
+        "edition": 2018,
+        "score": 0.9752534508523798
+    },
+    {
+        "team": "Scotland",
+        "edition": 1994,
+        "score": 0.975164513054401
+    },
+    {
+        "team": "Costa Rica",
+        "edition": 1998,
+        "score": 0.9751272847771657
+    },
+    {
+        "team": "Guatemala",
+        "edition": 2006,
+        "score": 0.9750428116930828
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 2014,
+        "score": 0.9750391443767688
+    },
+    {
+        "team": "Fiji",
+        "edition": 2010,
+        "score": 0.974994917636157
+    },
+    {
+        "team": "Poland",
+        "edition": 1998,
+        "score": 0.9749487982590413
+    },
+    {
+        "team": "Finland",
+        "edition": 2006,
+        "score": 0.9748849405723704
+    },
+    {
+        "team": "Wales",
+        "edition": 2018,
+        "score": 0.9748294838802684
+    },
+    {
+        "team": "South Africa",
+        "edition": 2014,
+        "score": 0.9748079248025753
+    },
+    {
+        "team": "Barbados",
+        "edition": 2006,
+        "score": 0.9747830232382343
+    },
+    {
+        "team": "Guinea",
+        "edition": 2010,
+        "score": 0.9747367958120579
+    },
+    {
+        "team": "South Africa",
+        "edition": 2006,
+        "score": 0.9747286509531635
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 2006,
+        "score": 0.974705332822154
+    },
+    {
+        "team": "Chile",
+        "edition": 1994,
+        "score": 0.9746316079265424
+    },
+    {
+        "team": "Uganda",
+        "edition": 2002,
+        "score": 0.9744803262727643
+    },
+    {
+        "team": "Burundi",
+        "edition": 2018,
+        "score": 0.9744516544433058
+    },
+    {
+        "team": "Tajikistan",
+        "edition": 2010,
+        "score": 0.9744359678327352
+    },
+    {
+        "team": "Suriname",
+        "edition": 2018,
+        "score": 0.9744021424779975
+    },
+    {
+        "team": "Chad",
+        "edition": 2006,
+        "score": 0.9743665017661087
+    },
+    {
+        "team": "Liberia",
+        "edition": 2002,
+        "score": 0.9743498521355298
+    },
+    {
+        "team": "Kenya",
+        "edition": 2006,
+        "score": 0.9743111025521479
+    },
+    {
+        "team": "Croatia",
+        "edition": 1994,
+        "score": 0.9742858715177741
+    },
+    {
+        "team": "Ukraine",
+        "edition": 2002,
+        "score": 0.9741864257423665
+    },
+    {
+        "team": "Guyana",
+        "edition": 2006,
+        "score": 0.974176256168164
+    },
+    {
+        "team": "Nigeria",
+        "edition": 2010,
+        "score": 0.9741731237800306
+    },
+    {
+        "team": "Iraq",
+        "edition": 2018,
+        "score": 0.9740850724509417
+    },
+    {
+        "team": "Austria",
+        "edition": 2014,
+        "score": 0.9740700863459201
+    },
+    {
+        "team": "Paraguay",
+        "edition": 2014,
+        "score": 0.9740192494926457
     },
     {
         "team": "Brazil",
+        "edition": 2006,
+        "score": 0.9738900404414478
+    },
+    {
+        "team": "Mali",
+        "edition": 2018,
+        "score": 0.973874369181587
+    },
+    {
+        "team": "Ukraine",
         "edition": 1998,
-        "score": 0.7852248527116933
+        "score": 0.973774051359227
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 2006,
+        "score": 0.9737510322423367
+    },
+    {
+        "team": "Wales",
+        "edition": 1994,
+        "score": 0.9737212083077027
+    },
+    {
+        "team": "Austria",
+        "edition": 2002,
+        "score": 0.9736914272969274
+    },
+    {
+        "team": "Honduras",
+        "edition": 2018,
+        "score": 0.9735819861158953
+    },
+    {
+        "team": "Libya",
+        "edition": 1998,
+        "score": 0.9735343910596019
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 2006,
+        "score": 0.973494427686561
+    },
+    {
+        "team": "Haiti",
+        "edition": 2006,
+        "score": 0.9733702797780963
+    },
+    {
+        "team": "England",
+        "edition": 2018,
+        "score": 0.9733556589424749
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 2006,
+        "score": 0.9733062104237916
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 2002,
+        "score": 0.9732951676212537
+    },
+    {
+        "team": "Honduras",
+        "edition": 2014,
+        "score": 0.9732556862299379
+    },
+    {
+        "team": "Ecuador",
+        "edition": 2002,
+        "score": 0.9732067487790828
+    },
+    {
+        "team": "Gabon",
+        "edition": 2006,
+        "score": 0.973168698122694
+    },
+    {
+        "team": "Costa Rica",
+        "edition": 1994,
+        "score": 0.9731561552862743
+    },
+    {
+        "team": "Sudan",
+        "edition": 2006,
+        "score": 0.9730689358167918
+    },
+    {
+        "team": "Peru",
+        "edition": 1998,
+        "score": 0.9730281418055535
+    },
+    {
+        "team": "Uruguay",
+        "edition": 2014,
+        "score": 0.9730190612202135
+    },
+    {
+        "team": "Bolivia",
+        "edition": 1998,
+        "score": 0.972983964665701
+    },
+    {
+        "team": "Uzbekistan",
+        "edition": 2018,
+        "score": 0.9728620738459238
+    },
+    {
+        "team": "Yemen",
+        "edition": 2002,
+        "score": 0.9727667253935938
+    },
+    {
+        "team": "Colombia",
+        "edition": 2010,
+        "score": 0.9727439736484476
+    },
+    {
+        "team": "Palestine",
+        "edition": 2014,
+        "score": 0.9726133355014982
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 2010,
+        "score": 0.9725527626723621
+    },
+    {
+        "team": "Bermuda",
+        "edition": 1994,
+        "score": 0.9724716250671942
+    },
+    {
+        "team": "Uganda",
+        "edition": 1994,
+        "score": 0.9723644991601526
+    },
+    {
+        "team": "Canada",
+        "edition": 2010,
+        "score": 0.9722992047973361
+    },
+    {
+        "team": "Bahamas",
+        "edition": 2014,
+        "score": 0.9722280640762647
+    },
+    {
+        "team": "Guyana",
+        "edition": 2018,
+        "score": 0.9721341040844965
+    },
+    {
+        "team": "United Arab Emirates",
+        "edition": 1994,
+        "score": 0.9720714969776834
+    },
+    {
+        "team": "Scotland",
+        "edition": 2014,
+        "score": 0.9720675041056641
+    },
+    {
+        "team": "Hungary",
+        "edition": 1994,
+        "score": 0.9720584960090455
+    },
+    {
+        "team": "Canada",
+        "edition": 1994,
+        "score": 0.9720021494677056
+    },
+    {
+        "team": "Honduras",
+        "edition": 1998,
+        "score": 0.9720006195599191
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 2006,
+        "score": 0.9719355961753057
+    },
+    {
+        "team": "Madagascar",
+        "edition": 1994,
+        "score": 0.9719126673520997
+    },
+    {
+        "team": "Barbados",
+        "edition": 2002,
+        "score": 0.9718584830093802
+    },
+    {
+        "team": "Tahiti",
+        "edition": 2006,
+        "score": 0.9718382188754511
+    },
+    {
+        "team": "Algeria",
+        "edition": 1998,
+        "score": 0.9717454973087777
+    },
+    {
+        "team": "Syria",
+        "edition": 1994,
+        "score": 0.9717430528492128
+    },
+    {
+        "team": "Guinea",
+        "edition": 2018,
+        "score": 0.9716956053854445
+    },
+    {
+        "team": "Australia",
+        "edition": 2002,
+        "score": 0.9715495797520652
+    },
+    {
+        "team": "Zambia",
+        "edition": 2014,
+        "score": 0.971549212729824
+    },
+    {
+        "team": "Israel",
+        "edition": 2014,
+        "score": 0.9714536653915017
+    },
+    {
+        "team": "Peru",
+        "edition": 2006,
+        "score": 0.9714307064734716
+    },
+    {
+        "team": "Greece",
+        "edition": 2018,
+        "score": 0.9713594119520986
+    },
+    {
+        "team": "New Caledonia",
+        "edition": 2014,
+        "score": 0.9713250208516844
+    },
+    {
+        "team": "Samoa",
+        "edition": 2010,
+        "score": 0.9713109316389242
+    },
+    {
+        "team": "Oman",
+        "edition": 1998,
+        "score": 0.9712888886131285
+    },
+    {
+        "team": "Estonia",
+        "edition": 2018,
+        "score": 0.9712840461345712
+    },
+    {
+        "team": "Vietnam",
+        "edition": 2006,
+        "score": 0.9712720332937365
+    },
+    {
+        "team": "Ecuador",
+        "edition": 1994,
+        "score": 0.9712630204080903
+    },
+    {
+        "team": "Oman",
+        "edition": 2014,
+        "score": 0.9712498579995298
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 2018,
+        "score": 0.9712228820815929
+    },
+    {
+        "team": "Hungary",
+        "edition": 2006,
+        "score": 0.9711377584663303
+    },
+    {
+        "team": "Serbia",
+        "edition": 2006,
+        "score": 0.9711140918972084
+    },
+    {
+        "team": "Bermuda",
+        "edition": 2018,
+        "score": 0.9710627697946723
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 2002,
+        "score": 0.9709556474598687
+    },
+    {
+        "team": "New Zealand",
+        "edition": 2002,
+        "score": 0.9709306860757061
+    },
+    {
+        "team": "Bahrain",
+        "edition": 1994,
+        "score": 0.9708765792134767
+    },
+    {
+        "team": "Singapore",
+        "edition": 1998,
+        "score": 0.9707026936676318
+    },
+    {
+        "team": "Tahiti",
+        "edition": 2002,
+        "score": 0.9705840187565817
+    },
+    {
+        "team": "Lithuania",
+        "edition": 1998,
+        "score": 0.9703878826696236
+    },
+    {
+        "team": "England",
+        "edition": 1994,
+        "score": 0.9703752318313263
+    },
+    {
+        "team": "India",
+        "edition": 2006,
+        "score": 0.9702990196535026
+    },
+    {
+        "team": "Senegal",
+        "edition": 1994,
+        "score": 0.9702210988446689
+    },
+    {
+        "team": "India",
+        "edition": 1998,
+        "score": 0.9701363566776403
+    },
+    {
+        "team": "Zambia",
+        "edition": 2010,
+        "score": 0.9700634602993469
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 2010,
+        "score": 0.9699396489103385
+    },
+    {
+        "team": "Slovakia",
+        "edition": 2010,
+        "score": 0.9698025205112817
+    },
+    {
+        "team": "Canada",
+        "edition": 2018,
+        "score": 0.9697693110116191
+    },
+    {
+        "team": "Madagascar",
+        "edition": 2010,
+        "score": 0.9697583660790707
+    },
+    {
+        "team": "Indonesia",
+        "edition": 2006,
+        "score": 0.9697528412841768
+    },
+    {
+        "team": "Fiji",
+        "edition": 2002,
+        "score": 0.9697147074618127
+    },
+    {
+        "team": "USA",
+        "edition": 1994,
+        "score": 0.9696419730593001
+    },
+    {
+        "team": "Greece",
+        "edition": 2006,
+        "score": 0.9696218991793705
+    },
+    {
+        "team": "Jordan",
+        "edition": 2002,
+        "score": 0.9695968700712635
+    },
+    {
+        "team": "Zimbabwe",
+        "edition": 2014,
+        "score": 0.9695897743761386
+    },
+    {
+        "team": "Zimbabwe",
+        "edition": 2010,
+        "score": 0.9695092376214525
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 2018,
+        "score": 0.9694856710541283
+    },
+    {
+        "team": "India",
+        "edition": 2014,
+        "score": 0.9694248078989185
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 2014,
+        "score": 0.9691280452501787
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 2018,
+        "score": 0.9690505057214116
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 1994,
+        "score": 0.9690295926531802
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 2002,
+        "score": 0.969028171917633
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 1998,
+        "score": 0.9690279202900862
+    },
+    {
+        "team": "Malaysia",
+        "edition": 2010,
+        "score": 0.969025511721854
+    },
+    {
+        "team": "Sudan",
+        "edition": 1998,
+        "score": 0.9689539216458377
+    },
+    {
+        "team": "Belarus",
+        "edition": 2010,
+        "score": 0.968868936853012
+    },
+    {
+        "team": "New Zealand",
+        "edition": 2018,
+        "score": 0.9688434714074136
+    },
+    {
+        "team": "Ukraine",
+        "edition": 2006,
+        "score": 0.9687687681442383
+    },
+    {
+        "team": "Zimbabwe",
+        "edition": 1998,
+        "score": 0.9687322307952437
+    },
+    {
+        "team": "Maldives",
+        "edition": 2006,
+        "score": 0.9686721213272033
+    },
+    {
+        "team": "Tahiti",
+        "edition": 2014,
+        "score": 0.9686218132160545
+    },
+    {
+        "team": "New Zealand",
+        "edition": 2010,
+        "score": 0.9685983222734644
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 2010,
+        "score": 0.9685406670349637
+    },
+    {
+        "team": "Slovakia",
+        "edition": 2002,
+        "score": 0.968539225136041
+    },
+    {
+        "team": "Singapore",
+        "edition": 1994,
+        "score": 0.9683278011388022
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 2002,
+        "score": 0.9683068165485106
+    },
+    {
+        "team": "Guatemala",
+        "edition": 1998,
+        "score": 0.9681689228169119
+    },
+    {
+        "team": "Ecuador",
+        "edition": 2006,
+        "score": 0.9681504208342905
+    },
+    {
+        "team": "Burundi",
+        "edition": 2014,
+        "score": 0.9680955644105829
+    },
+    {
+        "team": "Serbia",
+        "edition": 2014,
+        "score": 0.9679634785692035
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 2006,
+        "score": 0.967911996039728
+    },
+    {
+        "team": "Panama",
+        "edition": 1998,
+        "score": 0.967904178950903
+    },
+    {
+        "team": "Malaysia",
+        "edition": 1994,
+        "score": 0.9678194000723072
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 2014,
+        "score": 0.9678175952752615
+    },
+    {
+        "team": "Senegal",
+        "edition": 1998,
+        "score": 0.9677383195138947
+    },
+    {
+        "team": "Rwanda",
+        "edition": 2010,
+        "score": 0.9677297732761733
+    },
+    {
+        "team": "New Caledonia",
+        "edition": 2006,
+        "score": 0.967714130532032
+    },
+    {
+        "team": "Colombia",
+        "edition": 2006,
+        "score": 0.9676545129269284
+    },
+    {
+        "team": "England",
+        "edition": 2002,
+        "score": 0.967595059173328
+    },
+    {
+        "team": "Tanzania",
+        "edition": 2010,
+        "score": 0.9675927773680548
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 2014,
+        "score": 0.9674883326354417
+    },
+    {
+        "team": "Pakistan",
+        "edition": 2018,
+        "score": 0.9673568040800277
+    },
+    {
+        "team": "Australia",
+        "edition": 1994,
+        "score": 0.9673561931612791
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 1994,
+        "score": 0.9672435075846351
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 2018,
+        "score": 0.9671814555414298
+    },
+    {
+        "team": "Philippines",
+        "edition": 2018,
+        "score": 0.9671474677855366
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 2010,
+        "score": 0.9671404803560602
+    },
+    {
+        "team": "Nigeria",
+        "edition": 1998,
+        "score": 0.967127987719292
+    },
+    {
+        "team": "Syria",
+        "edition": 1998,
+        "score": 0.9671277378171338
+    },
+    {
+        "team": "Scotland",
+        "edition": 1998,
+        "score": 0.9669140642332468
+    },
+    {
+        "team": "Grenada",
+        "edition": 2002,
+        "score": 0.9668363657331968
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 2002,
+        "score": 0.9668066106344846
+    },
+    {
+        "team": "Angola",
+        "edition": 2014,
+        "score": 0.9667806082140875
+    },
+    {
+        "team": "Cuba",
+        "edition": 2010,
+        "score": 0.9667381867154113
+    },
+    {
+        "team": "Sweden",
+        "edition": 2010,
+        "score": 0.9667244427696197
+    },
+    {
+        "team": "Suriname",
+        "edition": 2006,
+        "score": 0.9666712401143106
+    },
+    {
+        "team": "Mongolia",
+        "edition": 2018,
+        "score": 0.9666445262237289
+    },
+    {
+        "team": "Kenya",
+        "edition": 2018,
+        "score": 0.9665440931063113
+    },
+    {
+        "team": "Cameroon",
+        "edition": 1994,
+        "score": 0.9665414238762542
+    },
+    {
+        "team": "Haiti",
+        "edition": 2010,
+        "score": 0.9665064914007953
+    },
+    {
+        "team": "Algeria",
+        "edition": 2006,
+        "score": 0.966307423583527
+    },
+    {
+        "team": "Indonesia",
+        "edition": 1998,
+        "score": 0.966249297829501
+    },
+    {
+        "team": "Slovenia",
+        "edition": 2018,
+        "score": 0.966217084227189
+    },
+    {
+        "team": "Namibia",
+        "edition": 1998,
+        "score": 0.9661926595338954
+    },
+    {
+        "team": "Malawi",
+        "edition": 1994,
+        "score": 0.9660849769314486
+    },
+    {
+        "team": "Iceland",
+        "edition": 1998,
+        "score": 0.9659868840687342
+    },
+    {
+        "team": "Singapore",
+        "edition": 2014,
+        "score": 0.9658574702765395
+    },
+    {
+        "team": "Grenada",
+        "edition": 2010,
+        "score": 0.9658157948197985
+    },
+    {
+        "team": "Guatemala",
+        "edition": 1994,
+        "score": 0.9657669870343476
+    },
+    {
+        "team": "Afghanistan",
+        "edition": 2018,
+        "score": 0.9657584177245931
+    },
+    {
+        "team": "Armenia",
+        "edition": 2014,
+        "score": 0.9657121894182299
+    },
+    {
+        "team": "Aruba",
+        "edition": 2014,
+        "score": 0.9655568377756946
+    },
+    {
+        "team": "Chile",
+        "edition": 2006,
+        "score": 0.9655437354897024
+    },
+    {
+        "team": "Nepal",
+        "edition": 2010,
+        "score": 0.9655045015318451
+    },
+    {
+        "team": "Uganda",
+        "edition": 2006,
+        "score": 0.9653864022135158
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2010,
+        "score": 0.9653385798884634
+    },
+    {
+        "team": "Mozambique",
+        "edition": 2006,
+        "score": 0.9652443987690731
+    },
+    {
+        "team": "El Salvador",
+        "edition": 1994,
+        "score": 0.9652139336508676
+    },
+    {
+        "team": "Benin",
+        "edition": 2010,
+        "score": 0.9651675529508715
+    },
+    {
+        "team": "Thailand",
+        "edition": 2006,
+        "score": 0.9651209829903155
+    },
+    {
+        "team": "England",
+        "edition": 1998,
+        "score": 0.9650856517491911
+    },
+    {
+        "team": "Wales",
+        "edition": 2010,
+        "score": 0.9650546179727576
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 1994,
+        "score": 0.9649960832248643
+    },
+    {
+        "team": "Kenya",
+        "edition": 1998,
+        "score": 0.9649344516690325
+    },
+    {
+        "team": "Haiti",
+        "edition": 2018,
+        "score": 0.9649330194552108
+    },
+    {
+        "team": "Qatar",
+        "edition": 2010,
+        "score": 0.9647846921292277
+    },
+    {
+        "team": "Bahrain",
+        "edition": 2014,
+        "score": 0.9647844731780796
+    },
+    {
+        "team": "Zambia",
+        "edition": 2002,
+        "score": 0.9646264632678913
+    },
+    {
+        "team": "Uruguay",
+        "edition": 2010,
+        "score": 0.9645192139268661
+    },
+    {
+        "team": "Malawi",
+        "edition": 1998,
+        "score": 0.9643966212119752
+    },
+    {
+        "team": "Saudi Arabia",
+        "edition": 2014,
+        "score": 0.9643826555398528
+    },
+    {
+        "team": "Gambia",
+        "edition": 2010,
+        "score": 0.9643146594543098
+    },
+    {
+        "team": "Uzbekistan",
+        "edition": 1998,
+        "score": 0.9642546625743968
+    },
+    {
+        "team": "Botswana",
+        "edition": 2014,
+        "score": 0.9641835986179778
+    },
+    {
+        "team": "Estonia",
+        "edition": 2002,
+        "score": 0.9641702353897768
+    },
+    {
+        "team": "Cyprus",
+        "edition": 2002,
+        "score": 0.9641431983103221
+    },
+    {
+        "team": "Namibia",
+        "edition": 2018,
+        "score": 0.9641336955567903
+    },
+    {
+        "team": "Latvia",
+        "edition": 2006,
+        "score": 0.9641152530368949
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 1998,
+        "score": 0.9640744095302001
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 2014,
+        "score": 0.964049374198071
+    },
+    {
+        "team": "Mongolia",
+        "edition": 2010,
+        "score": 0.9640110603503639
+    },
+    {
+        "team": "Tajikistan",
+        "edition": 2002,
+        "score": 0.9639724409711199
+    },
+    {
+        "team": "Rwanda",
+        "edition": 2006,
+        "score": 0.9639364156683972
+    },
+    {
+        "team": "Togo",
+        "edition": 1998,
+        "score": 0.9639250880613561
+    },
+    {
+        "team": "Congo",
+        "edition": 2014,
+        "score": 0.9638891361160108
+    },
+    {
+        "team": "Slovenia",
+        "edition": 2014,
+        "score": 0.9638044589051855
+    },
+    {
+        "team": "New Zealand",
+        "edition": 1994,
+        "score": 0.9637977204672683
+    },
+    {
+        "team": "Swaziland",
+        "edition": 2002,
+        "score": 0.9637862312008459
+    },
+    {
+        "team": "Grenada",
+        "edition": 2006,
+        "score": 0.9634950691311911
+    },
+    {
+        "team": "Lebanon",
+        "edition": 1994,
+        "score": 0.963391274864452
+    },
+    {
+        "team": "Latvia",
+        "edition": 2010,
+        "score": 0.9633542354240694
+    },
+    {
+        "team": "Uganda",
+        "edition": 1998,
+        "score": 0.9633106931448855
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 2018,
+        "score": 0.9631770263532031
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 2014,
+        "score": 0.9630018113178956
+    },
+    {
+        "team": "Barbados",
+        "edition": 2010,
+        "score": 0.9629347038694717
+    },
+    {
+        "team": "Ukraine",
+        "edition": 1994,
+        "score": 0.9629102865306939
+    },
+    {
+        "team": "Mozambique",
+        "edition": 2014,
+        "score": 0.9629066121715992
+    },
+    {
+        "team": "Bolivia",
+        "edition": 1994,
+        "score": 0.9629038761783891
+    },
+    {
+        "team": "Peru",
+        "edition": 2014,
+        "score": 0.9628874651198078
+    },
+    {
+        "team": "American Samoa",
+        "edition": 2018,
+        "score": 0.9628146281277264
+    },
+    {
+        "team": "Zambia",
+        "edition": 2018,
+        "score": 0.9627331102957507
+    },
+    {
+        "team": "Gambia",
+        "edition": 1994,
+        "score": 0.9626658498631084
+    },
+    {
+        "team": "Panama",
+        "edition": 2002,
+        "score": 0.962637993523696
+    },
+    {
+        "team": "Iraq",
+        "edition": 2010,
+        "score": 0.9624784190864603
+    },
+    {
+        "team": "Vietnam",
+        "edition": 2014,
+        "score": 0.9621634752429006
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 2002,
+        "score": 0.9620007997819777
+    },
+    {
+        "team": "Solomon Islands",
+        "edition": 1998,
+        "score": 0.9619417773306564
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 2010,
+        "score": 0.9618759372199396
+    },
+    {
+        "team": "Panama",
+        "edition": 2010,
+        "score": 0.9617642826979672
+    },
+    {
+        "team": "Venezuela",
+        "edition": 2014,
+        "score": 0.9614227301050935
+    },
+    {
+        "team": "Austria",
+        "edition": 1994,
+        "score": 0.9611831892252408
+    },
+    {
+        "team": "Kenya",
+        "edition": 2002,
+        "score": 0.9611109426645726
+    },
+    {
+        "team": "Gabon",
+        "edition": 2014,
+        "score": 0.9608374572882906
+    },
+    {
+        "team": "Mali",
+        "edition": 2014,
+        "score": 0.9607351899640698
+    },
+    {
+        "team": "Bermuda",
+        "edition": 2006,
+        "score": 0.9607286677147322
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 2014,
+        "score": 0.960533124942243
+    },
+    {
+        "team": "Hungary",
+        "edition": 1998,
+        "score": 0.9604932773006662
+    },
+    {
+        "team": "Malaysia",
+        "edition": 2014,
+        "score": 0.960372348107731
+    },
+    {
+        "team": "Senegal",
+        "edition": 2014,
+        "score": 0.9600864749444924
+    },
+    {
+        "team": "Syria",
+        "edition": 2014,
+        "score": 0.9600504490711469
+    },
+    {
+        "team": "Albania",
+        "edition": 2006,
+        "score": 0.9597669040153936
+    },
+    {
+        "team": "Uruguay",
+        "edition": 2006,
+        "score": 0.9596333711045699
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 1998,
+        "score": 0.9593970324318805
+    },
+    {
+        "team": "Albania",
+        "edition": 2018,
+        "score": 0.9593794774619152
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 2006,
+        "score": 0.9593249527806991
+    },
+    {
+        "team": "Gabon",
+        "edition": 1994,
+        "score": 0.959309046407295
+    },
+    {
+        "team": "Malawi",
+        "edition": 2010,
+        "score": 0.9592031604598434
+    },
+    {
+        "team": "Morocco",
+        "edition": 2002,
+        "score": 0.9591705503819017
+    },
+    {
+        "team": "Kenya",
+        "edition": 2014,
+        "score": 0.9591376970873935
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 1998,
+        "score": 0.9590289312959459
+    },
+    {
+        "team": "Mali",
+        "edition": 1998,
+        "score": 0.9589458041930959
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 1998,
+        "score": 0.9589023222262585
+    },
+    {
+        "team": "Pakistan",
+        "edition": 2010,
+        "score": 0.9587797229953235
+    },
+    {
+        "team": "Peru",
+        "edition": 2002,
+        "score": 0.9587624093400358
+    },
+    {
+        "team": "Togo",
+        "edition": 2002,
+        "score": 0.9586313678121444
+    },
+    {
+        "team": "Albania",
+        "edition": 2010,
+        "score": 0.958489588071991
+    },
+    {
+        "team": "Chad",
+        "edition": 2002,
+        "score": 0.9583197174204061
+    },
+    {
+        "team": "Togo",
+        "edition": 2010,
+        "score": 0.9583162794091532
+    },
+    {
+        "team": "Burundi",
+        "edition": 1994,
+        "score": 0.9580114396606845
+    },
+    {
+        "team": "Congo",
+        "edition": 2018,
+        "score": 0.9579605775954633
+    },
+    {
+        "team": "Paraguay",
+        "edition": 1994,
+        "score": 0.9579538414117573
+    },
+    {
+        "team": "Norway",
+        "edition": 2014,
+        "score": 0.9578206850895129
+    },
+    {
+        "team": "Jamaica",
+        "edition": 2002,
+        "score": 0.957807534909651
+    },
+    {
+        "team": "Guatemala",
+        "edition": 2014,
+        "score": 0.9577299500879296
+    },
+    {
+        "team": "United Arab Emirates",
+        "edition": 2010,
+        "score": 0.9575939930684454
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 2002,
+        "score": 0.9575768235037726
+    },
+    {
+        "team": "Sudan",
+        "edition": 2014,
+        "score": 0.9574023910779282
+    },
+    {
+        "team": "Georgia",
+        "edition": 2002,
+        "score": 0.9572018207302108
+    },
+    {
+        "team": "Israel",
+        "edition": 1994,
+        "score": 0.9569827156346211
+    },
+    {
+        "team": "Tanzania",
+        "edition": 2014,
+        "score": 0.9569464532768355
+    },
+    {
+        "team": "Slovenia",
+        "edition": 2010,
+        "score": 0.9567429066068796
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 2014,
+        "score": 0.9567191035844269
+    },
+    {
+        "team": "Iceland",
+        "edition": 2014,
+        "score": 0.9566626893510543
+    },
+    {
+        "team": "Sudan",
+        "edition": 2010,
+        "score": 0.9565958257986408
+    },
+    {
+        "team": "Israel",
+        "edition": 1998,
+        "score": 0.9564705209655244
+    },
+    {
+        "team": "Paraguay",
+        "edition": 2010,
+        "score": 0.9564115985456753
+    },
+    {
+        "team": "Hungary",
+        "edition": 2010,
+        "score": 0.956225267657083
+    },
+    {
+        "team": "Armenia",
+        "edition": 2018,
+        "score": 0.9561932432355202
+    },
+    {
+        "team": "Kuwait",
+        "edition": 2010,
+        "score": 0.9560427708603817
+    },
+    {
+        "team": "Macau",
+        "edition": 2018,
+        "score": 0.9556130269667419
+    },
+    {
+        "team": "Georgia",
+        "edition": 2018,
+        "score": 0.9552723742106238
+    },
+    {
+        "team": "El Salvador",
+        "edition": 1998,
+        "score": 0.9552688765009544
+    },
+    {
+        "team": "Mozambique",
+        "edition": 1994,
+        "score": 0.9551382952302102
+    },
+    {
+        "team": "Ecuador",
+        "edition": 2010,
+        "score": 0.9549817893010409
+    },
+    {
+        "team": "Georgia",
+        "edition": 1998,
+        "score": 0.9547806226202638
+    },
+    {
+        "team": "Libya",
+        "edition": 2002,
+        "score": 0.9546767660578994
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 2006,
+        "score": 0.9544128349844069
+    },
+    {
+        "team": "Slovakia",
+        "edition": 2014,
+        "score": 0.9543137790229145
+    },
+    {
+        "team": "Kenya",
+        "edition": 2010,
+        "score": 0.9541852382671807
+    },
+    {
+        "team": "Philippines",
+        "edition": 2010,
+        "score": 0.9541735529845876
+    },
+    {
+        "team": "Guyana",
+        "edition": 2014,
+        "score": 0.9541447358625003
+    },
+    {
+        "team": "Bulgaria",
+        "edition": 2018,
+        "score": 0.9540974067848357
+    },
+    {
+        "team": "Yemen",
+        "edition": 1998,
+        "score": 0.9540460165207825
+    },
+    {
+        "team": "Gambia",
+        "edition": 1998,
+        "score": 0.9538793888055844
+    },
+    {
+        "team": "Norway",
+        "edition": 2018,
+        "score": 0.9537552152490005
+    },
+    {
+        "team": "Bermuda",
+        "edition": 2010,
+        "score": 0.9536024659616428
+    },
+    {
+        "team": "Canada",
+        "edition": 1998,
+        "score": 0.9535900020902389
+    },
+    {
+        "team": "Kazakhstan",
+        "edition": 1998,
+        "score": 0.9534781000649235
+    },
+    {
+        "team": "Suriname",
+        "edition": 1998,
+        "score": 0.9534557340097203
+    },
+    {
+        "team": "Chile",
+        "edition": 2002,
+        "score": 0.9533014375450622
+    },
+    {
+        "team": "Lithuania",
+        "edition": 2010,
+        "score": 0.9532349168509628
+    },
+    {
+        "team": "Vietnam",
+        "edition": 1998,
+        "score": 0.953218533080608
+    },
+    {
+        "team": "Cyprus",
+        "edition": 2010,
+        "score": 0.9531739523656553
+    },
+    {
+        "team": "Slovenia",
+        "edition": 1998,
+        "score": 0.9530779830578013
+    },
+    {
+        "team": "Bahrain",
+        "edition": 2002,
+        "score": 0.9528977338550472
+    },
+    {
+        "team": "Venezuela",
+        "edition": 2006,
+        "score": 0.9528873165840794
+    },
+    {
+        "team": "Botswana",
+        "edition": 2002,
+        "score": 0.9528435639482784
+    },
+    {
+        "team": "Belarus",
+        "edition": 2014,
+        "score": 0.9528103430502417
+    },
+    {
+        "team": "Bulgaria",
+        "edition": 2014,
+        "score": 0.9527524563470932
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 2018,
+        "score": 0.9526850265829216
+    },
+    {
+        "team": "Uganda",
+        "edition": 2018,
+        "score": 0.9526653775861563
+    },
+    {
+        "team": "Guyana",
+        "edition": 2002,
+        "score": 0.9526144554179629
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 2010,
+        "score": 0.95258629362488
+    },
+    {
+        "team": "Grenada",
+        "edition": 2018,
+        "score": 0.9525648925170168
+    },
+    {
+        "team": "Finland",
+        "edition": 2010,
+        "score": 0.9525603802550072
+    },
+    {
+        "team": "Laos",
+        "edition": 2014,
+        "score": 0.9523657829241708
+    },
+    {
+        "team": "Burundi",
+        "edition": 2002,
+        "score": 0.9523049488839342
+    },
+    {
+        "team": "Rwanda",
+        "edition": 2014,
+        "score": 0.9522737860699904
+    },
+    {
+        "team": "Scotland",
+        "edition": 2006,
+        "score": 0.952229372574695
+    },
+    {
+        "team": "Tonga",
+        "edition": 2002,
+        "score": 0.9519446734521707
+    },
+    {
+        "team": "El Salvador",
+        "edition": 2010,
+        "score": 0.9518800033049447
+    },
+    {
+        "team": "Montenegro",
+        "edition": 2018,
+        "score": 0.9517828443133525
+    },
+    {
+        "team": "Argentina",
+        "edition": 2018,
+        "score": 0.9517730995273205
+    },
+    {
+        "team": "Guinea",
+        "edition": 1994,
+        "score": 0.9516845479497851
+    },
+    {
+        "team": "Canada",
+        "edition": 2014,
+        "score": 0.9516132965524111
+    },
+    {
+        "team": "Slovenia",
+        "edition": 2006,
+        "score": 0.9515956296149951
+    },
+    {
+        "team": "Mozambique",
+        "edition": 2018,
+        "score": 0.9515657733013895
+    },
+    {
+        "team": "Jordan",
+        "edition": 2010,
+        "score": 0.9515436185507888
+    },
+    {
+        "team": "Iraq",
+        "edition": 2014,
+        "score": 0.9515064836738757
+    },
+    {
+        "team": "Malawi",
+        "edition": 2018,
+        "score": 0.9512704096388089
+    },
+    {
+        "team": "Korea DPR",
+        "edition": 2002,
+        "score": 0.9512552945688
+    },
+    {
+        "team": "Niger",
+        "edition": 2018,
+        "score": 0.9512236540738239
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 1994,
+        "score": 0.951168293158289
+    },
+    {
+        "team": "Namibia",
+        "edition": 2014,
+        "score": 0.9510951954453725
+    },
+    {
+        "team": "Rwanda",
+        "edition": 2018,
+        "score": 0.9510367148407961
+    },
+    {
+        "team": "Malaysia",
+        "edition": 2006,
+        "score": 0.9510248831328151
+    },
+    {
+        "team": "Wales",
+        "edition": 2006,
+        "score": 0.9508165791064
+    },
+    {
+        "team": "Wales",
+        "edition": 1998,
+        "score": 0.9506299379851593
+    },
+    {
+        "team": "Congo",
+        "edition": 1998,
+        "score": 0.9505895030455569
+    },
+    {
+        "team": "Thailand",
+        "edition": 1994,
+        "score": 0.9505830618017941
+    },
+    {
+        "team": "Liberia",
+        "edition": 2018,
+        "score": 0.9502317358221004
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 2002,
+        "score": 0.9502181091573845
+    },
+    {
+        "team": "Chad",
+        "edition": 1998,
+        "score": 0.9501835242092473
+    },
+    {
+        "team": "Belarus",
+        "edition": 1994,
+        "score": 0.9501835242092473
+    },
+    {
+        "team": "Tajikistan",
+        "edition": 2006,
+        "score": 0.9500545988993029
+    },
+    {
+        "team": "Eritrea",
+        "edition": 2010,
+        "score": 0.9498162000092012
+    },
+    {
+        "team": "Mozambique",
+        "edition": 2010,
+        "score": 0.9497608447971224
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 1998,
+        "score": 0.9497129702542753
+    },
+    {
+        "team": "Uruguay",
+        "edition": 2018,
+        "score": 0.949671764490445
+    },
+    {
+        "team": "Laos",
+        "edition": 1998,
+        "score": 0.949540534154193
+    },
+    {
+        "team": "Congo",
+        "edition": 2002,
+        "score": 0.9494162042124724
+    },
+    {
+        "team": "Belgium",
+        "edition": 2010,
+        "score": 0.9494112182594098
+    },
+    {
+        "team": "South Africa",
+        "edition": 2010,
+        "score": 0.9490664354614654
+    },
+    {
+        "team": "Finland",
+        "edition": 1998,
+        "score": 0.9490551131564304
+    },
+    {
+        "team": "Anguilla",
+        "edition": 2002,
+        "score": 0.9488678946793819
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 2014,
+        "score": 0.9488222391941287
+    },
+    {
+        "team": "Iceland",
+        "edition": 1994,
+        "score": 0.948751635532939
+    },
+    {
+        "team": "South Africa",
+        "edition": 1994,
+        "score": 0.948534022491439
+    },
+    {
+        "team": "Mali",
+        "edition": 1994,
+        "score": 0.9484956419678156
+    },
+    {
+        "team": "Barbados",
+        "edition": 1998,
+        "score": 0.9484513087296056
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 1998,
+        "score": 0.9484368785070479
+    },
+    {
+        "team": "Guam",
+        "edition": 2010,
+        "score": 0.9477174044996849
+    },
+    {
+        "team": "Haiti",
+        "edition": 1994,
+        "score": 0.94746810437577
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 2010,
+        "score": 0.9473133076461383
+    },
+    {
+        "team": "El Salvador",
+        "edition": 2002,
+        "score": 0.9471011990117396
+    },
+    {
+        "team": "Yemen",
+        "edition": 2010,
+        "score": 0.9469006348900695
+    },
+    {
+        "team": "Moldova",
+        "edition": 2010,
+        "score": 0.9467867612680938
+    },
+    {
+        "team": "Cyprus",
+        "edition": 1998,
+        "score": 0.9464360267385913
+    },
+    {
+        "team": "New Zealand",
+        "edition": 2006,
+        "score": 0.9464183090429311
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 2002,
+        "score": 0.9464065082747917
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 1994,
+        "score": 0.9463833140607075
+    },
+    {
+        "team": "Iceland",
+        "edition": 2010,
+        "score": 0.9462165007524795
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 1998,
+        "score": 0.9458231812542311
+    },
+    {
+        "team": "Guam",
+        "edition": 2014,
+        "score": 0.9455883725791542
+    },
+    {
+        "team": "Benin",
+        "edition": 2002,
+        "score": 0.94551714223404
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 2002,
+        "score": 0.9454968540265432
+    },
+    {
+        "team": "Lithuania",
+        "edition": 1994,
+        "score": 0.94541389446772
+    },
+    {
+        "team": "Malawi",
+        "edition": 2014,
+        "score": 0.9451910833482551
+    },
+    {
+        "team": "Canada",
+        "edition": 2002,
+        "score": 0.9448272146763402
+    },
+    {
+        "team": "Uruguay",
+        "edition": 1998,
+        "score": 0.944698636633347
+    },
+    {
+        "team": "Guyana",
+        "edition": 1994,
+        "score": 0.9446411528920947
+    },
+    {
+        "team": "Latvia",
+        "edition": 1998,
+        "score": 0.9441940258927588
+    },
+    {
+        "team": "Benin",
+        "edition": 2014,
+        "score": 0.9441518236984747
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 2018,
+        "score": 0.9437412245225665
+    },
+    {
+        "team": "Austria",
+        "edition": 2010,
+        "score": 0.9433793788981524
+    },
+    {
+        "team": "Curaçao",
+        "edition": 2014,
+        "score": 0.943324837861044
+    },
+    {
+        "team": "Ghana",
+        "edition": 1998,
+        "score": 0.9431950297791569
+    },
+    {
+        "team": "Togo",
+        "edition": 2018,
+        "score": 0.943037508667638
+    },
+    {
+        "team": "Iceland",
+        "edition": 2006,
+        "score": 0.9429969398102035
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 2006,
+        "score": 0.9427924526567606
+    },
+    {
+        "team": "Jamaica",
+        "edition": 2014,
+        "score": 0.9426646743586793
+    },
+    {
+        "team": "Turkey",
+        "edition": 1994,
+        "score": 0.9424462882320273
+    },
+    {
+        "team": "Lesotho",
+        "edition": 2006,
+        "score": 0.9419230534288473
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "edition": 2018,
+        "score": 0.9418065346594092
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 1998,
+        "score": 0.9417754912582216
+    },
+    {
+        "team": "Switzerland",
+        "edition": 1998,
+        "score": 0.9417433574730764
+    },
+    {
+        "team": "Malawi",
+        "edition": 2006,
+        "score": 0.9417120139773268
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 2018,
+        "score": 0.9416198393791559
+    },
+    {
+        "team": "Mauritius",
+        "edition": 2006,
+        "score": 0.9416014481102128
+    },
+    {
+        "team": "Mauritania",
+        "edition": 2018,
+        "score": 0.9410400153956116
+    },
+    {
+        "team": "Lesotho",
+        "edition": 2018,
+        "score": 0.9405614745600758
+    },
+    {
+        "team": "Albania",
+        "edition": 2014,
+        "score": 0.9403511129175657
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 2018,
+        "score": 0.9403150581013557
+    },
+    {
+        "team": "El Salvador",
+        "edition": 2018,
+        "score": 0.9403058805451843
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 2014,
+        "score": 0.9401749988438329
+    },
+    {
+        "team": "Namibia",
+        "edition": 2010,
+        "score": 0.9400055878473121
+    },
+    {
+        "team": "Venezuela",
+        "edition": 2018,
+        "score": 0.9399625015538895
+    },
+    {
+        "team": "Scotland",
+        "edition": 2010,
+        "score": 0.9399157238266258
+    },
+    {
+        "team": "Kuwait",
+        "edition": 2018,
+        "score": 0.9395775928786998
+    },
+    {
+        "team": "Barbados",
+        "edition": 2018,
+        "score": 0.9395153219094016
+    },
+    {
+        "team": "Mauritius",
+        "edition": 2002,
+        "score": 0.9391193009325126
+    },
+    {
+        "team": "Madagascar",
+        "edition": 1998,
+        "score": 0.9390301377678322
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2010,
+        "score": 0.9386745030424922
+    },
+    {
+        "team": "Belize",
+        "edition": 2002,
+        "score": 0.9382925741343234
+    },
+    {
+        "team": "Bermuda",
+        "edition": 1998,
+        "score": 0.9380640226490449
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 2002,
+        "score": 0.9378209743237906
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 2014,
+        "score": 0.9376997589345876
+    },
+    {
+        "team": "Cambodia",
+        "edition": 2018,
+        "score": 0.9372819634115819
+    },
+    {
+        "team": "Equatorial Guinea",
+        "edition": 2014,
+        "score": 0.9371950467168103
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2018,
+        "score": 0.9371614790610734
+    },
+    {
+        "team": "Hong Kong",
+        "edition": 2014,
+        "score": 0.9369844573872566
+    },
+    {
+        "team": "Samoa",
+        "edition": 1998,
+        "score": 0.9368941118948239
+    },
+    {
+        "team": "Albania",
+        "edition": 2002,
+        "score": 0.9368516705240394
+    },
+    {
+        "team": "Lebanon",
+        "edition": 2006,
+        "score": 0.9367837219527971
+    },
+    {
+        "team": "Ethiopia",
+        "edition": 1994,
+        "score": 0.9367510584252993
+    },
+    {
+        "team": "Burkina Faso",
+        "edition": 1998,
+        "score": 0.9367392964899024
+    },
+    {
+        "team": "Samoa",
+        "edition": 2002,
+        "score": 0.9367226375752301
+    },
+    {
+        "team": "Liberia",
+        "edition": 1998,
+        "score": 0.9366957799063851
+    },
+    {
+        "team": "Congo",
+        "edition": 2006,
+        "score": 0.9358518832142044
+    },
+    {
+        "team": "Gabon",
+        "edition": 2018,
+        "score": 0.9358162560227383
+    },
+    {
+        "team": "Tanzania",
+        "edition": 2018,
+        "score": 0.935495694681488
+    },
+    {
+        "team": "Uruguay",
+        "edition": 1994,
+        "score": 0.9352999961835772
+    },
+    {
+        "team": "Nepal",
+        "edition": 2014,
+        "score": 0.9346314538377595
+    },
+    {
+        "team": "Botswana",
+        "edition": 2006,
+        "score": 0.9344617997652112
+    },
+    {
+        "team": "Guatemala",
+        "edition": 2010,
+        "score": 0.9343793962141287
+    },
+    {
+        "team": "Equatorial Guinea",
+        "edition": 2018,
+        "score": 0.9340949758096364
+    },
+    {
+        "team": "Canada",
+        "edition": 2006,
+        "score": 0.9340912629964688
+    },
+    {
+        "team": "Estonia",
+        "edition": 2014,
+        "score": 0.9338616973792262
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 2010,
+        "score": 0.933695568096821
+    },
+    {
+        "team": "Panama",
+        "edition": 2006,
+        "score": 0.9334830691862094
+    },
+    {
+        "team": "Cyprus",
+        "edition": 2006,
+        "score": 0.9330033128342612
+    },
+    {
+        "team": "Malaysia",
+        "edition": 2018,
+        "score": 0.9329100578753711
+    },
+    {
+        "team": "Tonga",
+        "edition": 2006,
+        "score": 0.9324519482585968
+    },
+    {
+        "team": "Libya",
+        "edition": 2018,
+        "score": 0.9324194092450143
+    },
+    {
+        "team": "Maldives",
+        "edition": 2018,
+        "score": 0.9323582849673361
+    },
+    {
+        "team": "Guyana",
+        "edition": 2010,
+        "score": 0.9319339905484126
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2014,
+        "score": 0.9319036086608605
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 2010,
+        "score": 0.9317170965307902
+    },
+    {
+        "team": "Niger",
+        "edition": 1994,
+        "score": 0.9315370430591451
+    },
+    {
+        "team": "Peru",
+        "edition": 1994,
+        "score": 0.9315270923688089
+    },
+    {
+        "team": "Latvia",
+        "edition": 2018,
+        "score": 0.9314746669580254
+    },
+    {
+        "team": "Nepal",
+        "edition": 2002,
+        "score": 0.9314501680552122
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 2018,
+        "score": 0.9313806921225317
+    },
+    {
+        "team": "Uruguay",
+        "edition": 2002,
+        "score": 0.9313618453473432
+    },
+    {
+        "team": "New Zealand",
+        "edition": 1998,
+        "score": 0.9312658464363996
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2002,
+        "score": 0.9311947616889713
+    },
+    {
+        "team": "Swaziland",
+        "edition": 2006,
+        "score": 0.9310709504619503
+    },
+    {
+        "team": "Wales",
+        "edition": 2014,
+        "score": 0.9305967666633016
+    },
+    {
+        "team": "Paraguay",
+        "edition": 2018,
+        "score": 0.9301447824712185
+    },
+    {
+        "team": "Swaziland",
+        "edition": 2010,
+        "score": 0.9300339594124839
+    },
+    {
+        "team": "Bolivia",
+        "edition": 2002,
+        "score": 0.9299316451334773
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 2006,
+        "score": 0.9298894439263736
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 2006,
+        "score": 0.9297532974832959
+    },
+    {
+        "team": "Nepal",
+        "edition": 2018,
+        "score": 0.9295313317017041
+    },
+    {
+        "team": "Latvia",
+        "edition": 2014,
+        "score": 0.929317399100819
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 1998,
+        "score": 0.9290973840501265
+    },
+    {
+        "team": "Lithuania",
+        "edition": 2006,
+        "score": 0.9287124041690543
+    },
+    {
+        "team": "Georgia",
+        "edition": 2006,
+        "score": 0.9281421314286138
+    },
+    {
+        "team": "Tanzania",
+        "edition": 1998,
+        "score": 0.9279461355639519
+    },
+    {
+        "team": "Namibia",
+        "edition": 2002,
+        "score": 0.9277694303305012
+    },
+    {
+        "team": "Kazakhstan",
+        "edition": 2014,
+        "score": 0.9277401535223945
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 2018,
+        "score": 0.9276378882818082
+    },
+    {
+        "team": "Jamaica",
+        "edition": 2018,
+        "score": 0.9271464569234357
+    },
+    {
+        "team": "Sudan",
+        "edition": 1994,
+        "score": 0.9269152424292703
+    },
+    {
+        "team": "Tonga",
+        "edition": 2010,
+        "score": 0.9256967968858171
+    },
+    {
+        "team": "Estonia",
+        "edition": 2006,
+        "score": 0.9253354055538873
+    },
+    {
+        "team": "Belize",
+        "edition": 2014,
+        "score": 0.925318689468741
+    },
+    {
+        "team": "Chad",
+        "edition": 2010,
+        "score": 0.9252080851503557
+    },
+    {
+        "team": "Botswana",
+        "edition": 2018,
+        "score": 0.9246476079248176
+    },
+    {
+        "team": "Finland",
+        "edition": 1994,
+        "score": 0.9235062144535784
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 2010,
+        "score": 0.92334419925731
+    },
+    {
+        "team": "Lesotho",
+        "edition": 2010,
+        "score": 0.9229000972088417
+    },
+    {
+        "team": "Peru",
+        "edition": 2010,
+        "score": 0.9225803191065108
+    },
+    {
+        "team": "Yemen",
+        "edition": 2006,
+        "score": 0.9225173637371324
+    },
+    {
+        "team": "Liberia",
+        "edition": 2014,
+        "score": 0.9224509400449801
+    },
+    {
+        "team": "Moldova",
+        "edition": 2014,
+        "score": 0.9223486973485864
+    },
+    {
+        "team": "Palestine",
+        "edition": 2002,
+        "score": 0.9222748955444359
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "edition": 2018,
+        "score": 0.921885991270459
+    },
+    {
+        "team": "Indonesia",
+        "edition": 2014,
+        "score": 0.9215845235059927
+    },
+    {
+        "team": "Lesotho",
+        "edition": 2014,
+        "score": 0.9212946426887317
+    },
+    {
+        "team": "Sudan",
+        "edition": 2002,
+        "score": 0.921262685522022
+    },
+    {
+        "team": "Tanzania",
+        "edition": 1994,
+        "score": 0.9211616006327061
+    },
+    {
+        "team": "Aruba",
+        "edition": 2002,
+        "score": 0.9209441136489454
+    },
+    {
+        "team": "Bolivia",
+        "edition": 2014,
+        "score": 0.9206907859876147
+    },
+    {
+        "team": "Pakistan",
+        "edition": 2006,
+        "score": 0.9205152436869314
+    },
+    {
+        "team": "Barbados",
+        "edition": 2014,
+        "score": 0.9193620771716706
+    },
+    {
+        "team": "Turkmenistan",
+        "edition": 1998,
+        "score": 0.9191458266425289
+    },
+    {
+        "team": "Congo",
+        "edition": 1994,
+        "score": 0.9191124017920298
+    },
+    {
+        "team": "Latvia",
+        "edition": 2002,
+        "score": 0.9187063264802722
+    },
+    {
+        "team": "Mongolia",
+        "edition": 2006,
+        "score": 0.9182118160016255
+    },
+    {
+        "team": "Bolivia",
+        "edition": 2006,
+        "score": 0.9176628962414739
+    },
+    {
+        "team": "Togo",
+        "edition": 2014,
+        "score": 0.9168652029424015
+    },
+    {
+        "team": "Malawi",
+        "edition": 2002,
+        "score": 0.9168114307488191
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 2002,
+        "score": 0.9165746864067255
+    },
+    {
+        "team": "Benin",
+        "edition": 1998,
+        "score": 0.9164764748479569
+    },
+    {
+        "team": "Lebanon",
+        "edition": 2014,
+        "score": 0.9163481632096804
+    },
+    {
+        "team": "Slovenia",
+        "edition": 1994,
+        "score": 0.9159253167689831
+    },
+    {
+        "team": "Angola",
+        "edition": 2018,
+        "score": 0.9153182760118981
+    },
+    {
+        "team": "Dominica",
+        "edition": 2006,
+        "score": 0.9150935093642172
+    },
+    {
+        "team": "Belarus",
+        "edition": 2018,
+        "score": 0.9149269609451895
+    },
+    {
+        "team": "Bolivia",
+        "edition": 2018,
+        "score": 0.9144840247625157
+    },
+    {
+        "team": "Singapore",
+        "edition": 2002,
+        "score": 0.914326280016504
+    },
+    {
+        "team": "Mauritania",
+        "edition": 2014,
+        "score": 0.9143012443436774
+    },
+    {
+        "team": "Aruba",
+        "edition": 1998,
+        "score": 0.9137014862310001
+    },
+    {
+        "team": "Finland",
+        "edition": 2018,
+        "score": 0.9127879371489559
+    },
+    {
+        "team": "Samoa",
+        "edition": 2006,
+        "score": 0.9126756199100436
+    },
+    {
+        "team": "Burundi",
+        "edition": 2006,
+        "score": 0.9126225997835731
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 2006,
+        "score": 0.9125023662277388
+    },
+    {
+        "team": "Kazakhstan",
+        "edition": 2010,
+        "score": 0.9124364592208986
+    },
+    {
+        "team": "Laos",
+        "edition": 2018,
+        "score": 0.911613684473581
+    },
+    {
+        "team": "Madagascar",
+        "edition": 2002,
+        "score": 0.9114889394147784
+    },
+    {
+        "team": "Venezuela",
+        "edition": 2002,
+        "score": 0.9105913816381259
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2002,
+        "score": 0.9105602830452095
+    },
+    {
+        "team": "Singapore",
+        "edition": 2018,
+        "score": 0.9095268342062404
+    },
+    {
+        "team": "Albania",
+        "edition": 1998,
+        "score": 0.9093778850132415
+    },
+    {
+        "team": "Cyprus",
+        "edition": 1994,
+        "score": 0.9092633284896424
+    },
+    {
+        "team": "Mauritania",
+        "edition": 1998,
+        "score": 0.908674346006507
+    },
+    {
+        "team": "Benin",
+        "edition": 2006,
+        "score": 0.9085962420829757
+    },
+    {
+        "team": "Lebanon",
+        "edition": 2010,
+        "score": 0.9081162630866669
+    },
+    {
+        "team": "Dominica",
+        "edition": 2002,
+        "score": 0.9073114422757881
+    },
+    {
+        "team": "Liberia",
+        "edition": 2010,
+        "score": 0.907302697226777
+    },
+    {
+        "team": "Bahrain",
+        "edition": 1998,
+        "score": 0.9061903709417626
+    },
+    {
+        "team": "Belarus",
+        "edition": 2002,
+        "score": 0.90560922305881
+    },
+    {
+        "team": "Jordan",
+        "edition": 1998,
+        "score": 0.9055321945337611
+    },
+    {
+        "team": "Burundi",
+        "edition": 2010,
+        "score": 0.9048552415328026
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2014,
+        "score": 0.9036412183946253
+    },
+    {
+        "team": "Gambia",
+        "edition": 2018,
+        "score": 0.9032801313422297
+    },
+    {
+        "team": "Gambia",
+        "edition": 2006,
+        "score": 0.9026358085182264
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2010,
+        "score": 0.902465041012226
+    },
+    {
+        "team": "Swaziland",
+        "edition": 1994,
+        "score": 0.9012058415030173
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 2014,
+        "score": 0.9010495378786825
+    },
+    {
+        "team": "Israel",
+        "edition": 2018,
+        "score": 0.9004340134262899
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 2006,
+        "score": 0.9002370583288648
+    },
+    {
+        "team": "Botswana",
+        "edition": 2010,
+        "score": 0.9002209699038267
+    },
+    {
+        "team": "Bolivia",
+        "edition": 2010,
+        "score": 0.8999960556053428
+    },
+    {
+        "team": "Cyprus",
+        "edition": 2018,
+        "score": 0.899778429342375
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 1998,
+        "score": 0.8991519223229302
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 2018,
+        "score": 0.8985922867881984
+    },
+    {
+        "team": "Macau",
+        "edition": 1998,
+        "score": 0.898174450864506
+    },
+    {
+        "team": "Equatorial Guinea",
+        "edition": 2006,
+        "score": 0.8974301575917452
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 1994,
+        "score": 0.897430157591745
+    },
+    {
+        "team": "Moldova",
+        "edition": 2006,
+        "score": 0.8953620125490321
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 1998,
+        "score": 0.8952803310259154
+    },
+    {
+        "team": "Malta",
+        "edition": 2014,
+        "score": 0.8949030010780024
+    },
+    {
+        "team": "Kosovo",
+        "edition": 2018,
+        "score": 0.8943687891624583
+    },
+    {
+        "team": "Armenia",
+        "edition": 2006,
+        "score": 0.8938199224307801
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 2014,
+        "score": 0.893693971250809
+    },
+    {
+        "team": "Lithuania",
+        "edition": 2002,
+        "score": 0.8936388826100045
+    },
+    {
+        "team": "Samoa",
+        "edition": 2018,
+        "score": 0.893484972880567
+    },
+    {
+        "team": "Estonia",
+        "edition": 2010,
+        "score": 0.8927279321569748
+    },
+    {
+        "team": "Georgia",
+        "edition": 2014,
+        "score": 0.8926089690959893
+    },
+    {
+        "team": "Cambodia",
+        "edition": 2010,
+        "score": 0.8912446285195186
+    },
+    {
+        "team": "Georgia",
+        "edition": 2010,
+        "score": 0.8911979581752448
+    },
+    {
+        "team": "Wales",
+        "edition": 2002,
+        "score": 0.8911962921631198
+    },
+    {
+        "team": "Macau",
+        "edition": 2010,
+        "score": 0.889560618797857
+    },
+    {
+        "team": "Armenia",
+        "edition": 2010,
+        "score": 0.8893994103614896
+    },
+    {
+        "team": "Lithuania",
+        "edition": 2014,
+        "score": 0.8890957331739128
+    },
+    {
+        "team": "Armenia",
+        "edition": 2002,
+        "score": 0.8890599754794686
+    },
+    {
+        "team": "South Sudan",
+        "edition": 2018,
+        "score": 0.88876343278998
+    },
+    {
+        "team": "Lesotho",
+        "edition": 2002,
+        "score": 0.8885104927969015
+    },
+    {
+        "team": "Niger",
+        "edition": 2010,
+        "score": 0.8859493314145936
+    },
+    {
+        "team": "Tonga",
+        "edition": 1998,
+        "score": 0.8856277510534177
+    },
+    {
+        "team": "Gambia",
+        "edition": 2014,
+        "score": 0.8853826918218023
+    },
+    {
+        "team": "Namibia",
+        "edition": 2006,
+        "score": 0.8852437448581988
+    },
+    {
+        "team": "Latvia",
+        "edition": 1994,
+        "score": 0.8852222128990735
+    },
+    {
+        "team": "Maldives",
+        "edition": 2002,
+        "score": 0.8840044971588735
+    },
+    {
+        "team": "Aruba",
+        "edition": 2018,
+        "score": 0.8831925038738532
+    },
+    {
+        "team": "Chad",
+        "edition": 2014,
+        "score": 0.8827414685290016
+    },
+    {
+        "team": "India",
+        "edition": 1994,
+        "score": 0.881407347090024
+    },
+    {
+        "team": "Angola",
+        "edition": 1994,
+        "score": 0.8809240940523031
+    },
+    {
+        "team": "Cuba",
+        "edition": 2014,
+        "score": 0.8806743250599741
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 1998,
+        "score": 0.8805282617226327
+    },
+    {
+        "team": "Palestine",
+        "edition": 2006,
+        "score": 0.8799411536668875
+    },
+    {
+        "team": "Philippines",
+        "edition": 2006,
+        "score": 0.8794623961787353
+    },
+    {
+        "team": "El Salvador",
+        "edition": 2006,
+        "score": 0.876994391799976
+    },
+    {
+        "team": "Guinea-Bissau",
+        "edition": 2014,
+        "score": 0.8769516661479151
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 2010,
+        "score": 0.8768837004320909
+    },
+    {
+        "team": "Gambia",
+        "edition": 2002,
+        "score": 0.8762512115147627
+    },
+    {
+        "team": "Equatorial Guinea",
+        "edition": 2010,
+        "score": 0.8759633130116677
+    },
+    {
+        "team": "Niger",
+        "edition": 2014,
+        "score": 0.8754151807601211
+    },
+    {
+        "team": "Moldova",
+        "edition": 2002,
+        "score": 0.8736033464060395
+    },
+    {
+        "team": "Liberia",
+        "edition": 1994,
+        "score": 0.8727123871912781
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 1994,
+        "score": 0.8726757551347636
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 2006,
+        "score": 0.8724090426443272
+    },
+    {
+        "team": "Belarus",
+        "edition": 1998,
+        "score": 0.8723415601809521
+    },
+    {
+        "team": "Estonia",
+        "edition": 1998,
+        "score": 0.8705954240722611
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 2002,
+        "score": 0.8704239310844119
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 2006,
+        "score": 0.8698095782438925
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 2006,
+        "score": 0.8697467268098419
+    },
+    {
+        "team": "Bahamas",
+        "edition": 2002,
+        "score": 0.8684017611141485
+    },
+    {
+        "team": "Comoros",
+        "edition": 2018,
+        "score": 0.8668386119166197
+    },
+    {
+        "team": "Burundi",
+        "edition": 1998,
+        "score": 0.8667278636924434
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2006,
+        "score": 0.8641008082975182
+    },
+    {
+        "team": "Bahamas",
+        "edition": 2010,
+        "score": 0.8627648679597034
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 1994,
+        "score": 0.8621304130210965
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 2010,
+        "score": 0.8612463030173827
+    },
+    {
+        "team": "Seychelles",
+        "edition": 1994,
+        "score": 0.8612463030173827
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 2006,
+        "score": 0.8606974820639125
+    },
+    {
+        "team": "Guam",
+        "edition": 2002,
+        "score": 0.8591215394021599
+    },
+    {
+        "team": "Dominica",
+        "edition": 2010,
+        "score": 0.858339178398133
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 1998,
+        "score": 0.8575809077903657
+    },
+    {
+        "team": "Cambodia",
+        "edition": 2014,
+        "score": 0.8562353755649996
+    },
+    {
+        "team": "Malta",
+        "edition": 2006,
+        "score": 0.856233506815885
+    },
+    {
+        "team": "Sudan",
+        "edition": 2018,
+        "score": 0.8549929268879563
+    },
+    {
+        "team": "Pakistan",
+        "edition": 2014,
+        "score": 0.852487862492522
+    },
+    {
+        "team": "Macau",
+        "edition": 2006,
+        "score": 0.8517792075958251
+    },
+    {
+        "team": "Laos",
+        "edition": 2010,
+        "score": 0.8517694973505758
+    },
+    {
+        "team": "Mozambique",
+        "edition": 2002,
+        "score": 0.8496283304792768
+    },
+    {
+        "team": "Lesotho",
+        "edition": 1998,
+        "score": 0.8493398050204598
+    },
+    {
+        "team": "Yemen",
+        "edition": 2018,
+        "score": 0.8476157146566926
+    },
+    {
+        "team": "Northern Ireland",
+        "edition": 2014,
+        "score": 0.846667593100608
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 2006,
+        "score": 0.8434836659150612
+    },
+    {
+        "team": "Samoa",
+        "edition": 2014,
+        "score": 0.8411245344313769
+    },
+    {
+        "team": "Malta",
+        "edition": 1994,
+        "score": 0.8398758604635195
+    },
+    {
+        "team": "Guyana",
+        "edition": 1998,
+        "score": 0.8391292755067878
+    },
+    {
+        "team": "Kazakhstan",
+        "edition": 2018,
+        "score": 0.8387026644131464
+    },
+    {
+        "team": "Guatemala",
+        "edition": 2018,
+        "score": 0.8372956272008656
+    },
+    {
+        "team": "Mauritius",
+        "edition": 2018,
+        "score": 0.8367298958200327
+    },
+    {
+        "team": "Madagascar",
+        "edition": 2006,
+        "score": 0.8353240035219892
+    },
+    {
+        "team": "Seychelles",
+        "edition": 2010,
+        "score": 0.8352454030974682
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 2010,
+        "score": 0.8340465743645078
+    },
+    {
+        "team": "Rwanda",
+        "edition": 1998,
+        "score": 0.8337460239207659
+    },
+    {
+        "team": "Mongolia",
+        "edition": 2014,
+        "score": 0.832873572554494
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 2018,
+        "score": 0.8315103920493607
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 2018,
+        "score": 0.8299299544834859
+    },
+    {
+        "team": "Chad",
+        "edition": 2018,
+        "score": 0.8294611119592167
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 2014,
+        "score": 0.8293218536459585
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 2018,
+        "score": 0.8283425994316787
+    },
+    {
+        "team": "Bangladesh",
+        "edition": 1998,
+        "score": 0.8282697923029766
+    },
+    {
+        "team": "Belize",
+        "edition": 2010,
+        "score": 0.8280905381933614
+    },
+    {
+        "team": "Bhutan",
+        "edition": 2010,
+        "score": 0.8279578418898299
+    },
+    {
+        "team": "Vanuatu",
+        "edition": 1994,
+        "score": 0.8272114928832356
+    },
+    {
+        "team": "Afghanistan",
+        "edition": 2010,
+        "score": 0.8270279697898415
+    },
+    {
+        "team": "Grenada",
+        "edition": 2014,
+        "score": 0.8261552488013698
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2006,
+        "score": 0.82573351900301
+    },
+    {
+        "team": "Nepal",
+        "edition": 2006,
+        "score": 0.8249050282657989
+    },
+    {
+        "team": "Mauritius",
+        "edition": 2014,
+        "score": 0.8191059411545973
+    },
+    {
+        "team": "Panama",
+        "edition": 1994,
+        "score": 0.8130298697046507
+    },
+    {
+        "team": "Belize",
+        "edition": 2018,
+        "score": 0.8127827743487355
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2006,
+        "score": 0.811509689320205
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 1994,
+        "score": 0.8075719129252805
+    },
+    {
+        "team": "Tanzania",
+        "edition": 2006,
+        "score": 0.8061968722229885
+    },
+    {
+        "team": "Madagascar",
+        "edition": 2014,
+        "score": 0.8055129178633741
+    },
+    {
+        "team": "Equatorial Guinea",
+        "edition": 2002,
+        "score": 0.8037047012006617
+    },
+    {
+        "team": "Albania",
+        "edition": 1994,
+        "score": 0.8032112863547313
+    },
+    {
+        "team": "Macau",
+        "edition": 2014,
+        "score": 0.8011239548619252
+    },
+    {
+        "team": "Togo",
+        "edition": 1994,
+        "score": 0.799348627308441
+    },
+    {
+        "team": "Seychelles",
+        "edition": 1998,
+        "score": 0.7984505717090049
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 2006,
+        "score": 0.7980957565941056
+    },
+    {
+        "team": "Djibouti",
+        "edition": 2002,
+        "score": 0.7969493656035093
+    },
+    {
+        "team": "Niger",
+        "edition": 1998,
+        "score": 0.7946669304794576
+    },
+    {
+        "team": "Armenia",
+        "edition": 1998,
+        "score": 0.7943344172242967
+    },
+    {
+        "team": "Venezuela",
+        "edition": 1994,
+        "score": 0.7910358836849204
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 2010,
+        "score": 0.7905850056360774
+    },
+    {
+        "team": "Guam",
+        "edition": 2018,
+        "score": 0.7858214265627284
+    },
+    {
+        "team": "Lithuania",
+        "edition": 2018,
+        "score": 0.7813743701725251
+    },
+    {
+        "team": "Bahamas",
+        "edition": 2006,
+        "score": 0.7813688542031142
+    },
+    {
+        "team": "Moldova",
+        "edition": 2018,
+        "score": 0.7805889459467218
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 2002,
+        "score": 0.779743704581356
+    },
+    {
+        "team": "Seychelles",
+        "edition": 2014,
+        "score": 0.7787006588983609
+    },
+    {
+        "team": "Kazakhstan",
+        "edition": 2006,
+        "score": 0.7728550319949025
+    },
+    {
+        "team": "Laos",
+        "edition": 2006,
+        "score": 0.7708739210926592
+    },
+    {
+        "team": "Andorra",
+        "edition": 1998,
+        "score": 0.7704768289174947
+    },
+    {
+        "team": "Papua New Guinea",
+        "edition": 2002,
+        "score": 0.7700506608820519
+    },
+    {
+        "team": "Mauritania",
+        "edition": 2010,
+        "score": 0.7700248665973151
+    },
+    {
+        "team": "Aruba",
+        "edition": 2006,
+        "score": 0.7673089791638226
+    },
+    {
+        "team": "Sierra Leone",
+        "edition": 2010,
+        "score": 0.7664328364328964
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 1998,
+        "score": 0.7648581418841728
+    },
+    {
+        "team": "Moldova",
+        "edition": 1998,
+        "score": 0.7647233366203329
+    },
+    {
+        "team": "Mauritania",
+        "edition": 1994,
+        "score": 0.7634227531754061
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2010,
+        "score": 0.7612871547297924
+    },
+    {
+        "team": "Mauritania",
+        "edition": 2002,
+        "score": 0.7591742501175561
+    },
+    {
+        "team": "Seychelles",
+        "edition": 2006,
+        "score": 0.754687360421611
+    },
+    {
+        "team": "Niger",
+        "edition": 2006,
+        "score": 0.7540704337282641
+    },
+    {
+        "team": "Malta",
+        "edition": 2002,
+        "score": 0.7515791767676254
+    },
+    {
+        "team": "Cambodia",
+        "edition": 2002,
+        "score": 0.7484229003451363
+    },
+    {
+        "team": "Pakistan",
+        "edition": 1998,
+        "score": 0.74634363685879
+    },
+    {
+        "team": "Mauritania",
+        "edition": 2006,
+        "score": 0.7409735282561388
+    },
+    {
+        "team": "Puerto Rico",
+        "edition": 2002,
+        "score": 0.7389924540669268
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 1998,
+        "score": 0.7383888763835255
+    },
+    {
+        "team": "Malta",
+        "edition": 2010,
+        "score": 0.735848937029571
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 2002,
+        "score": 0.7323144539960426
+    },
+    {
+        "team": "Mauritius",
+        "edition": 1994,
+        "score": 0.7306428529437075
+    },
+    {
+        "team": "Belize",
+        "edition": 1998,
+        "score": 0.7284163490817245
+    },
+    {
+        "team": "Eritrea",
+        "edition": 2002,
+        "score": 0.7277816826737727
+    },
+    {
+        "team": "Azerbaijan",
+        "edition": 2002,
+        "score": 0.7220645310422903
+    },
+    {
+        "team": "Bhutan",
+        "edition": 2018,
+        "score": 0.7215793090427356
+    },
+    {
+        "team": "Cuba",
+        "edition": 2018,
+        "score": 0.718796811382257
+    },
+    {
+        "team": "Cyprus",
+        "edition": 2014,
+        "score": 0.7135645950540945
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 2010,
+        "score": 0.7125377737522585
+    },
+    {
+        "team": "Venezuela",
+        "edition": 1998,
+        "score": 0.7081597614160551
+    },
+    {
+        "team": "Mauritius",
+        "edition": 1998,
+        "score": 0.7067732034425199
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 2010,
+        "score": 0.7045674029241416
+    },
+    {
+        "team": "Maldives",
+        "edition": 1998,
+        "score": 0.6999363717719598
+    },
+    {
+        "team": "Eritrea",
+        "edition": 2006,
+        "score": 0.6955761312751381
+    },
+    {
+        "team": "Comoros",
+        "edition": 2010,
+        "score": 0.6919148982330301
+    },
+    {
+        "team": "Macau",
+        "edition": 1994,
+        "score": 0.6873642277061608
+    },
+    {
+        "team": "Indonesia",
+        "edition": 1994,
+        "score": 0.6871362856622201
+    },
+    {
+        "team": "Dominica",
+        "edition": 2014,
+        "score": 0.6866465175201265
+    },
+    {
+        "team": "Swaziland",
+        "edition": 1998,
+        "score": 0.6839452373237811
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 2014,
+        "score": 0.676674209501057
+    },
+    {
+        "team": "Liberia",
+        "edition": 2006,
+        "score": 0.6763587868296428
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 1998,
+        "score": 0.6751581199278939
+    },
+    {
+        "team": "Benin",
+        "edition": 1994,
+        "score": 0.6745028083376711
+    },
+    {
+        "team": "Central African Republic",
+        "edition": 2006,
+        "score": 0.6738627659015882
+    },
+    {
+        "team": "South Sudan",
+        "edition": 2014,
+        "score": 0.6684710713151945
+    },
+    {
+        "team": "Montserrat",
+        "edition": 2002,
+        "score": 0.6576905545368212
+    },
+    {
+        "team": "Estonia",
+        "edition": 1994,
+        "score": 0.6574800206006911
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 2018,
+        "score": 0.6520939753530185
+    },
+    {
+        "team": "Oman",
+        "edition": 1994,
+        "score": 0.6487856931115842
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 1994,
+        "score": 0.6471336321046617
+    },
+    {
+        "team": "Somalia",
+        "edition": 2010,
+        "score": 0.6421883122936455
+    },
+    {
+        "team": "Comoros",
+        "edition": 2014,
+        "score": 0.6408366752642636
+    },
+    {
+        "team": "Vietnam",
+        "edition": 1994,
+        "score": 0.6386162976750096
+    },
+    {
+        "team": "Botswana",
+        "edition": 1994,
+        "score": 0.6347587890381418
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 1998,
+        "score": 0.6318550633030244
+    },
+    {
+        "team": "Bhutan",
+        "edition": 2006,
+        "score": 0.6256991819069874
+    },
+    {
+        "team": "Djibouti",
+        "edition": 2010,
+        "score": 0.6247251009295699
+    },
+    {
+        "team": "Afghanistan",
+        "edition": 2006,
+        "score": 0.6243967600444769
+    },
+    {
+        "team": "Yemen",
+        "edition": 2014,
+        "score": 0.6235807844922036
+    },
+    {
+        "team": "Eritrea",
+        "edition": 2014,
+        "score": 0.6192282887467232
+    },
+    {
+        "team": "Mauritius",
+        "edition": 2010,
+        "score": 0.6091945189948121
+    },
+    {
+        "team": "Grenada",
+        "edition": 1994,
+        "score": 0.5991728076714308
+    },
+    {
+        "team": "Anguilla",
+        "edition": 1998,
+        "score": 0.5981544635838515
+    },
+    {
+        "team": "Bhutan",
+        "edition": 2002,
+        "score": 0.5974257379130612
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 2010,
+        "score": 0.5969208616676981
+    },
+    {
+        "team": "Faroe Islands",
+        "edition": 2014,
+        "score": 0.5962659312932378
+    },
+    {
+        "team": "Nepal",
+        "edition": 1998,
+        "score": 0.5930275693576116
+    },
+    {
+        "team": "Malta",
+        "edition": 2018,
+        "score": 0.5919366391033954
+    },
+    {
+        "team": "Andorra",
+        "edition": 2002,
+        "score": 0.5884020375589137
+    },
+    {
+        "team": "Seychelles",
+        "edition": 2002,
+        "score": 0.5823037408235232
+    },
+    {
+        "team": "American Samoa",
+        "edition": 2014,
+        "score": 0.5820762029167705
+    },
+    {
+        "team": "Bhutan",
+        "edition": 2014,
+        "score": 0.5813154535353114
+    },
+    {
+        "team": "Somalia",
+        "edition": 2006,
+        "score": 0.5793011667426231
+    },
+    {
+        "team": "Seychelles",
+        "edition": 2018,
+        "score": 0.5788418762163103
+    },
+    {
+        "team": "Laos",
+        "edition": 2002,
+        "score": 0.5758639202545487
+    },
+    {
+        "team": "Palestine",
+        "edition": 2010,
+        "score": 0.5756341444885493
+    },
+    {
+        "team": "Eritrea",
+        "edition": 2018,
+        "score": 0.5654000673636165
+    },
+    {
+        "team": "Botswana",
+        "edition": 1998,
+        "score": 0.5643520610952598
+    },
+    {
+        "team": "Swaziland",
+        "edition": 2014,
+        "score": 0.5499906064827722
+    },
+    {
+        "team": "Tonga",
+        "edition": 2018,
+        "score": 0.5499291541354029
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2002,
+        "score": 0.5496298117300449
+    },
+    {
+        "team": "Djibouti",
+        "edition": 2006,
+        "score": 0.548485013271288
+    },
+    {
+        "team": "Tahiti",
+        "edition": 2010,
+        "score": 0.5476034660007643
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 2006,
+        "score": 0.5441360776516255
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 2018,
+        "score": 0.5188058273865547
+    },
+    {
+        "team": "Pakistan",
+        "edition": 2002,
+        "score": 0.5171407851205441
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 2002,
+        "score": 0.5116900041482277
+    },
+    {
+        "team": "Mongolia",
+        "edition": 2002,
+        "score": 0.5110383911773434
+    },
+    {
+        "team": "Malta",
+        "edition": 1998,
+        "score": 0.5095273830145624
+    },
+    {
+        "team": "Luxembourg",
+        "edition": 1994,
+        "score": 0.5073672283899734
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 1998,
+        "score": 0.5049613674311093
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 2014,
+        "score": 0.5030876965933558
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2014,
+        "score": 0.4895209433161328
+    },
+    {
+        "team": "Gibraltar",
+        "edition": 2018,
+        "score": 0.48392947903674016
+    },
+    {
+        "team": "Djibouti",
+        "edition": 2014,
+        "score": 0.4778821032917166
+    },
+    {
+        "team": "Cambodia",
+        "edition": 2006,
+        "score": 0.47087080221715494
+    },
+    {
+        "team": "Philippines",
+        "edition": 2002,
+        "score": 0.4624382835440784
+    },
+    {
+        "team": "Djibouti",
+        "edition": 2018,
+        "score": 0.45616390875017354
+    },
+    {
+        "team": "Aruba",
+        "edition": 2010,
+        "score": 0.44331872743587925
+    },
+    {
+        "team": "Macau",
+        "edition": 2002,
+        "score": 0.44089238276358517
+    },
+    {
+        "team": "Aruba",
+        "edition": 1994,
+        "score": 0.43160157173051017
+    },
+    {
+        "team": "San Marino",
+        "edition": 2006,
+        "score": 0.4310688884521037
+    },
+    {
+        "team": "Namibia",
+        "edition": 1994,
+        "score": 0.4291221732985618
+    },
+    {
+        "team": "Cambodia",
+        "edition": 1998,
+        "score": 0.4174825093605351
+    },
+    {
+        "team": "Anguilla",
+        "edition": 2010,
+        "score": 0.4077163165158732
+    },
+    {
+        "team": "Andorra",
+        "edition": 2010,
+        "score": 0.37659599096330304
+    },
+    {
+        "team": "Libya",
+        "edition": 1994,
+        "score": 0.37323908110977616
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 1998,
+        "score": 0.34804870159678875
+    },
+    {
+        "team": "Nicaragua",
+        "edition": 2002,
+        "score": 0.3395070993963151
+    },
+    {
+        "team": "Cook Islands",
+        "edition": 2006,
+        "score": 0.33881975241504414
+    },
+    {
+        "team": "Dominican Republic",
+        "edition": 2010,
+        "score": 0.33785387160463615
+    },
+    {
+        "team": "Andorra",
+        "edition": 2006,
+        "score": 0.32670823388158715
+    },
+    {
+        "team": "American Samoa",
+        "edition": 2006,
+        "score": 0.3241980918539772
+    },
+    {
+        "team": "American Samoa",
+        "edition": 2010,
+        "score": 0.32311719559901814
+    },
+    {
+        "team": "Andorra",
+        "edition": 2018,
+        "score": 0.31857549645786765
+    },
+    {
+        "team": "San Marino",
+        "edition": 2002,
+        "score": 0.31246464199619184
+    },
+    {
+        "team": "Somalia",
+        "edition": 2014,
+        "score": 0.2856587240774276
+    },
+    {
+        "team": "Anguilla",
+        "edition": 2014,
+        "score": 0.28444147720597335
+    },
+    {
+        "team": "American Samoa",
+        "edition": 2002,
+        "score": 0.27031876374807784
+    },
+    {
+        "team": "San Marino",
+        "edition": 1994,
+        "score": 0.2671018745442573
+    },
+    {
+        "team": "Chad",
+        "edition": 1994,
+        "score": 0.26076142677472247
+    },
+    {
+        "team": "San Marino",
+        "edition": 2010,
+        "score": 0.23439781256568828
+    },
+    {
+        "team": "San Marino",
+        "edition": 2014,
+        "score": 0.23316356152333725
+    },
+    {
+        "team": "San Marino",
+        "edition": 2018,
+        "score": 0.22357140201806935
+    },
+    {
+        "team": "Pakistan",
+        "edition": 1994,
+        "score": 0.2162928791462071
+    },
+    {
+        "team": "Somalia",
+        "edition": 2002,
+        "score": 0.20381002676598325
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 2002,
+        "score": 0.1910757962891525
+    },
+    {
+        "team": "Guam",
+        "edition": 2006,
+        "score": 0.1754538728805517
+    },
+    {
+        "team": "Andorra",
+        "edition": 2014,
+        "score": 0.17337415429354003
+    },
+    {
+        "team": "Philippines",
+        "edition": 1998,
+        "score": 0.1562415260180302
+    },
+    {
+        "team": "San Marino",
+        "edition": 1998,
+        "score": 0.12695751973021766
+    },
+    {
+        "team": "Bahamas",
+        "edition": 2018,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Guam",
+        "edition": 1998,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Anguilla",
+        "edition": 2006,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Somalia",
+        "edition": 1998,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Belize",
+        "edition": 2006,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Niger",
+        "edition": 2002,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2014,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "British Virgin Islands",
+        "edition": 2018,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Liechtenstein",
+        "edition": 1994,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Somalia",
+        "edition": 2018,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Sri Lanka",
+        "edition": 1994,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "edition": 2006,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Anguilla",
+        "edition": 2018,
+        "score": 0.04642130140180605
+    },
+    {
+        "team": "Cayman Islands",
+        "edition": 2018,
+        "score": 0.04642130140180605
     }
 ]

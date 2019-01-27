@@ -2,7 +2,7 @@ var ALL_EDITIONS = [ 1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974,
 var EDITIONS_WITH_RANK = [ 1994, 1998, 2002, 2006, 2010, 2014, 2018 ];
 
 function getPredictionRank(team, predictions) {
-    return _.findIndex(predictions, {'team': team});
+    return _.findIndex(predictions, {'team': team}) + 1;
 }
 
 function fillPredictionsTables(predictions, edition) {
